@@ -64,6 +64,18 @@ div#main-content{
     line-height: 20px;
     color: #000000;
 }
+.login__area-right div h2{
+    margin-top: 0;
+}
+.login__area-right div h2,
+.login__area-right div p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+}
 .login__area-right p:last-child a{
     text-decoration: none!important;
 }
