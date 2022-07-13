@@ -44,6 +44,11 @@ div#main-content{
     letter-spacing: 0.05rems;
 }
 .login__area-right{
-    padding-left:64px!important;
+    display: flex;
+    height: 100%;
+    min-height: 760px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
 }
 /*** Login Area Start ***/
