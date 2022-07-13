@@ -162,6 +162,39 @@ div#main-content{
 
 
 
+/* Medium Laptop Media Query */
+@media (min-width: 768px) and (max-width:991px) {
+
+    /* Login Area Start */
+    .login__area{
+        padding-top: 72px!important;
+        background-size: 100% 50%;
+        background-position: top center;
+    }
+    .login__area-left h3{
+        margin-top: 0!important;
+    }
+    .login__area-left,
+    .login__area-right{
+        min-height:400px;
+    }
+
+    .login__area-right{
+        padding-top: 136px!important;
+        padding-left: 0!important;
+    }
+    .login__area-right div{
+        width: 100%;
+    }
+    .login__area-right div h2 {
+        margin-bottom: 24px;
+    }
+    .login__area-right div p.text-muted {
+        margin-bottom: 32px!important;
+    }
+    /* Login Area End */
+
+}
 
 
 /* Medium Laptop Media Query */
@@ -197,10 +230,6 @@ div#main-content{
     /* Login Area End */
 
 }
-
-
-
-
 
 /*Extra Large Device Media Query*/
 @media (min-width: 1200px) and (max-width:1399px){
