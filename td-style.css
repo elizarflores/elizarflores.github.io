@@ -173,6 +173,7 @@ div#main-content{
     }
     .login__area-left h3{
         margin-top: 0!important;
+        max-width: 72%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -208,6 +209,7 @@ div#main-content{
     }
     .login__area-left h3{
         margin-top: 0!important;
+        max-width: 60%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -247,9 +249,6 @@ div#main-content{
     }
     /* Login Area End */
 }
-
-
-
 
 /*Extra Large Device Media Query*/
 @media (min-width: 1400px) and (max-width:1599px){
