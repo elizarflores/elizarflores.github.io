@@ -188,9 +188,11 @@ div#main-content{
     .login__area-right div{
         width: 100%;
     }
-
+    .login__area-right div h2 {
+        margin-bottom: 24px;
+    }
     .login__area-right div p.text-muted {
-        margin-bottom: 48px!important;
+        margin-bottom: 32px!important;
     }
     /* Login Area End */
 
