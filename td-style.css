@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+/*
+font-family: 'Inter', sans-serif;
+*/
 div#main-content{
     margin-top: 0!important;
 }
@@ -17,4 +21,12 @@ div#main-content{
     flex-direction: column;
     justify-content: space-between;
     align-items: start;
+}
+.login__area-left h3{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
 }
