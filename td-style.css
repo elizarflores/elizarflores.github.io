@@ -64,4 +64,7 @@ div#main-content{
     line-height: 20px;
     color: #000000;
 }
+.login__area-right p:last-child a{
+    text-decoration: none!important;
+}
 /*** Login Area Start ***/
