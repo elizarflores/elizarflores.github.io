@@ -178,7 +178,7 @@ div#main-content{
     }
 
     .login__area-right{
-        padding-top: 136px!important;
+        padding-top: 128px!important;
         padding-left: 0!important;
     }
     .login__area-right div{
@@ -189,6 +189,9 @@ div#main-content{
     }
     .login__area-right div p.text-muted {
         margin-bottom: 32px!important;
+    }
+    .login__area-right div form .form-group {
+        margin-bottom: 24px!important;
     }
     /* Login Area End */
 
