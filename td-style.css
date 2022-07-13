@@ -145,3 +145,41 @@ div#main-content{
     text-decoration: none!important;
 }
 /*** Login Area Start ***/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Large Device Media Query*/
+@media (min-width: 1400px) and (max-width:1599px){
+    /* Login Area Start */
+    .login__area{
+        padding-top: 104px!important;
+    }
+    .login__area-left,
+    .login__area-right{
+        height:100%;
+        min-height:600px;
+    }
+    /* Login Area End */
+}
