@@ -13,7 +13,8 @@ div#main-content{
     margin-top: 0!important;
 }
 .login__area{
-    height:100vh;
+    height:100%;
+    min-height: 100vh;
     padding-top: 124px!important;
     padding-bottom: 60px!important;
     background: linear-gradient(to top, #00000061,#00000061), url(https://i.ibb.co/PYZwyGz/Image-Background.png);
