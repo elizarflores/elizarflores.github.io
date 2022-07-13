@@ -107,7 +107,20 @@ div#main-content{
 .login__area-right div form .form-group{
     margin-bottom: 32px!important;
 }
-
+.login__area-right div form button{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    background: #000000;
+    border: 1px solid #000000;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 13px 0;
+}
 .login__area-right p:last-child a{
     text-decoration: none!important;
 }
