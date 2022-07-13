@@ -10,3 +10,10 @@ div#main-content{
     background-size: 50% 100%;
     background-position: left center;
 }
+.login__area-left{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
