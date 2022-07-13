@@ -77,7 +77,7 @@ div#main-content{
     line-height: 28px;
     color: #000000;
 }
-.login__area-right div p::first-child{
+.login__area-right div p.text-muted{
     margin-bottom: 96px!important;
     font-size: 19px;
     font-weight:500;
