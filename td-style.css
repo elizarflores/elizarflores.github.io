@@ -165,7 +165,7 @@ div#main-content{
 
 
 /* Medium Laptop Media Query */
-@media (min-width: 992px) and (max-width:119px) {
+@media (min-width: 992px) and (max-width:1119px) {
 
     /* Login Area Start */
     .login__area{
