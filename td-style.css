@@ -77,11 +77,12 @@ div#main-content{
     line-height: 28px;
     color: #000000;
 }
-.login__area-right div p{
+.login__area-right div p::first-child{
     margin-bottom: 96px!important;
     font-size: 19px;
     font-weight:500;
 }
+
 
 .login__area-right div form .form-group label{
     font-family: 'Inter',sans-serif!important;
@@ -123,6 +124,15 @@ div#main-content{
     border-radius: 0;
     box-shadow: none;
     padding: 13px 0;
+}
+.login__area-right div p::last-child{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #000000;
 }
 .login__area-right p:last-child a{
     text-decoration: none!important;
