@@ -165,12 +165,12 @@ div#main-content{
     /* Login Area Start */
     .login__area{
         padding-top: 72px!important;
-        background-size: 100% 50%;
+        background-size: 100% 46%;
         background-position: top center;
     }
     .login__area-left h3{
         margin-top: 0!important;
-        max-width: 72%!important;
+        font-size: 30%;
     }
     .login__area-left,
     .login__area-right{
