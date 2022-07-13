@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 /*
 font-family: 'Inter', sans-serif;
 */
@@ -48,7 +48,7 @@ div#main-content{
     letter-spacing: 0.05rems;
 }
 .login__area-right{
-    padding-left:64px!important;
+    padding-left:48px!important;
     display: flex;
     height: 100%;
     min-height: 760px;
@@ -66,15 +66,21 @@ div#main-content{
 }
 .login__area-right div h2{
     margin-top: 0;
+    margin-bottom: 32px;
+    font-size: 28px;
+    font-weight:600;
 }
 .login__area-right div h2,
 .login__area-right div p{
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
     line-height: 28px;
     color: #000000;
+}
+.login__area-right div p{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight:500;
 }
 .login__area-right p:last-child a{
     text-decoration: none!important;
