@@ -2,6 +2,9 @@
 /*
 font-family: 'Inter', sans-serif;
 */
+
+/*** Login Area Start ***/
+
 div#main-content{
     margin-top: 0!important;
 }
@@ -38,3 +41,7 @@ div#main-content{
     line-height: 20px;
     color: #FFFFFF;
 }
+.login__area-right{
+    padding-left:64px!important;
+}
+/*** Login Area Start ***/
