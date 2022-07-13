@@ -56,4 +56,12 @@ div#main-content{
     justify-content: space-between;
     align-items: start;
 }
+.login__area-right p:last-child{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
 /*** Login Area Start ***/
