@@ -47,7 +47,7 @@ div#main-content{
     font-size: 10px;
     line-height: 20px;
     color: #FFFFFF;
-    letter-spacing: 0.05rems;
+    letter-spacing: 0.05rem;
 }
 .login__area-right{
     padding-left:48px!important;
@@ -170,7 +170,25 @@ div#main-content{
 
 
 
-/*Large Device Media Query*/
+
+/*Extra Large Device Media Query*/
+@media (min-width: 1200px) and (max-width:1399px){
+    /* Login Area Start */
+    .login__area{
+        padding-top: 96px!important;
+    }
+    .login__area-left,
+    .login__area-right{
+        height:100%;
+        min-height:600px;
+    }
+    /* Login Area End */
+}
+
+
+
+
+/*Extra Large Device Media Query*/
 @media (min-width: 1400px) and (max-width:1599px){
     /* Login Area Start */
     .login__area{
