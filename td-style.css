@@ -3,7 +3,10 @@ div#main-content{
 }
 .login__area{
     height:100vh;
-    padding-top: 124!important;
+    padding-top: 124px!important;
     padding-bottom: 60px!important;
-    background:url('https://i.ibb.co/PYZwyGz/Image-Background.png');
+    background: url(https://i.ibb.co/PYZwyGz/Image-Background.png);
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-position: left center;
 }
