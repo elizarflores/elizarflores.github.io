@@ -164,8 +164,17 @@ div#main-content{
 
 
 
+/* Medium Laptop Media Query */
+@media (min-width: 992px) and (max-width:119px) {
 
+    /* Login Area Start */
+    .login__area{
+        background-size: 100% 50%;
+        background-position: top center;
+    }
+    /* Login Area End */
 
+}
 
 
 
