@@ -175,12 +175,15 @@ div#main-content{
 @media (min-width: 1200px) and (max-width:1399px){
     /* Login Area Start */
     .login__area{
-        padding-top: 96px!important;
+        padding-top: 80px!important;
     }
     .login__area-left,
     .login__area-right{
         height:100%;
-        min-height:600px;
+        min-height:560px;
+    }
+    .login__area-right div p.text-muted{
+        margin-bottom: 64px!important;
     }
     /* Login Area End */
 }
