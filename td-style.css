@@ -165,12 +165,29 @@ div#main-content{
 
 
 /* Medium Laptop Media Query */
-@media (min-width: 992px) and (max-width:1119px) {
+@media (min-width: 992px) and (max-width:1199px) {
 
     /* Login Area Start */
     .login__area{
+        padding-top: 72px!important;
         background-size: 100% 50%;
         background-position: top center;
+    }
+    .login__area-left h3{
+        margin-top: 0!important;
+    }
+    .login__area-left,
+    .login__area-right{
+        min-height:400px;
+    }
+
+    .login__area-right{
+        padding-top: 48px!important;
+        padding-left: 0!important;
+    }
+
+    .login__area-right div p.text-muted {
+        margin-bottom: 48px!important;
     }
     /* Login Area End */
 
