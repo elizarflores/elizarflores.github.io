@@ -32,14 +32,16 @@ div#main-content{
     font-size: 40px;
     line-height: 48px;
     color: #FFFFFF;
+    margin: 0;
 }
 .login__area-left p{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 9px;
+    font-size: 10px;
     line-height: 20px;
     color: #FFFFFF;
+    letter-spacing: 0.05rems;
 }
 .login__area-right{
     padding-left:64px!important;
