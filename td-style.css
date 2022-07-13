@@ -125,7 +125,7 @@ div#main-content{
     box-shadow: none;
     padding: 13px 0;
 }
-.login__area-right div p.padding-20-0 a{
+.login__area-right div form p.padding-20-0 a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
