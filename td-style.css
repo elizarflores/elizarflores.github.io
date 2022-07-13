@@ -37,6 +37,7 @@ div#main-content{
     line-height: 48px;
     color: #FFFFFF;
     margin: 0;
+    margin-top: -144px !important;
 }
 .login__area-left p{
     font-family: 'Inter',sans-serif!important;
