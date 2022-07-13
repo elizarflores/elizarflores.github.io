@@ -182,8 +182,11 @@ div#main-content{
     }
 
     .login__area-right{
-        padding-top: 48px!important;
+        padding-top: 136px!important;
         padding-left: 0!important;
+    }
+    .login__area-right div{
+        width: 100%;
     }
 
     .login__area-right div p.text-muted {
