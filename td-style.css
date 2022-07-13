@@ -135,6 +135,11 @@ div#main-content{
     text-decoration-line: underline!important;
     color: #000000;
 }
+.login__area-right div form span.text-danger{
+    font-size: 14px;
+    margin-bottom: 9px;
+    display: inline-block;
+}
 .login__area-right p:last-child a{
     text-decoration: none!important;
 }
