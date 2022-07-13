@@ -1,9 +1,9 @@
-div#breadcrumb{
-    margin: 0!important;
-}
 div#main-content{
     margin-top: 0!important;
 }
 .login__area{
     height:100vh;
+    padding-top: 124!important;
+    padding-bottom: 60px!important;
+    background:url('https://i.ibb.co/PYZwyGz/Image-Background.png');
 }
