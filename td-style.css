@@ -332,8 +332,13 @@ div#main-content{
     box-shadow: none;
     border-radius: 0;
     border: none;
-    
+    width: 48px;
+    text-align: left;
 }
+#product-filters button.btn i{
+    font-size:18px!important;
+}
+
 
 #main-column.col-md-12{
     padding: 0 !important;
