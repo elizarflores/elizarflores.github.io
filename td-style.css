@@ -271,6 +271,9 @@ div#main-content{
 .main-header nav.navbar{
     margin-bottom: 0!important;
 }
+.main-header nav.navbar .navbar-header  .navbar-brand{
+    padding: 10px 15px !important;
+}
 .main-header nav.navbar .navbar-header  .navbar-brand img{
     display: block;
     max-width: 100%;
