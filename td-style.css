@@ -267,6 +267,22 @@ div#main-content{
 }
 /* Main Menu Area End */
 
+/* Main  Header Area Start */
+.main-header nav.navbar{
+    margin-bottom: 0!important;
+}
+.main-header nav.navbar .navbar-header  .navbar-brand img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#bespokeNav{
+    display: flex!important;
+    align-items:center!important;
+    justify-content: flex-end!important;
+}
+/* Main  Header Area End */
+
 
 
 
