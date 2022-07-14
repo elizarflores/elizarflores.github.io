@@ -508,6 +508,7 @@ div#main-content{
     }
     #product-filters{
         width: 100%;
+        padding: 0!important;
     }
     /* Main Header Area End*/
 
