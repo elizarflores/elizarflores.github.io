@@ -243,8 +243,8 @@ div#main-content{
     /* Login Area End */
 
     /* Main Menu Area Start */
-    #main-menu .navbar{
-        min-height:44px!important;
+    #main-menu.navbar{
+        min-height:46px!important;
     }
     #main-menu .nav.navbar-nav{
         margin-top: 0!important;
