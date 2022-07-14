@@ -493,6 +493,8 @@ div#main-content{
     .main-header nav.navbar .navbar-header  .navbar-brand{
         display:flex;
         align-items: center;
+        width:100%;
+        height:100%;
     }
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
