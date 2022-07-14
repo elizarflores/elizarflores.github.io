@@ -206,14 +206,18 @@ div#main-content{
     align-items: center;
     margin-top: 3px;
 }
-
+#main-menu .nav.navbar-nav li:first-child .dropdown-menu{
+    width: 188px!important;
+    left: -40px!important;
+}
 #main-menu .nav.navbar-nav li:first-child .dropdown-menu li a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 9px;
+    font-size: 11px;
     line-height: 20px;
     letter-spacing: 0.09em;
+    background: #fff!important;
     color: #000000;
 }
 
