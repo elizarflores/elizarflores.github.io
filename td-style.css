@@ -251,6 +251,20 @@ div#main-content{
     padding: 10px 20px;
     text-align: center;
 }
+#cart-summary-preview li table.table.table-bordered.total tbody tr td.text-right{
+    text-align:left!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: right;
+    text-transform: uppercase;
+    color: #000000;
+}
+#cart-summary-preview li table.table.table-bordered.total tbody tr td:last-child{
+    display:none!important;
+}
 /* Main Menu Area End */
 
 
