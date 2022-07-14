@@ -164,6 +164,7 @@ div#main-content{
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #FFFFFF;
+    transition: all 0.3s ease-in-out;
 }
 #main-menu .nav.navbar-nav li #cart{
     padding-bottom: 3px;
