@@ -296,9 +296,7 @@ div#main-content{
     height: auto;
 }
 #bespokeNav{
-    display: flex!important;
-    align-items:center!important;
-    justify-content: flex-end!important;
+    float: right !important;
     padding-right: 0!important;
 }
 
