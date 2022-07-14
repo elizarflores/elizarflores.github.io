@@ -167,7 +167,6 @@ div#main-content{
     transition: all 0.3s ease-in-out;
 }
 #main-menu .nav.navbar-nav li #cart{
-    margin-bottom: 3px;
     cursor: pointer;
     padding: 15px;
     transition: all 0.3s ease-in;
@@ -178,6 +177,8 @@ div#main-content{
 
 #main-menu .nav.navbar-nav li #cart a{
     text-decoration: none !important;
+    margin-bottom: 3px;
+    display: inline-block;
 }
 
 #main-menu .nav.navbar-nav li #cart a span{
