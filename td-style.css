@@ -167,7 +167,7 @@ div#main-content{
     transition: all 0.3s ease-in-out;
 }
 #main-menu .nav.navbar-nav li #cart{
-    padding-bottom: 3px;
+    margin-bottom: 3px;
     cursor: pointer;
     padding: 15px;
     transition: all 0.3s ease-in;
@@ -242,9 +242,15 @@ div#main-content{
     /* Login Area End */
 
     /* Main Menu Area Start */
+    #main-menu .navbar{
+        min-height:44px!important;
+    }
     #main-menu .nav.navbar-nav{
         margin-top: 0!important;
         margin-bottom:0!important;
+    }
+    #main-menu .nav.navbar-nav li #cart{
+        padding: 10px 15px !important;
     }
     /* Main Menu Area End */
 
