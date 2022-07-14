@@ -376,6 +376,12 @@ div#main-content{
     }
     /* Login Area End */
 
+    /* Main Menu Area Start*/
+    #cart-summary-preview{
+        right: -24px!important;
+    }
+    /* Main Menu Area End*/
+
 }
 
 
