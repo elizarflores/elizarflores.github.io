@@ -296,6 +296,8 @@ div#main-content{
 }
 .main-header nav.navbar .container::before,
 .main-header nav.navbar .container::after,
+.main-header nav.navbar .container #bespokeNav::before,
+.main-header nav.navbar .container #bespokeNav::after,
 .main-header nav.navbar .container .navbar-header::before,
 .main-header nav.navbar .container .navbar-header::after{
     content:none!important;
