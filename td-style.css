@@ -505,19 +505,26 @@ div#main-content{
     /* Main Menu Area End*/
 
     /* Main  Header Area Start */
-    #product-filters{
-        width:256px;
-    }
-    #bespokeNav ul li{
-        margin-right: 16px;
-    }
-    #bespokeNav ul li a{
-        font-size:10px;
-    }
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
         max-width: 144px;
     }
+    #product-filters{
+        width:256px;
+    }
+    #product-filters .input-group input {
+        padding:10px 20px!important;
+    }
+    #product-filters .input-group input::placeholder {
+        color: #000000!important;
+    }
+    #bespokeNav ul li{
+        margin-right: 20px;
+    }
+    #bespokeNav ul li a{
+        font-size:10px;
+    }
+    
     /* Main  Header Area End */
 
 }
