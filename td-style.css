@@ -294,6 +294,10 @@ div#main-content{
     align-items: center;
     justify-content:space-between;
 }
+.main-header nav.navbar .container .navbar-header::before{
+    content:none!important;
+    display: none!important;
+}
 
 .main-header nav.navbar .navbar-header  .navbar-brand{
     padding: 10px 15px !important;
