@@ -377,7 +377,7 @@ div#main-content{
 
 #footer-area{
     margin-top: 0!important;
-    padding: 32px 0;
+    padding: 24px 0;
 }
 #footer-area .col-lg-12{
     font-family: 'Inter',sans-serif!important;
@@ -546,6 +546,12 @@ div#main-content{
     }
     /* Main Menu Area End*/
 
+    /* Main  Header Area End */
+    #product-filters{
+        width:336px;
+    }
+    /* Main  Header Area End */
+
 }
 
 /*Extra Large Device Media Query*/
@@ -569,6 +575,12 @@ div#main-content{
         right: -24px!important;
     }
     /* Main Menu Area End*/
+
+    /* Main  Header Area Start */
+    .main-header {
+        padding: 24px 0!important;
+    }
+    /* Main  Header Area End */
 }
 
 /*Extra Large Device Media Query*/
