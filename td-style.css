@@ -334,6 +334,10 @@ div#main-content{
     #main-menu .nav.navbar-nav li:first-child .dropdown-menu{
         position: absolute!important;
     }
+    #cart-summary-preview{
+        position: absolute;
+        right: -60px !important;
+    }
     /* Main Menu Area End */
 
 }
