@@ -304,6 +304,7 @@ div#main-content{
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #000000;
+    text-transform: uppercase;
 }
 #bespokeNav ul li a:hover{
     background: #ffffff!important;
