@@ -288,9 +288,9 @@ div#main-content{
 #product-filters{
     padding-right: 0!important;
     display:flex;
-    width:576px;
+    width:512px;
 }
-#product-filters .input-group input{
+#product-filters .input-group {
     width: 100%;
 }
 #bespokeNav ul li{
