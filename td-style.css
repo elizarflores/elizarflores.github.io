@@ -270,6 +270,19 @@ div#main-content{
 /* Main  Header Area Start */
 .main-header {
     padding:32px 0!important;
+    position: relative;
+}
+.main-header::after {
+    content: "";
+    width: 100%;
+    max-width: 1147px;
+    height: 1px;
+    background: #d9d9d9;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .main-header nav.navbar{
     margin-bottom: 0!important;
