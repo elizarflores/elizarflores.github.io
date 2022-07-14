@@ -219,11 +219,32 @@ div#main-content{
     letter-spacing: 0.09em;
     background: #fff!important;
     color: #000000;
+    transition: all 0.3s ease-in;
 }
 #main-menu .nav.navbar-nav li:first-child .dropdown-menu li a:hover{
     color: #000!important;
+    text-decoration: underline!important;
 }
-
+#cart-summary-preview{
+    margin-top: 0!important;
+}
+#cart-summary-preview li p.btn-block1{
+    padding: 0!important;
+}
+#cart-summary-preview li p.btn-block1 a{
+    margin: 0!important;
+    width: 100%;
+    border-radius: 0!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 24px;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    text-align: center;
+}
 /* Main Menu Area End */
 
 
