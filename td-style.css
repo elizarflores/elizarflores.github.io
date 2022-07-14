@@ -146,7 +146,9 @@ div#main-content{
 }
 
 /*** Login Area End ***/
-
+#main-menu{
+    background-color: #000000!important;
+}
 #main-menu .nav.navbar-nav{
     display: flex;
     align-items:center;
@@ -160,17 +162,22 @@ div#main-content{
     letter-spacing: 0.09em;
     color: #FFFFFF;
 }
+#main-menu .nav.navbar-nav li #cart{
+    padding-bottom: 3px;
+}
 #main-menu .nav.navbar-nav li #cart a span{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
-    font-size: 9px!important;
+    font-size: 10px!important;
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #FFFFFF;
 }
 
-
+#main-menu .nav.navbar-nav li #cart a span#cart-counter{
+    color: #969696!important;
+}
 
 
 
