@@ -302,6 +302,9 @@ div#main-content{
     letter-spacing: 0.09em;
     color: #000000;
 }
+#bespokeNav ul li a:hover{
+    background: #ffffff!important;
+}
 
 
 #main-column.col-md-12{
