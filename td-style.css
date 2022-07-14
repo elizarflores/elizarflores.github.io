@@ -418,6 +418,12 @@ div#main-content{
     }
     /* Login Area End */
 
+    /* Main Menu Area Start*/
+    #cart-summary-preview{
+        right: -40px!important;
+    }
+    /* Main Menu Area End*/
+
 }
 
 /*Extra Large Device Media Query*/
