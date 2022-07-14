@@ -268,6 +268,9 @@ div#main-content{
 /* Main Menu Area End */
 
 /* Main  Header Area Start */
+.main-header {
+    padding:32px 0!important;
+}
 .main-header nav.navbar{
     margin-bottom: 0!important;
 }
