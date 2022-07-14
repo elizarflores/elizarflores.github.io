@@ -256,9 +256,8 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 24px!important;
     line-height: 16px;
-    text-align: right;
     text-transform: uppercase;
     color: #000000;
 }
