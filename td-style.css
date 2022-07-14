@@ -284,9 +284,17 @@ div#main-content{
     left: 50%;
     transform: translateX(-50%);
 }
+
 .main-header nav.navbar{
     margin-bottom: 0!important;
 }
+
+.main-header nav.navbar .container{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
 .main-header nav.navbar .navbar-header  .navbar-brand{
     padding: 10px 15px !important;
     width:100%;
