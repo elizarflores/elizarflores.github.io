@@ -146,6 +146,9 @@ div#main-content{
 }
 
 /*** Login Area End ***/
+
+/* Main Menu Area Start */
+
 #main-menu{
     background-color: #000000!important;
 }
@@ -168,9 +171,14 @@ div#main-content{
     padding: 15px;
     transition: all 0.3s ease-in;
 }
-#main-menu .nav.navbar-nav li #cart{
+#main-menu .nav.navbar-nav li #cart:hover{
     background: #0D0D11!important;
 }
+
+#main-menu .nav.navbar-nav li #cart a{
+    text-decoration: none !important;
+}
+
 #main-menu .nav.navbar-nav li #cart a span{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -185,7 +193,7 @@ div#main-content{
     color: #969696!important;
 }
 
-
+/* Main Menu Area End */
 
 
 
