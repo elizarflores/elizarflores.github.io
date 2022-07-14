@@ -441,6 +441,12 @@ div#main-content{
         margin-bottom: 64px!important;
     }
     /* Login Area End */
+
+    /* Main Menu Area Start*/
+    #cart-summary-preview{
+        right: -24px!important;
+    }
+    /* Main Menu Area End*/
 }
 
 /*Extra Large Device Media Query*/
@@ -455,4 +461,10 @@ div#main-content{
         min-height:600px;
     }
     /* Login Area End */
+
+    /* Main Menu Area Start*/
+    #cart-summary-preview{
+        right: -24px!important;
+    }
+    /* Main Menu Area End*/
 }
