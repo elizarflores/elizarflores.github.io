@@ -293,6 +293,9 @@ div#main-content{
 #product-filters .input-group input{
     width: 100%;
 }
+#bespokeNav ul li{
+    margin-right: 28px;
+}
 #bespokeNav ul li a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
