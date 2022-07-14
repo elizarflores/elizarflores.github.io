@@ -144,7 +144,14 @@ div#main-content{
 .login__area-right p:last-child a{
     text-decoration: none!important;
 }
-/*** Login Area Start ***/
+
+/*** Login Area End ***/
+
+#main-menu .nav.navbar-nav{
+    display: flex;
+    align-items:center;
+}
+
 
 
 
