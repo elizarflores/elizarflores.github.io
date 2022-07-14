@@ -504,6 +504,12 @@ div#main-content{
     }
     /* Main Menu Area End*/
 
+    /* Main  Header Area Start */
+    #product-filters{
+        width:256px;
+    }
+    /* Main  Header Area End */
+
 }
 
 
