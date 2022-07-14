@@ -308,7 +308,12 @@ div#main-content{
 #bespokeNav ul li a:hover{
     background: #ffffff!important;
 }
-
+#product-filters button.btn{
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    border: none;
+}
 
 #main-column.col-md-12{
     padding: 0 !important;
