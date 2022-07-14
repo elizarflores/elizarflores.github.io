@@ -547,6 +547,9 @@ div#main-content{
     /* Main Menu Area End*/
 
     /* Main  Header Area End */
+    .main-header{
+        padding: 24px 0!important;
+    }
     #product-filters{
         width:336px;
     }
