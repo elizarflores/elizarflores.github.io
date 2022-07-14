@@ -505,6 +505,12 @@ div#main-content{
     /* Main Menu Area End*/
 
     /* Main  Header Area Start */
+
+    .main-header nav.navbar .navbar-header  .navbar-brand{
+        display:flex;
+        align-items: center;
+    }
+
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
         max-width: 144px;
@@ -519,7 +525,7 @@ div#main-content{
         color: #000000!important;
     }
     #bespokeNav ul li{
-        margin-right: 20px;
+        margin-right: 24px;
     }
     #bespokeNav ul li a{
         font-size:10px;
