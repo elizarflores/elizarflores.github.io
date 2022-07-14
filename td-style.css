@@ -294,7 +294,8 @@ div#main-content{
     align-items: center;
     justify-content:space-between;
 }
-.main-header nav.navbar .container .navbar-header::before{
+.main-header nav.navbar .container .navbar-header::before,
+.main-header nav.navbar .container .navbar-header::after{
     content:none!important;
     display: none!important;
 }
