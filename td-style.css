@@ -194,7 +194,15 @@ div#main-content{
 #main-menu .nav.navbar-nav li #cart a span#cart-counter{
     color: #969696!important;
 }
-
+#main-menu .navbar-cat-collapse .navbar-brand{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
 /* Main Menu Area End */
 
 
