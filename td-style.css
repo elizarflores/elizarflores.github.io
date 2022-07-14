@@ -353,6 +353,33 @@ div#main-content{
     font-size:18px!important;
 }
 
+.navbar-default .navbar-toggle:hover {
+    background-color: #ddd;
+}
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+.navbar-toggle{
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-right: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
 /* Main  Header Area End */
 
 
@@ -460,6 +487,13 @@ div#main-content{
     }
     /* Main Menu Area End */
 
+    /* Main Header Area Start*/
+    .main-header nav.navbar .navbar-header  .navbar-brand img{
+        width: 100%;
+        max-width: 144px;
+    }
+    /* Main Header Area End*/
+
 }
 
 
@@ -513,6 +547,7 @@ div#main-content{
         width: 100%;
         max-width: 144px;
     }
+
     #product-filters{
         width:256px;
     }
