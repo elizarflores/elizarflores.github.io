@@ -498,6 +498,9 @@ div#main-content{
         width: 100%;
         max-width: 144px;
     }
+    #product-filters{
+        width: 100%;
+    }
     /* Main Header Area End*/
 
 }
