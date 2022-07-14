@@ -264,7 +264,7 @@ div#main-content{
     #main-menu .nav.navbar-nav li #cart{
         padding: 10px 15px !important;
     }
-    #main-menu .nav.navbar-nav li:first-child{
+    #main-menu .nav.navbar-nav li:first-child .dropdown-menu{
         position: absolute!important;
     }
     /* Main Menu Area End */
