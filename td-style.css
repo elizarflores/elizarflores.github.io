@@ -252,12 +252,12 @@ div#main-content{
     text-align: center;
 }
 #cart-summary-preview li table.table.table-bordered.total tbody tr td.text-right{
-    text-align:left!important;
+    text-align:center!important;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 15px;
+    font-size: 24px;
+    line-height: 16px;
     text-align: right;
     text-transform: uppercase;
     color: #000000;
