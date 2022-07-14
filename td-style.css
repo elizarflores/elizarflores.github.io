@@ -509,10 +509,27 @@ div#main-content{
     .main-header{
         padding:20px 0!important;
     }
+
+    .main-header nav.navbar .container{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
     .main-header nav.navbar .navbar-header  .navbar-brand{
         display:flex;
         align-items: center;
+        max-width:144px !important;
     }
+    .main-header nav.navbar .container .navbar-header{
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .main-header nav.navbar .container .navbar-header button{
+        margin-top: 14px;
+        margin-right: 0;
+    }
+
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
         max-width: 144px;
