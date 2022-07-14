@@ -293,7 +293,15 @@ div#main-content{
 #product-filters .input-group input{
     width: 100%;
 }
-
+#bespokeNav ul li a{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #000000;
+}
 
 
 #main-column.col-md-12{
