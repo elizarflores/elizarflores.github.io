@@ -285,14 +285,7 @@ div#main-content{
     justify-content: flex-end!important;
     padding-right: 0!important;
 }
-#product-filters{
-    padding-right: 0!important;
-    display:flex;
-    width:512px;
-}
-#product-filters .input-group {
-    width: 100%;
-}
+
 #bespokeNav ul li{
     margin-right: 28px;
 }
@@ -309,11 +302,24 @@ div#main-content{
 #bespokeNav ul li a:hover{
     background: #ffffff!important;
 }
+#product-filters{
+    padding-right: 0!important;
+    display:flex;
+    width:512px;
+}
+#product-filters .input-group {
+    width: 100%;
+}
+#product-filters .input-group input {
+    padding: 12px 20px;
+    height: auto;
+}
 #product-filters button.btn{
     background: transparent;
     box-shadow: none;
     border-radius: 0;
     border: none;
+    
 }
 
 #main-column.col-md-12{
