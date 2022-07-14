@@ -355,11 +355,18 @@ div#main-content{
     font-size:18px!important;
 }
 
+/* Main  Header Area End */
+
+
+/* Banner Area Start */
 
 #main-column.col-md-12{
     padding: 0 !important;
 }
-/* Main  Header Area End */
+#main-content.container{
+    padding-top: 28px !important;
+}
+/* Banner Area End */
 
 
 
