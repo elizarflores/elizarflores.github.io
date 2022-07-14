@@ -298,6 +298,8 @@ div#main-content{
     letter-spacing: 0.09em;
     color: #000000;
     text-transform: uppercase;
+    padding-left: 0!important;
+    padding-right: 0!important;
 }
 #bespokeNav ul li a:hover{
     background: #ffffff!important;
