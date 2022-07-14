@@ -288,6 +288,9 @@ div#main-content{
 #product-filters{
     padding-right: 0!important;
 }
+#main-column.col-md-12{
+    padding: 0 !important;
+}
 /* Main  Header Area End */
 
 
