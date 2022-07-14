@@ -486,6 +486,14 @@ div#main-content{
     /* Main Menu Area End */
 
     /* Main Header Area Start*/
+
+    .main-header{
+        padding:20px 0!important;
+    }
+    .main-header nav.navbar .navbar-header  .navbar-brand{
+        display:flex;
+        align-items: center;
+    }
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
         max-width: 144px;
