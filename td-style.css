@@ -283,6 +283,7 @@ div#main-content{
     display: flex!important;
     align-items:center!important;
     justify-content: flex-end!important;
+    padding-right: 0!important;
 }
 /* Main  Header Area End */
 
