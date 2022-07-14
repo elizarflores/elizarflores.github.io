@@ -151,7 +151,24 @@ div#main-content{
     display: flex;
     align-items:center;
 }
-
+#main-menu .nav.navbar-nav li a{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
+#main-menu .nav.navbar-nav li #cart a span{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+}
 
 
 
