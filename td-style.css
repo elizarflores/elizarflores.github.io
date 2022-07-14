@@ -220,6 +220,9 @@ div#main-content{
     background: #fff!important;
     color: #000000;
 }
+#main-menu .nav.navbar-nav li:first-child .dropdown-menu li a:hover{
+    color: #000!important;
+}
 
 /* Main Menu Area End */
 
