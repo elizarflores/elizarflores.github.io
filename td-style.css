@@ -508,6 +508,13 @@ div#main-content{
     #product-filters{
         width:256px;
     }
+    #bespokeNav ul li{
+        margin-right: 8px;
+    }
+    .main-header nav.navbar .navbar-header  .navbar-brand img{
+        width: 100%;
+        max-width: 144px;
+    }
     /* Main  Header Area End */
 
 }
