@@ -509,7 +509,10 @@ div#main-content{
         width:256px;
     }
     #bespokeNav ul li{
-        margin-right: 8px;
+        margin-right: 16px;
+    }
+    #bespokeNav ul li a{
+        font-size:10px;
     }
     .main-header nav.navbar .navbar-header  .navbar-brand img{
         width: 100%;
