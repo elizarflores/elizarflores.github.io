@@ -202,6 +202,9 @@ div#main-content{
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
 }
 /* Main Menu Area End */
 
