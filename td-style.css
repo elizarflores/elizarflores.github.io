@@ -498,6 +498,13 @@ div#main-content{
         width: 100%;
         max-width: 144px;
     }
+    #bespokeNav{
+        float: left !important;
+    }
+    #bespokeNav ul li a{
+        padding-left: 15px!important;
+        padding-right: 15px!important;
+    }
     #product-filters{
         width: 100%;
     }
