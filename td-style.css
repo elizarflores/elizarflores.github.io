@@ -432,6 +432,17 @@ div#main-content{
 
 /* Footer Area End */
 
+/* Collection Banner Image Start */
+.collection__banner-area{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.collection__banner-img img{
+    width:100%;
+}
+/* Collection Banner Image End */
+
+
 
 
 
