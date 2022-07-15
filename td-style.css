@@ -449,7 +449,7 @@ div#main-content{
         background-size: 100% 46%;
         background-position: top center;
     }
-    #main-content.login__area #main-column.col-lg-12 .row{
+    #main-content.login__area #main-column.col-md-12 .row{
         margin-left: 0!important;
         margin-right: 0!important;
     }
