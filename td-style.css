@@ -543,6 +543,7 @@ div#main-content{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-bottom: 34px;
 }
 .sort__by-wrapper h3{
     margin: 0;
