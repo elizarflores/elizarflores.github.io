@@ -634,11 +634,14 @@ div#main-content{
     font-size: 14px;
     line-height: 20px;
     text-align: center;
+    color: rgba(0, 0, 0, 0.5)!important;
+    text-decoration:underline!important;
 }
 #paginator li a[rel="prev"],
 #paginator li a[rel="next"],
 #paginator li:last-child a{
     font-size: 20px;
+    text-decoration: none!important;
 }
 /* Collection Page Filter Option End*/
 
