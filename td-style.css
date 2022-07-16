@@ -539,6 +539,14 @@ div#main-content{
 #left-column h2{
     margin: 0;
 }
+.sort__by-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sort__by-wrapper h3{
+    margin: 0;
+}
 /* Collection Page Filter Option End*/
 
 
