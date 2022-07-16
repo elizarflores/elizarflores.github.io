@@ -662,6 +662,10 @@ div#main-content{
     text-transform: uppercase;
     padding-right: 16px!important;
 }
+#ppg-limit{
+    padding: 12px 20px;
+    border: 1px solid #D9D9D9;
+}
 /* Collection Page Filter Option End*/
 
 
