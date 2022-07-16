@@ -443,6 +443,20 @@ div#main-content{
 /* Collection Banner Image End */
 
 
+/* Collection Page Filter Option Start*/
+.panel.panel-default {
+    border: none;
+    box-shadow: none;
+}
+.panel-heading{
+    background: transparent;
+}
+
+/* Collection Page Filter Option End*/
+
+
+
+
 
 
 
