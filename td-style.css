@@ -635,6 +635,11 @@ div#main-content{
     line-height: 20px;
     text-align: center;
 }
+#paginator li a[rel="prev"]
+#paginator li a[rel="next"],
+#paginator li:last-child a{
+    font-size: 20px;
+}
 /* Collection Page Filter Option End*/
 
 
