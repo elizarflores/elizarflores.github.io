@@ -548,6 +548,17 @@ div#main-content{
 .sort__by-wrapper h3{
     margin: 0;
 }
+.sort__by-wrapper select{
+    width: 260px;
+    border: none;
+    padding: 0 12px
+}
+.sort__by-wrapper select option {
+    text-align: center;
+}
+.sort__by-wrapper select option:first-child{
+    text-align: right;
+}
 /* Collection Page Filter Option End*/
 
 
