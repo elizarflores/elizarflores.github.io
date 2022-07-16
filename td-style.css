@@ -449,7 +449,8 @@ div#main-content{
     box-shadow: none;
 }
 .panel-heading{
-    background: transparent;
+    background-color: transparent!important;
+    border: none!important;
 }
 
 /* Collection Page Filter Option End*/
