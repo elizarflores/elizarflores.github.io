@@ -816,14 +816,17 @@ div#main-content{
     #paginator,
     #items-ppg{
         margin: 0;
-        padding-top: 24px;
+        padding-top: 20px;
+    }
+    #main-column .row:last-child div:first-child{
+        text-align: center;
     }
     #paginator li a{
-        padding-left: 12px;
-        padding-right: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     #items-ppg{
-        width: 100%;
+        width: 36%;
     }
     /* Collection Area End */
 
