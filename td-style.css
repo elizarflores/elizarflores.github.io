@@ -614,9 +614,9 @@ div#main-content{
 .product-container .product-wrap  h3.name a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
-    line-height: 22px;
+    line-height: 26px;
     text-align: center;
     text-transform: capitalize;
     color: #000;
