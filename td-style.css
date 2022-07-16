@@ -517,8 +517,9 @@ div#main-content{
     width: 20px;
     height: 20px;
     display: block;
-    border: 1px solid #000;
+    border: 1px solid #767676;
     border-radius: 4px;
+    visibility: visible;
 }
 .filter__list li label input:checked{
     border-color: red;
