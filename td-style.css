@@ -506,6 +506,9 @@ div#main-content{
     line-height: 20px;
     color: #000000!important;
 }
+.filter__list li label input:checked{
+    border-color: red;
+}
 /* Collection Page Filter Option End*/
 
 
