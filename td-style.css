@@ -845,7 +845,7 @@ div#main-content{
     #paginator,
     #items-ppg{
         margin: 0;
-        padding-top: 20px;
+        padding-top: 12px;
     }
     #main-column #product-gallery .row.col-xs-row-margin-0 div.col-lg-9,
     #main-column > .row div.col-lg-8{
