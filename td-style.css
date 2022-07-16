@@ -468,12 +468,13 @@ div#main-content{
 .panel-heading h4.panel-title::after {
     content: "";
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
-    right: 0;
+    right: 0px;
+    top: 6px;
     position: absolute;
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 400;
-    font-size: 20px;
-    color: red;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    background-position: center center;
 }
 
 /* Collection Page Filter Option End*/
