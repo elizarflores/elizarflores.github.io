@@ -451,15 +451,18 @@ div#main-content{
 .panel-heading{
     background-image: none !important;
     background-color: transparent!important;
-    border: none!important;
+    border-bottom: 1px solid #000000!important;
+    padding-left: 0;
+    padding-right: 0;
 }
 .panel-heading h4{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 14px;
     line-height: 20px;
-    color: #000000;
+    color: #000000!important;
+    text-transform: capitalize;
 }
 
 /* Collection Page Filter Option End*/
