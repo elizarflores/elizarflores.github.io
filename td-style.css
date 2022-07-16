@@ -581,9 +581,17 @@ div#main-content{
 }
 .sort__by-wrapper select option {
     text-align: center;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #000000;
 }
 .sort__by-wrapper select option:first-child{
     text-align: right;
+    font-weight: 600;
 }
 /* Collection Page Filter Option End*/
 
