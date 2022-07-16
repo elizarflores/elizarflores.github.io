@@ -819,8 +819,7 @@ div#main-content{
         padding-top: 20px;
     }
     #main-column > .row div.col-lg-8{
-        /* text-align: center; */
-        background:red
+        text-align: center;
     }
     #paginator li a{
         padding-left: 10px;
