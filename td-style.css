@@ -514,7 +514,7 @@ div#main-content{
 .filter__list li label input::after{
     content: "";
     position: absolute;
-    top: 7px;
+    top: 0px;
     left: 0;
     width: 20px;
     height: 20px;
