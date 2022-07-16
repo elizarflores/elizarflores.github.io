@@ -847,7 +847,7 @@ div#main-content{
         margin: 0;
         padding-top: 20px;
     }
-    #main-column > .row.col-xs-row-margin-0 div.col-lg-9,
+    #main-column #product-gallery .row.col-xs-row-margin-0 div.col-lg-9,
     #main-column > .row div.col-lg-8{
         text-align: center;
     }
