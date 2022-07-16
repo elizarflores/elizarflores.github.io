@@ -501,6 +501,7 @@ div#main-content{
     font-size: 14px;
     line-height: 20px;
     color: #000000!important;
+    margin-bottom: 12px;
 }
 
 .filter__list li label input{
@@ -509,6 +510,7 @@ div#main-content{
     margin-right: 10px;
     visibility: hidden;
     margin-top: 0;
+    margin-right: 12px;
     position: relative;
 }
 .filter__list li label input::after{
@@ -526,13 +528,9 @@ div#main-content{
 .filter__list li label input:checked::after{
     border-color: #000000;
     background-image: url(https://i.ibb.co/Sy06B5H/tick.png);
-    background-size: 14px 14px;
+    background-size: 10px 10px;
     background-repeat: no-repeat;
     background-position: center center;
-}
-.filter__list li label input:checked{
-    border-color: red;
-    margin-right: 20px;
 }
 /* Collection Page Filter Option End*/
 
