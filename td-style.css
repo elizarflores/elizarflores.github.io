@@ -485,6 +485,7 @@ div#main-content{
 .panel-default > .panel-heading + .panel-collapse > .panel-body{
     border: none!important;
     padding-left: 0!important;
+    padding-bottom: 0!important;
 }
 .filter__list{
     padding-left: 0;
