@@ -519,17 +519,16 @@ div#main-content{
     width: 20px;
     height: 20px;
     display: block;
-    border: 1px solid #767676;
+    border: 1px solid #D9D9D9;
     border-radius: 4px;
     visibility: visible;
 }
 .filter__list li label input:checked::after{
-    border-color: #F1BC1E;
-    /* background: url(https://improveuiux.com/wp-content/uploads/2021/09/tick.svg) no-repeat right 2px center/14px 14px; */
-    background-image: url(https://improveuiux.com/wp-content/uploads/2021/09/tick.svg);
-    background-position-x: right 2px;
-    background-position-y: center;
+    border-color: #000000;
+    background-image: url(https://i.ibb.co/Sy06B5H/tick.png);
     background-size: 14px 14px;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 .filter__list li label input:checked{
     border-color: red;
