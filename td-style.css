@@ -813,7 +813,15 @@ div#main-content{
         font-size: 12px;
         padding-top: 4px
     }
-    
+    #paginator,
+    #items-ppg{
+        margin: 0;
+        padding-top: 24px;
+    }
+    #paginator li a{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
     /* Collection Area End */
 
 }
