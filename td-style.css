@@ -547,6 +547,12 @@ div#main-content{
 }
 .sort__by-wrapper h3{
     margin: 0;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
 }
 .sort__by-wrapper select{
     width: 260px;
