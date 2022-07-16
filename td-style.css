@@ -602,6 +602,10 @@ div#main-content{
 .product-container .product-wrap{
     padding:24px!important;
 }
+.product-container .product-wrap .center-img img{
+    max-height: 100%;
+    max-width:100%;
+}
 /* Collection Page Filter Option End*/
 
 
