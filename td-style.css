@@ -482,6 +482,17 @@ div#main-content{
 .panel-heading h4.panel-title::after{
     transform:rotate(180deg)
 }
+.panel-default > .panel-heading + .panel-collapse > .panel-body{
+    border: none!important;
+    padding-left: 0!important;
+}
+.filter__list{
+    padding-left: 0;
+    list-style-type: none;
+}
+.filter__list li label{
+    margin-left: 0!important;
+}
 /* Collection Page Filter Option End*/
 
 
