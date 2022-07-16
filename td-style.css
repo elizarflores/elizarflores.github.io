@@ -509,6 +509,7 @@ div#main-content{
     margin-right: 10px;
     visibility: hidden;
     margin-top: 0;
+    position: relative;
 }
 .filter__list li label input::after{
     content: "";
