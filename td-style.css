@@ -610,6 +610,8 @@ div#main-content{
     margin-top: 8px!important;
     margin-bottom: 8px!important;
     height: 100% !important;
+}
+.product-container .product-wrap  h3.name a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -617,7 +619,7 @@ div#main-content{
     line-height: 22px;
     text-align: center;
     text-transform: capitalize;
-    color: #000000;
+    color: #000;
 }
 /* Collection Page Filter Option End*/
 
