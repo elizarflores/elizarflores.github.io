@@ -476,7 +476,12 @@ div#main-content{
     height: 10px;
     background-position: center center;
 }
-
+.panel-heading.collapsed h4.panel-title::after{
+    transform:rotate(0deg)
+}
+.panel-heading h4.panel-title::after{
+    transform:rotate(180deg)
+}
 /* Collection Page Filter Option End*/
 
 
