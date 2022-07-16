@@ -645,6 +645,7 @@ div#main-content{
 }
 #paginator li a:hover{
     background:transparent!important;
+    color: #000000!important;
 }
 #paginator li.active a{
     background-color: transparent;
