@@ -562,6 +562,14 @@ div#main-content{
     line-height: 28px;
     color: #000000;
 }
+
+.sort__by-wrapper h3 small{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    color: #000000;
+}
+
 .sort__by-wrapper select{
     width: 260px;
     border: none;
