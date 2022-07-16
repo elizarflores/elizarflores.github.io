@@ -652,6 +652,16 @@ div#main-content{
     color: #000!important;
     text-decoration: none!important;
 }
+#items-ppg label{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    padding-right: 16px!important;
+}
 /* Collection Page Filter Option End*/
 
 
