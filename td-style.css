@@ -669,6 +669,27 @@ div#main-content{
 }
 /* Collection Page Filter Option End*/
 
+/* Search Page Start */
+#product-gallery .padding-0-15 h1{
+    margin-top: 0!important;
+    margin-bottom: 12px!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+}
+#product-gallery .padding-0-15 p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+/* Search Page End */
+
 
 
 
