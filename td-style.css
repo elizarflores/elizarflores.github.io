@@ -463,6 +463,17 @@ div#main-content{
     line-height: 20px;
     color: #000000!important;
     text-transform: capitalize;
+    position: relative;
+}
+.panel-heading h4.panel-title::after {
+    content: "";
+    background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
+    right: 0;
+    position: absolute;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    font-size: 20px;
+    color: red;
 }
 
 /* Collection Page Filter Option End*/
