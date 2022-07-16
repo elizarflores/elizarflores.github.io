@@ -489,8 +489,11 @@ div#main-content{
 .filter__list{
     padding-left: 0;
     list-style-type: none;
+    margin-bottom: 0;
 }
-
+.filter__list li:not(:last-child){
+    margin-bottom: 12px;
+}
 .filter__list li label{
     display:inline-flex;
     align-items:center;
@@ -501,7 +504,6 @@ div#main-content{
     font-size: 14px;
     line-height: 20px;
     color: #000000!important;
-    margin-bottom: 12px;
 }
 
 .filter__list li label input{
