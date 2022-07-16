@@ -490,11 +490,7 @@ div#main-content{
     padding-left: 0;
     list-style-type: none;
 }
-.filter__list li label input{
-    width: 20px;
-    height: 20px;
-    margin-right: 10px;
-}
+
 .filter__list li label{
     display:inline-flex;
     align-items:center;
@@ -506,8 +502,27 @@ div#main-content{
     line-height: 20px;
     color: #000000!important;
 }
+
+.filter__list li label input{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    visibility: hidden;
+}
+.filter__list li label input::after{
+    content: "";
+    position: absolute;
+    top: 7px;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    display: block;
+    border: 1px solid #000;
+    border-radius: 4px;
+}
 .filter__list li label input:checked{
     border-color: red;
+    margin-right: 20px;
 }
 /* Collection Page Filter Option End*/
 
