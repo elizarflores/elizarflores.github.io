@@ -643,6 +643,9 @@ div#main-content{
     font-size: 20px;
     text-decoration: none!important;
 }
+#paginator li a:hover{
+    background:transparent!important;
+}
 #paginator li.active a{
     background-color: transparent;
     color: #000!important;
