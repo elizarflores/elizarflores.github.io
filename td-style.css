@@ -552,7 +552,7 @@ div#main-content{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-bottom: 34px;
+    padding-bottom: 20px;
 }
 .sort__by-wrapper h3{
     margin: 0;
@@ -574,7 +574,7 @@ div#main-content{
 .sort__by-wrapper select{
     width: 260px;
     border: none;
-    padding: 0 12px
+    padding: 0 12px;
 }
 .sort__by-wrapper select:focus{
     outline: none;
