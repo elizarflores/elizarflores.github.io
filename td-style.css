@@ -643,7 +643,7 @@ div#main-content{
     font-size: 20px;
     text-decoration: none!important;
 }
-#padding li.active a{
+#paginator li.active a{
     background-color: transparent;
     color: #000;
     text-decoration: none!important;
