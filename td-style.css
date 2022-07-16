@@ -621,6 +621,11 @@ div#main-content{
     text-transform: capitalize;
     color: #000;
 }
+#paginator,
+items-ppg{
+    margin: 0;
+    padding-top: 60px;
+}
 /* Collection Page Filter Option End*/
 
 
