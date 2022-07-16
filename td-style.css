@@ -645,7 +645,7 @@ div#main-content{
 }
 #paginator li.active a{
     background-color: transparent;
-    color: #000;
+    color: #000!important;
     text-decoration: none!important;
 }
 /* Collection Page Filter Option End*/
