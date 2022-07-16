@@ -606,7 +606,7 @@ div#main-content{
     max-height: 100%;
     max-width:100%;
 }
-.product-container .product-wrap div.product-container h3.name {
+.product-container .product-wrap  h3.name {
     margin-top: 8px!important;
     margin-bottom: 8px!important;
     height: 100% !important;
