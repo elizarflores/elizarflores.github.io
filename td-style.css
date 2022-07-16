@@ -453,6 +453,14 @@ div#main-content{
     background-color: transparent!important;
     border: none!important;
 }
+.panel-heading h4{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
 
 /* Collection Page Filter Option End*/
 
