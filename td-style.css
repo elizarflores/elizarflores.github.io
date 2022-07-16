@@ -523,6 +523,14 @@ div#main-content{
     border-radius: 4px;
     visibility: visible;
 }
+.filter__list li label input:checked::after{
+    border-color: #F1BC1E;
+    /* background: url(https://improveuiux.com/wp-content/uploads/2021/09/tick.svg) no-repeat right 2px center/14px 14px; */
+    background-image: url(https://improveuiux.com/wp-content/uploads/2021/09/tick.svg);
+    background-position-x: right 2px;
+    background-position-y: center;
+    background-size: 14px 14px;
+}
 .filter__list li label input:checked{
     border-color: red;
     margin-right: 20px;
