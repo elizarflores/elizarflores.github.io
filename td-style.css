@@ -609,13 +609,13 @@ div#main-content{
 .product-container .product-wrap  h3.name {
     margin-top: 8px!important;
     margin-bottom: 8px!important;
-    height: 100% !important;
+    height: 72px;
 }
 .product-container .product-wrap  h3.name a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 26px;
     text-align: center;
     text-transform: capitalize;
