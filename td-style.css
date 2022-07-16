@@ -558,7 +558,7 @@ div#main-content{
     margin: 0;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 25px;
     line-height: 28px;
     color: #000000;
@@ -792,6 +792,29 @@ div#main-content{
         padding: 0!important;
     }
     /* Main Header Area End*/
+
+    /* Collection Area Start */
+    .panel-heading h4 {
+        font-size:12px;
+    }
+    .filter__list li label {
+        font-size:12px;
+    }
+    .sort__by-wrapper select{
+        width:112px;
+        padding: 0 6px;
+    }
+    .sort__by-wrapper h3{
+        font-size: 14px;
+    }
+
+    .sort__by-wrapper h3 small{
+        display: block;
+        font-size: 12px;
+        padding-top: 4px
+    }
+    
+    /* Collection Area End */
 
 }
 
