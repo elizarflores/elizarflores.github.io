@@ -495,9 +495,9 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 14px;
     line-height: 20px;
-    color: #000000;
+    color: #000000!important;
 }
 /* Collection Page Filter Option End*/
 
