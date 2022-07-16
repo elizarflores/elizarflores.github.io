@@ -626,6 +626,15 @@ div#main-content{
     margin: 0;
     padding-top: 40px;
 }
+#paginator li a{
+    border: none;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
 /* Collection Page Filter Option End*/
 
 
