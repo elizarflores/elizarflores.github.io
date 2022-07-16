@@ -859,6 +859,12 @@ div#main-content{
     #items-ppg{
         width: 36%;
     }
+    #product-gallery .padding-0-15 h1 {
+        font-size: 22px;
+    }
+    #product-gallery .padding-0-15 p {
+        font-size: 12px;
+    }
     /* Collection Area End */
 
 }
