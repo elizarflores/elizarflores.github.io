@@ -822,6 +822,9 @@ div#main-content{
         padding-left: 12px;
         padding-right: 12px;
     }
+    #items-ppg{
+        width: 100%;
+    }
     /* Collection Area End */
 
 }
