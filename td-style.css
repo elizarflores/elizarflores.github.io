@@ -493,8 +493,11 @@ div#main-content{
 .filter__list li label input{
     width: 20px;
     height: 20px;
+    margin-right: 10px;
 }
 .filter__list li label{
+    display:inline-flex;
+    align-items:center;
     margin-left: 0!important;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
