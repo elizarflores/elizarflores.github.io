@@ -528,6 +528,9 @@ div#main-content{
     border-radius: 4px;
     visibility: visible;
 }
+.filter__list li label input:checked{
+    margin-right:50px;
+}
 .filter__list li label input:checked::after{
     border-color: #000000;
     background-image: url(https://i.ibb.co/Sy06B5H/tick.png);
