@@ -553,6 +553,10 @@ div#main-content{
     border: none;
     padding: 0 12px
 }
+.sort__by-wrapper select:focus{
+    outline: none;
+    border: none;
+}
 .sort__by-wrapper select option {
     text-align: center;
 }
