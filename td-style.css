@@ -818,7 +818,7 @@ div#main-content{
         margin: 0;
         padding-top: 20px;
     }
-    #main-column > .row{
+    #main-column > .row:last-child{
         /* text-align: center; */
         background:red
     }
