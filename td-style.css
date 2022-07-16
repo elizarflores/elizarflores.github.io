@@ -621,11 +621,13 @@ div#main-content{
     text-transform: capitalize;
     color: #000;
 }
+.pagination,
 #paginator,
 #items-ppg{
     margin: 0;
     padding-top: 40px;
 }
+.pagination li a,
 #paginator li a{
     border: none;
     font-family: 'Inter',sans-serif!important;
@@ -637,16 +639,21 @@ div#main-content{
     color: rgba(0, 0, 0, 0.5)!important;
     text-decoration:underline!important;
 }
+.pagination li a[rel="prev"],
+.pagination li a[rel="next"],
+.pagination li:last-child a,
 #paginator li a[rel="prev"],
 #paginator li a[rel="next"],
 #paginator li:last-child a{
     font-size: 20px;
     text-decoration: none!important;
 }
+.pagination li a:hover,
 #paginator li a:hover{
     background:transparent!important;
     color: #000000!important;
 }
+.pagination li.active a,
 #paginator li.active a{
     background-color: transparent;
     color: #000!important;
@@ -834,14 +841,17 @@ div#main-content{
         font-size: 12px;
         padding-top: 4px
     }
+    .pagination,
     #paginator,
     #items-ppg{
         margin: 0;
         padding-top: 20px;
     }
+    #main-column > .row.col-xs-row-margin-0 div.col-lg-9,
     #main-column > .row div.col-lg-8{
         text-align: center;
     }
+    .pagination li a,
     #paginator li a{
         padding-left: 10px;
         padding-right: 10px;
