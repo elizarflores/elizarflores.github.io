@@ -599,7 +599,9 @@ div#main-content{
     margin-top:15px!important;
     margin-bottom: 15px!important;
 }
-
+.product-container .product-wrap{
+    padding:24px!important;
+}
 /* Collection Page Filter Option End*/
 
 
