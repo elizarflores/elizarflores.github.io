@@ -535,6 +535,10 @@ div#main-content{
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+#left-column h2{
+    margin: 0;
+}
 /* Collection Page Filter Option End*/
 
 
