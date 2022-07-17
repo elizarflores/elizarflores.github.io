@@ -674,6 +674,9 @@ div#main-content{
     border: 1px solid #D9D9D9;
     height: 100%;
 }
+.form-control:focus{
+    box-shadow: none;
+}
 /* Collection Page Filter Option End*/
 
 /* Search Page Start */
