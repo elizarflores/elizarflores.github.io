@@ -625,6 +625,19 @@ div#main-content{
     display:inline-block;
     width: 100%;
 }
+.product__price-wrap{
+    text-align: center;
+}
+.product__price-wrap p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+
+}
 .pagination,
 #paginator,
 #items-ppg{
