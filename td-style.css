@@ -711,6 +711,14 @@ div#main-content{
 .form-control:focus{
     box-shadow: none!important;
 }
+#all-filters .ea-filter{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 20px;
+    color: #000000;
+}
 /* Collection Page Filter Option End*/
 
 /* Search Page Start */
