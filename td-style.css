@@ -719,6 +719,10 @@ div#main-content{
     line-height: 20px;
     color: #000000;
     margin:0 0 0 0!important;
+    background: #FFFFFF!important;
+    border: 1px solid #D9D9D9!important;
+    border-radius: 21px!important;
+    padding: 5px 10px!important;
 }
 #all-filters .ea-filter i{
     background: #000000;
