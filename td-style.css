@@ -608,7 +608,7 @@ div#main-content{
 .product-container .product-wrap  h3.name {
     margin-top: 6px!important;
     margin-bottom: 6px!important;
-    min-height: 72px;
+    min-height: 100px;
 }
 .product-container .product-wrap  h3.name a{
     color: #000;
