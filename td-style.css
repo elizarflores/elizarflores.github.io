@@ -606,9 +606,9 @@ div#main-content{
     max-width:100%;
 }
 .product-container .product-wrap  h3.name {
-    margin-top: 8px!important;
-    margin-bottom: 8px!important;
-    height: 72px;
+    margin-top: 6px!important;
+    margin-bottom: 6px!important;
+    min-height: 72px;
 }
 .product-container .product-wrap  h3.name a{
     color: #000;
@@ -618,7 +618,7 @@ div#main-content{
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 22px;
     text-align: center;
     text-transform: capitalize;
     display:inline-block;
@@ -627,7 +627,7 @@ div#main-content{
 .product__price-wrap{
     text-align: center;
 }
-.product__price-wrap p{
+.product__price-wrap p span:nth-child(2){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
@@ -635,7 +635,6 @@ div#main-content{
     line-height: 15px;
     text-align: center;
     color: #000000;
-
 }
 .pagination,
 #paginator,
