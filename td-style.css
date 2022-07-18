@@ -725,8 +725,7 @@ div#main-content{
     padding: 5px 10px!important;
 }
 #all-filters .ea-filter i{
-    background: #000000;
-    transform: rotate(45deg)
+    color: #000000;
 }
 /* Collection Page Filter Option End*/
 
