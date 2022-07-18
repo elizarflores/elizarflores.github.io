@@ -612,6 +612,9 @@ div#main-content{
     height: 72px;
 }
 .product-container .product-wrap  h3.name a{
+    color: #000;
+}
+.product-container .product-wrap  h3.name a span{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
@@ -619,7 +622,7 @@ div#main-content{
     line-height: 26px;
     text-align: center;
     text-transform: capitalize;
-    color: #000;
+    display:inline-block;
 }
 .pagination,
 #paginator,
