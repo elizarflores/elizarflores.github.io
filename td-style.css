@@ -919,6 +919,14 @@ div#main-content{
 .product__slider .splide__arrow.splide__arrow--next{
     right: -32px !important;;
 }
+
+#qty-calculator .col-lg-1.col-md-1.col-sm-2.col-xs-3{
+    padding: 0 2px;
+}
+#qty-calculator .pull-right.font-xlg.margin-top-5{
+    font-size: 16px;
+}
+
 /* Single Product Page End Here */
 
 
