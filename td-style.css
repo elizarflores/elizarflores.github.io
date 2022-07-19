@@ -970,7 +970,8 @@ div#main-content{
     justify-content: flex-end;
     align-items: center;
     margin-top: 0!important;
-    border:1px solid #d9d9d9!important;
+    border:1px solid #d9d9d9;
+    border-right: none;
 }
 #qty-calculator div.col-lg-4.text-center span.font-xlg{
     font-family: 'Inter',sans-serif!important;
