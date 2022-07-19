@@ -825,6 +825,15 @@ div#main-content{
     text-align: center;
     color: #808080;
 }
+.right .price__wrapper .product__sku span{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.09em;
+}
 
 
 /* Single Product Page End Here */
