@@ -762,9 +762,9 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 22px!important;
     line-height: 30px;
-    text-transform: capitalize;
+    text-transform: capitalize!important;
     color: #000000;
 }
 
