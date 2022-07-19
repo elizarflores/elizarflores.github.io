@@ -994,6 +994,7 @@ div#main-content{
     line-height: 20px;
     text-align: center;
     color: #000000;
+    height: 42px!important;
 }
 
 /* Single Product Page End Here */
