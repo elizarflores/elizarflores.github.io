@@ -989,7 +989,9 @@ div#main-content{
     font-weight: 500;
     font-size: 12px;
     line-height: 20px;
-    color: rgba(0, 0, 0, 0.5)
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 6px;
+    margin-bottom: 0;
 }
 
 #qty-calculator .input-group.bootstrap-touchspin .input-group-btn button{
@@ -1018,6 +1020,7 @@ div#main-content{
     height: 42px!important;
     border: 1px solid #D9D9D9;
     border-left: 0;
+    box-shadow: none;
 }
 .compute-total,
 .change-orderby{
@@ -1041,6 +1044,8 @@ div#main-content{
     font-size: 10px;
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 0;
+    margin-top: 6px;
 }
 
 /* Extra overwrite CSS */
