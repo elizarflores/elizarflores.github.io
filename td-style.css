@@ -954,7 +954,12 @@ div#main-content{
     padding: 0 2px;
 }
 #qty-calculator .pull-right.font-xlg.margin-top-5{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
     font-size: 16px;
+    line-height: 16px;
+    color: #000000;
 }
 #qty-calculator div.col-lg-4.text-center span.font-xlg{
     font-family: 'Inter',sans-serif!important;
