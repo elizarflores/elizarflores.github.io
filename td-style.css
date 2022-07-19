@@ -870,6 +870,9 @@ div#main-content{
     display: flex;
     flex-direction: column;
 }
+.product__slider-area{
+    padding-top: 80px;
+}
 .product__slider-area .product__slider-heading{
     text-align: center;
 }
@@ -880,6 +883,7 @@ div#main-content{
     font-size: 26px!important;
     line-height: 28px;
     color: #000000;
+    margin-top: 0!important;
     margin-bottom: 36px;
 }
 .product__slider .splide__pagination{
