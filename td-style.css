@@ -920,7 +920,12 @@ div#main-content{
     right: -32px !important;;
 }
 
-.add-cart-container span{
+.cart-buttons{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.cart-buttons .add-cart-container span{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
