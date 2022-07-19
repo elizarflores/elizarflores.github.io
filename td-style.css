@@ -768,12 +768,12 @@ div#main-content{
     color: #000000;
 }
 .product__title h3{
-    margin-top: 0!important;
-    margin-bottom: 0!important;
-    font-family: 'Inter';
+    margin-top: 4px!important;
+    margin-bottom: 4px!important;
+    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 28px;
     color: #000000;
 }
