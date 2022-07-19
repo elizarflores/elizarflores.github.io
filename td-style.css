@@ -791,7 +791,12 @@ div#main-content{
     line-height: 20px;
     color: #000000;
 }
-
+.right .price__wrapper{
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 /* Single Product Page End Here */
