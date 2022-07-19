@@ -849,7 +849,7 @@ div#main-content{
     flex-direction: row-reverse;
     justify-content: space-between;
 }
-.product__img-wrapper .center-img{
+.product__img-wrapper > .center-img{
     width: 80%;
     flex-basis: 80%;
 }
