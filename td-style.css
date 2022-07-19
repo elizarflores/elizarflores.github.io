@@ -1017,6 +1017,14 @@ div#main-content{
     line-height: 20px;
     color: #000000;
 }
+#qty-sold-by-label{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
 /* Single Product Page End Here */
 
 
