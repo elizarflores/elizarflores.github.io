@@ -755,6 +755,28 @@ div#main-content{
 
 
 
+/* Single Product Page Start Here */
+.product__title h2{
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+
+
+
+/* Single Product Page End Here */
+
+
+
+
+
 
 
 
