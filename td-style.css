@@ -870,7 +870,17 @@ div#main-content{
     display: flex;
     flex-direction: column;
 }
-
+.product__slider-area .product__slider-heading{
+    text-align: center;
+}
+.product__slider-area .product__slider-heading h2{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+}
 /* Single Product Page End Here */
 
 
