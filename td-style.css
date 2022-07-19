@@ -777,7 +777,20 @@ div#main-content{
     line-height: 28px;
     color: #000000;
 }
-
+.title__wrapper .row{
+    margin:0;
+}
+.in__your-collection-wrapper{
+    text-align: right;
+}
+.in__your-collection-wrapper small{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 20px;
+    color: #000000;
+}
 
 
 
