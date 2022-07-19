@@ -847,6 +847,19 @@ div#main-content{
 .product__img-wrapper{
     display: flex;
     flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.product__img-wrapper .center-img{
+    width: 80%;
+    flex-basis: 80%;
+}
+.product__img-wrapper .product__img-thumbnail{
+    width: 20%;
+    flex-basis: 20%;
+}
+#single-product-thumbnail-container{
+    display: flex;
+    flex-direction: column;
 }
 
 /* Single Product Page End Here */
