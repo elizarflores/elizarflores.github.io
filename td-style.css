@@ -844,6 +844,9 @@ div#main-content{
 #specs .panel-body .row{
     margin: 0!important;
 }
+#single-product-container .row{
+    margin: 0!important;
+}
 .product__img-wrapper{
     display: flex;
     flex-direction: row-reverse;
