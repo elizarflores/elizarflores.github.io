@@ -797,6 +797,34 @@ div#main-content{
     justify-content: space-between;
     align-items: center;
 }
+.right .price__wrapper span:first-child{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+}
+.right .price__wrapper span:nth-child(2){
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+    padding: 0 4px;
+}
+.right .price__wrapper span:last-child{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #808080;
+}
 
 
 /* Single Product Page End Here */
