@@ -885,6 +885,22 @@ div#main-content{
 .product__slider .splide__pagination{
     display: none!important;
 }
+.product__slider .splide__arrow{
+    width: 64px;
+    height: 64px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 100px;
+}
+.product__slider .splide__arrow svg{
+    fill: #00000033;
+}
+.product__slider .slide__arrow.splide__arrow--prev{
+    left:-32px;
+}
+.product__slider .slide__arrow.splide__arrow--next{
+    right:-32px;
+}
 /* Single Product Page End Here */
 
 
