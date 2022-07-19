@@ -1029,6 +1029,16 @@ div#main-content{
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+/* Extra overwrite CSS */
+#qty-calculator .col-lg-3.col-md-3.col-sm-5.col-xs-4,
+#qty-calculator .col-lg-4.col-md-4.col-sm-5{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+/* Extra overwrite CSS */
+
 /* Single Product Page End Here */
 
 
