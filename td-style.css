@@ -890,16 +890,17 @@ div#main-content{
     height: 64px;
     background: #fff;
     border: 1px solid #d9d9d9;
+    opacity: 1!important;
     border-radius: 100px;
 }
 .product__slider .splide__arrow svg{
     fill: #00000033;
 }
 .product__slider .slide__arrow.splide__arrow--prev{
-    left:-32px;
+    left: -32px !important;;
 }
 .product__slider .slide__arrow.splide__arrow--next{
-    right:-32px;
+    right: -32px !important;;
 }
 /* Single Product Page End Here */
 
