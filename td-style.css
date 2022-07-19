@@ -959,10 +959,10 @@ div#main-content{
 #qty-calculator div.col-lg-4.text-center span.font-xlg{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 15px;
-    text-align: right;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: right!important;
     text-transform: uppercase;   
     
 }
