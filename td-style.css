@@ -877,9 +877,13 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 26px!important;
     line-height: 28px;
     color: #000000;
+    margin-bottom: 36px;
+}
+.product__slider .splide__pagination{
+    display: none!important;
 }
 /* Single Product Page End Here */
 
