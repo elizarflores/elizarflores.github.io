@@ -892,9 +892,17 @@ div#main-content{
     border: 1px solid #d9d9d9;
     opacity: 1!important;
     border-radius: 100px;
+    transition: all 0.3s ease-in;
 }
+.product__slider .splide__arrow:hover{
+    border: 1px solid #212121;
+}
+
 .product__slider .splide__arrow svg{
     fill: #00000033;
+}
+.product__slider .splide__arrow:hover svg{
+    fill:#212121;
 }
 .product__slider .splide__arrow.splide__arrow--prev{
     left: -32px !important;
