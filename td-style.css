@@ -896,8 +896,8 @@ div#main-content{
 .product__slider .splide__arrow svg{
     fill: #00000033;
 }
-splide__arrow splide__arrow--prev{
-    left: -32px !important;;
+.product__slider .splide__arrow.splide__arrow--prev{
+    left: -32px !important;
 }
 .product__slider .splide__arrow.splide__arrow--next{
     right: -32px !important;;
