@@ -853,6 +853,10 @@ div#main-content{
     margin-left: 0!important;
     margin-right: 0!important;
 }
+#single-product-container .left,
+#single-product-container .right{
+    padding-bottom: 80px;
+}
 .product__img-wrapper{
     display: flex;
     flex-direction: row-reverse;
