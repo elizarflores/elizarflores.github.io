@@ -960,6 +960,9 @@ div#main-content{
     font-size: 16px;
     line-height: 16px;
     color: #000000;
+    height: 42px!important;
+    display: flex;
+    align-items: center;
 }
 #qty-calculator div.col-lg-4.text-center span.font-xlg{
     font-family: 'Inter',sans-serif!important;
