@@ -1006,7 +1006,13 @@ div#main-content{
 }
 .compute-total,
 .change-orderby{
-    height: 42px !important;;
+    height: 42px !important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
 }
 /* Single Product Page End Here */
 
