@@ -835,6 +835,12 @@ div#main-content{
     text-align: center;
     letter-spacing: 0.09em;
 }
+#product-single-collapsible-panels{
+    padding:0 15px;
+}
+#specs .panel-body .row{
+    margin: 0!important;
+}
 
 
 /* Single Product Page End Here */
