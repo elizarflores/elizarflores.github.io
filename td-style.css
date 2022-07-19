@@ -925,7 +925,7 @@ div#main-content{
     padding-right: 0 !important;
 }
 
-.cart-buttons .add-cart-container span{
+.cart-buttons .add-cart-container button{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
