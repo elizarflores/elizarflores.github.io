@@ -900,7 +900,7 @@ splide__arrow splide__arrow--prev{
     left: -32px !important;;
 }
 .product__slider .splide__arrow.splide__arrow--next{
-    left: -32px !important;;
+    right: -32px !important;;
 }
 /* Single Product Page End Here */
 
