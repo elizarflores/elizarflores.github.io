@@ -1156,6 +1156,7 @@ div#main-content{
     background: #fff!important;
     border: 1px solid #000000;
     box-shadow: none;
+    text-shadow: none;
     height: 42px!important;
 }
 #measurements{
