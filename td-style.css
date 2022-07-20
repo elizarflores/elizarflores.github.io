@@ -1064,7 +1064,7 @@ div#main-content{
 }
 
 
-
+#heading-specs,
 #heading-coverage{
     background-color: #F5F5F5!important;
     border-bottom: none!important;
@@ -1072,6 +1072,7 @@ div#main-content{
     padding-bottom: 0!important;
     height: 66px!important;
 }
+#heading-specs h4 .row .col-lg-4.col-sm-12.lh-1-5,
 #heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -1094,9 +1095,11 @@ div#main-content{
 .fa.fa-caret-down.pull-right{
     display: none!important;
 }
+#heading-specs h4.panel-title,
 #heading-coverage h4.panel-title{
     position: relative;
 }
+#heading-specs h4.panel-title::after,
 #heading-coverage h4.panel-title::after{
     content: "";
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
@@ -1109,10 +1112,12 @@ div#main-content{
     height: 10px;
     background-position: center center;
 }
+#heading-specs.collapsed h4.panel-title::after,
 #heading-coverage.collapsed h4.panel-title::after{
     transform:rotate(0deg)
 }
 
+#heading-specs .row .col-lg-8.col-sm-12.lh-1-5,
 #heading-coverage .row .col-lg-8.col-sm-12.lh-1-5{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
