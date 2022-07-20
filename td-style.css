@@ -1070,6 +1070,7 @@ div#main-content{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 8px!important;
 }
 #heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 span.fa.fa-calculator{
     display: none!important;
@@ -1093,6 +1094,20 @@ div#main-content{
 }
 #heading-coverage.collapsed h4.panel-title::after{
     transform:rotate(0deg)
+}
+
+#heading-coverage .row .col-lg-8.col-sm-12.lh-1-5{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20;
+    color: #000000;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 8px!important;
 }
 
 
