@@ -1061,6 +1061,12 @@ div#main-content{
 .product-spec-detail .table.table-bordered{
     border: 1px solid #D9D9D9;
 }
+.product-spec-detail td .table.table-bordered{
+    margin-bottom: 0!important;
+}
+.product-spec-detail td p{
+    margin-bottom: 8px!important;
+}
 
 #heading-specs{
     margin-bottom: 16px!important;
