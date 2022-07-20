@@ -1091,7 +1091,8 @@ div#main-content{
     content: "";
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
     right: 4px;
-    top: 6px;
+    top: 50%;
+    transform: translateY(-50%);
     position: absolute;
     background-repeat: no-repeat;
     width: 10px;
@@ -1106,7 +1107,7 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 20px;
     color: #000000;
     height: 64px;
