@@ -1392,6 +1392,9 @@ div#main-content{
         flex-direction: row;
         flex-wrap: wrap;
     }
+    #single-product-thumbnail-container a{
+        width: 25%;
+    }
     .product__card{
         margin: 0 20px;
     }
