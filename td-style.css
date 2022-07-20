@@ -1049,13 +1049,23 @@ div#main-content{
     margin-top: 6px;
 }
 
+#heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 {
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+}
+
+
 /* Extra overwrite CSS */
 #qty-calculator .col-lg-3.col-md-3.col-sm-5.col-xs-4,
 #qty-calculator .col-lg-4.col-md-4.col-sm-5{
     padding-left: 0!important;
     padding-right: 0!important;
 }
-
 /* Extra overwrite CSS */
 
 /* Single Product Page End Here */
