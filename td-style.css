@@ -1448,6 +1448,9 @@ div#main-content{
     /* Main  Header Area End */
 
     /* Single Product Area Start */
+    #single-product-container .left, #single-product-container .right {
+        padding-bottom: 16px;
+    }
     .product__slider .splide__arrow{
         width: 36px;
         height: 36px;
