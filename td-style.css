@@ -1392,15 +1392,18 @@ div#main-content{
         flex-direction: row;
         flex-wrap: wrap;
     }
+    .product__card{
+        margin: 0 20px;
+    }
     .product__slider .splide__arrow{
         width: 32px;
         height: 32px;
     }
     .product__slider .splide__arrow.splide__arrow--prev{
-        left: -16px !important;
+        left: 6px !important;
     }
     .product__slider .splide__arrow.splide__arrow--next{
-        right: -16px !important;;
+        right: 6px !important;;
     }
     /* Single Product Area End */
 
