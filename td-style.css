@@ -973,7 +973,8 @@ div#main-content{
     border:1px solid #d9d9d9;
     border-right: 0;
 }
-#qty-calculator div.col-lg-4.text-center span.font-xlg{
+#qty-calculator div.col-lg-4.text-center span.font-xlg,
+#qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
