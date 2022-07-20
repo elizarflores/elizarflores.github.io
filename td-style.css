@@ -1064,7 +1064,7 @@ div#main-content{
 }
 
 #heading-specs{
-    margin-bottom: 16px;
+    margin-bottom: 16px!important;
 }
 #heading-specs,
 #heading-coverage{
