@@ -1055,6 +1055,16 @@ div#main-content{
     margin-top: 6px;
 }
 
+.product-spec-detail{
+    margin-bottom: 0!important;
+}
+.product-spec-detail .table.table-bordered{
+    margin-bottom: 0;
+    border: 1px solid #D9D9D9;
+}
+
+
+
 #heading-coverage{
     background-color: #F5F5F5!important;
     border-bottom: none!important;
