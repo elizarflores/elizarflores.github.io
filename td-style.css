@@ -1449,14 +1449,14 @@ div#main-content{
 
     /* Single Product Area Start */
     .product__slider .splide__arrow{
-        width: 40px;
-        height: 40px;
+        width: 36px;
+        height: 36px;
     }
     .product__slider .splide__arrow.splide__arrow--prev{
-        left: -20px !important;
+        left: -16px !important;
     }
     .product__slider .splide__arrow.splide__arrow--next{
-        right: -20px !important;;
+        right: -16px !important;;
     }
     /* Single Product Area End */
 
