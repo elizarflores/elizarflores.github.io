@@ -1138,7 +1138,19 @@ div#main-content{
     justify-content: flex-start;
     padding: 0 10px!important;
 }
-
+#calculate{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    color: #000000;
+    background-color: #fff!important;
+    border: 1px solid #000000;
+}
 
 /* Extra overwrite CSS */
 #qty-calculator .col-lg-3.col-md-3.col-sm-5.col-xs-4,
