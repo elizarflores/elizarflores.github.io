@@ -1072,10 +1072,13 @@ div#main-content{
 .fa.fa-caret-down.pull-right{
     display: none!important;
 }
+#heading-coverage h4.panel-title{
+    position: relative;
+}
 #heading-coverage h4.panel-title::after{
     content: "";
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
-    right: 6px;
+    right: 4px;
     top: 6px;
     position: absolute;
     background-repeat: no-repeat;
