@@ -1106,7 +1106,7 @@ div#main-content{
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
     right: 4px;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-50%) rotate(180deg);
     position: absolute;
     background-repeat: no-repeat;
     width: 10px;
@@ -1115,7 +1115,7 @@ div#main-content{
 }
 #heading-specs.collapsed h4.panel-title::after,
 #heading-coverage.collapsed h4.panel-title::after{
-    transform:translateY(-50%) rotate(180deg);
+    transform:translateY(-50%) rotate(0deg);
 }
 
 #heading-specs .row .col-lg-8.col-sm-12.lh-1-5,
