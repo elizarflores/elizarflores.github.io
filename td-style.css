@@ -940,6 +940,7 @@ div#main-content{
     border: 1px solid #000000;
     border-radius: 0!important;
     box-shadow: none!important;
+    text-shadow: none!important;
 }
 
 .cart-buttons .add-cart-container button:hover{
