@@ -1395,6 +1395,9 @@ div#main-content{
     #single-product-thumbnail-container a{
         width: 25%;
     }
+    .product__title{
+        text-align: left!important;
+    }
     .product__card{
         margin: 0 20px;
     }
