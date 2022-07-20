@@ -1115,7 +1115,7 @@ div#main-content{
 }
 #heading-specs.collapsed h4.panel-title::after,
 #heading-coverage.collapsed h4.panel-title::after{
-    transform:rotate(0deg)
+    transform:translateY(-50%) rotate(180deg);
 }
 
 #heading-specs .row .col-lg-8.col-sm-12.lh-1-5,
