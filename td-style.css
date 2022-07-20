@@ -944,6 +944,12 @@ div#main-content{
 .cart-buttons .add-cart-container button:hover{
     border: 1px solid #000000!important;
 }
+
+#product-single-collapsible-panels > .panel.panel-default{
+    box-shadow: none!important;
+    border: none !important;
+}
+
 #cart-default-qty .col-lg-12.col-sm-12{
     padding-left: 0!important;
     padding-right: 0!important;
