@@ -1043,6 +1043,10 @@ div#main-content{
     border-right: 0;
     box-shadow: none!important;
 }
+.change-orderby:focus{
+    box-shadow: none !important;
+    border-color:#D9D9D9!important
+}
 #total_sqft_ppc,
 #qty-sold-by-label{
     font-family: 'Inter',sans-serif!important;
