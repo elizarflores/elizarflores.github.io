@@ -1049,6 +1049,10 @@ div#main-content{
     margin-top: 6px;
 }
 
+#heading-coverage{
+    background-color: #F5F5F5!important;
+    border-bottom: none!important;
+}
 #heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
