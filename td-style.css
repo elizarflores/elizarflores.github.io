@@ -337,7 +337,8 @@ div#main-content{
     padding-right: 0!important;
     text-decoration: none!important;
 }
-#bespokeNav ul li a:hover{
+#bespokeNav ul li a:hover,
+#bespokeNav ul li a:focus{
     background: #ffffff!important;
 }
 #product-filters{
