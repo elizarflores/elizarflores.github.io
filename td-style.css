@@ -844,7 +844,7 @@ div#main-content{
     padding:0 15px;
 }
 #specs .panel-body{
-    padding-right: 0!important;
+    padding: 0!important;
 }
 #specs .panel-body .row{
     margin: 0!important;
