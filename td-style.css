@@ -1323,9 +1323,17 @@ div.controls ul li:not(:last-child){
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
+    text-align: center;
     letter-spacing: 0.095em;
     text-transform: uppercase;
     color: #000000;
+    position: relative;
+}
+.general-list li a span{
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 /* Dashboard Area End */
 
