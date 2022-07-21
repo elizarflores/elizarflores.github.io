@@ -186,7 +186,7 @@ div#main-content{
     display: inline-block;
 }
 #main-menu .nav.navbar-nav li #cart a:hover{
-    color: #FFFFFF;
+    color: #FFFFFF!important;
 }
 
 #main-menu .nav.navbar-nav li #cart a span{
