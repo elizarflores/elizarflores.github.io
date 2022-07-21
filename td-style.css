@@ -1458,6 +1458,7 @@ div#main-content{
     }
     #qty-calculator .pull-right.font-xlg.margin-top-5{
         justify-content:center;
+        font-size: 12px;
     }
     #qty-calculator .input-group.bootstrap-touchspin input.qty-default{
         padding: 0;
