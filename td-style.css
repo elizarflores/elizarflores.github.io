@@ -925,7 +925,10 @@ div#main-content{
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
-
+.cart-buttons .add-cart-container{
+    display: inline-block;
+    width: 100%;
+}
 .cart-buttons .add-cart-container button{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -1688,6 +1691,21 @@ div#main-content{
     .in__your-collection-wrapper small{
         margin: 4px 0;
         display: inline-block;
+    }
+    #qty-calculator .pull-right.font-xlg.margin-top-5{
+        font-size: 12px;
+    }
+    #qty-calculator .input-group.bootstrap-touchspin input.qty-default{
+        padding: 0 !important;
+    }
+    #qty-calculator div.col-lg-4.text-center span.font-xlg, #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary {
+        font-size: 14px;
+    }
+    #qty-calculator div.col-lg-4.text-center label{
+        font-size: 10px;
+    }
+    .cart-buttons .add-cart-container{
+        margin-top: 20px;
     }
     /* Single Product Area End */
 
