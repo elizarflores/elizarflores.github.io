@@ -1656,7 +1656,7 @@ div.controls ul li:not(:last-child){
     }
     div#account-details table tr td:nth-child(odd),
     div#account-details table tr td:nth-child(even){
-        width: 50%;
+        padding: 5px 10px;
     }
     .controls{
         margin-bottom: 32px;
