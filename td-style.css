@@ -1085,8 +1085,8 @@ div#main-content{
     padding-bottom: 0!important;
     height: 66px!important;
 }
-#heading-specs h4 .row .col-lg-4.col-sm-12.lh-1-5,
-#heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 {
+#heading-specs h4 .row .col-xs-4.lh-1-5,
+#heading-coverage h4 .row .col-xs-4.lh-1-5 {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -1102,7 +1102,7 @@ div#main-content{
     justify-content: center;
     padding: 0 8px!important;
 }
-#heading-coverage h4 .row .col-lg-4.col-sm-12.lh-1-5 span.fa.fa-calculator{
+#heading-coverage h4 .row .col-xs-4.lh-1-5 span.fa.fa-calculator{
     display: none!important;
 }
 .fa.fa-caret-down.pull-right{
@@ -1130,8 +1130,8 @@ div#main-content{
     transform:translateY(-50%) rotate(0deg);
 }
 
-#heading-specs .row .col-lg-8.col-sm-12.lh-1-5,
-#heading-coverage .row .col-lg-8.col-sm-12.lh-1-5{
+#heading-specs .row .col-xs-8.lh-1-5,
+#heading-coverage .row .col-xs-8.lh-1-5{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
