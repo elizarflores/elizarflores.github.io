@@ -1765,6 +1765,9 @@ div.controls ul li:not(:last-child){
     div#account-details table tr td:nth-child(even){
         padding: 5px 8px;
     }
+    .controls{
+        margin-bottom: 32px;
+    }
     /* Dashboard Area End Here*/
 
 }
