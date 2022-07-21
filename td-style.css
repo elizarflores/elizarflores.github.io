@@ -1598,6 +1598,18 @@ div#main-content{
         display: inline-block;
         margin: 6px 0;
     }
+    #qty-calculator .pull-right.font-xlg.margin-top-5{
+        justify-content:center;
+    }
+    #qty-calculator div.col-lg-4.text-center span.font-xlg, 
+    #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary{
+        display: inline-block;
+        margin-top: 16px;
+    }
+    #qty-calculator div.col-lg-4.text-center label{
+        display: inline-block;
+        margin-bottom: 16px;
+    }
     /* Single Product Area End */
 
 }
