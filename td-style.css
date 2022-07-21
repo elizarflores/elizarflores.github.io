@@ -1601,6 +1601,12 @@ div#main-content{
     #single-product-container .left, #single-product-container .right {
         padding-bottom: 16px;
     }
+    .product-spec-detail .spec_details > tbody > tr > td:first-child{
+        width: 33.85%;
+    }
+    .product-spec-detail .spec_details > tbody > tr > td:last-child{
+        width: 66.15%;
+    }
     .product__slider .splide__arrow{
         width: 36px;
         height: 36px;
