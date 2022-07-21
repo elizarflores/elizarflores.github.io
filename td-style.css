@@ -1676,6 +1676,12 @@ div#main-content{
     .product__slider .splide__arrow.splide__arrow--next{
         right: -20px !important;;
     }
+    .product__title h2{
+        font-size:18px!important;
+    }
+    .product__title h3{
+        font-size:16px;
+    }
     /* Single Product Area End */
 
 }
