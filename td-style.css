@@ -1671,7 +1671,7 @@ div.controls ul li:not(:last-child){
         margin-bottom: 12px;
     }
     .general-list li a{
-        padding: 12px;
+        padding: 12px!important;
         font-weight: 600;
     }
     /* Dashboard Area End Here*/
