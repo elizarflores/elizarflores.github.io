@@ -1239,6 +1239,12 @@ div#main-content{
 #left-column.col-md-3 hr{
     display: none;
 }
+.account-menu li{
+    padding: 0;
+}
+.account-menu li:not(:last-child){
+    margin-bottom: 20px;
+}
 .account-menu li a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
