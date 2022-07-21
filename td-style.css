@@ -1389,6 +1389,7 @@ div#main-content{
     #single-product-container .left, #single-product-container .right{
         padding-bottom: 20px;
     }
+    
     .product__img-wrapper{
         display: block;
     }
@@ -1401,6 +1402,8 @@ div#main-content{
     #single-product-thumbnail-container{
         flex-direction: row;
         flex-wrap: wrap;
+        padding-left: 0;
+        padding-right: 0;
     }
     #single-product-thumbnail-container a{
         width: 25%;
