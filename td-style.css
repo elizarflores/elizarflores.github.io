@@ -1660,6 +1660,7 @@ div.controls ul li:not(:last-child){
     }
     .controls{
         margin-bottom: 24px;
+        padding: 24px;
     }
     #main-column .component-title{
         font-size: 18px;
@@ -1668,6 +1669,10 @@ div.controls ul li:not(:last-child){
     #main-column h5{
         font-size: 12px;
         margin-bottom: 12px;
+    }
+    .general-list li a{
+        padding: 12px;
+        font-weight: 600;
     }
     /* Dashboard Area End Here*/
 
