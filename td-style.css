@@ -182,8 +182,11 @@ div#main-content{
 
 #main-menu .nav.navbar-nav li #cart a{
     text-decoration: none !important;
-    margin-bottom: 3px;
+    margin-bottom: 0px;
     display: inline-block;
+}
+#main-menu .nav.navbar-nav li #cart a:hover{
+    color: #FFFFFF;
 }
 
 #main-menu .nav.navbar-nav li #cart a span{
@@ -1703,6 +1706,13 @@ div#main-content{
     }
     #qty-calculator div.col-lg-4.text-center label{
         font-size: 10px;
+    }
+    #total_sqft_ppc, #qty-sold-by-label{
+        font-size:10px;
+        margin-top: 4px;
+    }
+    #heading-specs .row .col-xs-8.lh-1-5, #heading-coverage .row .col-xs-8.lh-1-5 {
+        font-size: 12px;
     }
     .cart-buttons .add-cart-container{
         margin-top: 20px;
