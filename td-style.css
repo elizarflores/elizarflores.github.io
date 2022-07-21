@@ -1201,6 +1201,11 @@ div#main-content{
 }
 /* Extra overwrite CSS */
 
+
+#product-single-collapsible-panels{
+    display: none;
+}
+
 /* Single Product Page End Here */
 
 
