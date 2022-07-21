@@ -1086,7 +1086,7 @@ div#main-content{
     width: 65.68%;
 }
 #heading-specs{
-    margin-bottom: 16px!important;
+    margin-bottom: 0px!important;
 }
 #heading-specs,
 #heading-coverage{
