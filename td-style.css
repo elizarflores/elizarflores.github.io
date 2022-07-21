@@ -338,7 +338,7 @@ div#main-content{
     text-transform: uppercase;
     padding-left: 0!important;
     padding-right: 0!important;
-    text-decoration: none!important;
+    text-decoration: none;
 }
 #bespokeNav ul li a:hover,
 #bespokeNav ul li a:focus{
