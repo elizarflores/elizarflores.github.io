@@ -1224,6 +1224,22 @@ div#main-content{
 
 
 
+/* Dashboard Area Start */
+
+#lef-column.col-md-3 h3{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal; 
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+}
+
+/* Dashboard Area End */
+
+
+
+
 
 
 
