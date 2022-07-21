@@ -1452,7 +1452,7 @@ div#main-content{
         padding-top: 40px;
     }
     .product__slider-area .product__slider-heading h2{
-        font-size: 22px;
+        font-size: 22px!important;
         margin-bottom: 24px;
     }
     .right .price__wrapper .product__sku span{
