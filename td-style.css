@@ -1234,7 +1234,7 @@ div#main-content{
     line-height: 28px;
     color: #000000;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 48px;
 }
 #left-column.col-md-3 hr{
     display: none;
