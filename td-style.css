@@ -1429,6 +1429,10 @@ div#main-content{
     .product__title h3 {
         font-size: 14px;
     }
+    .right .price__wrapper{
+        flex-direction: column;
+        align-items: flex-start;
+    }
     .product__slider .splide__arrow{
         width: 32px;
         height: 32px;
