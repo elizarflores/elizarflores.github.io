@@ -1448,6 +1448,12 @@ div#main-content{
     .product__title h3 {
         font-size: 14px;
     }
+    .product-spec-detail .spec_details > tbody > tr > td:first-child{
+        width: 34%;
+    }
+    .product-spec-detail .spec_details > tbody > tr > td:last-child{
+        width: 66%;
+    }
     .right .price__wrapper{
         flex-direction: column;
         align-items: flex-start;
@@ -1464,7 +1470,7 @@ div#main-content{
     .right .price__wrapper .product__sku{
         margin-top: 6px;
     }
-
+    
     #heading-specs, #heading-coverage{
         padding: 8px 4px;
     }
