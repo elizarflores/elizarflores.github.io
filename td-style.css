@@ -1445,6 +1445,13 @@ div#main-content{
     .right .price__wrapper .product__sku{
         margin-top: 6px;
     }
+    .product__slider-area{
+        padding-top: 40px;
+    }
+    .product__slider-area .product__slider-heading h2{
+        font-size: 22px;
+        margin-bottom: 24px;
+    }
     .right .price__wrapper .product__sku span{
         font-size: 11px;
     }
