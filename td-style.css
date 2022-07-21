@@ -1467,6 +1467,9 @@ div#main-content{
     #product-single-collapsible-panels{
         padding: 0;
     }
+    #specs .product-spec-detail table{
+        font-size: 12px;
+    }
     /* Single Product Area End */
 
 }
