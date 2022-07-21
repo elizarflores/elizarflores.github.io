@@ -1283,6 +1283,24 @@ div#main-content{
     margin-top: 0;
     margin-bottom: 20px;
 }
+div#account-details table tr td:nth-child(odd){
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
+}
+div#account-details table tr td:nth-child(even){
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
