@@ -1226,7 +1226,7 @@ div#main-content{
 
 /* Dashboard Area Start */
 
-#lef-column.col-md-3 h3{
+#left-column.col-md-3 h3{
     font-family: 'Inter',sans-serif!important;
     font-style: normal; 
     font-weight: 500;
@@ -1235,6 +1235,9 @@ div#main-content{
     color: #000000;
     margin-top: 0;
     margin-bottom: 0;
+}
+#left-column.col-md-3 hr{
+    display: none;
 }
 
 /* Dashboard Area End */
