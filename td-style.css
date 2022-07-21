@@ -1409,6 +1409,7 @@ div#main-content{
         width: 25%;
     }
     .title__wrapper .row .col-lg-8,
+    .title__wrapper .row .col-lg-4,
     .right .price__wrapper{
         padding-left: 0;
         padding-right: 0;
