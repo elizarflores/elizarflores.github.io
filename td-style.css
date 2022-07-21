@@ -1468,7 +1468,13 @@ div#main-content{
         font-size: 12px;
         padding: 0 8px;
     }
-
+    #qty-calculator div.col-lg-4.text-center label{
+        margin-top: 0;
+    }
+    #qty-calculator div.col-lg-4.text-center span.font-xlg, #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary{
+        margin-top: 16px;
+        display: inline-block;
+    }
     .product__slider-area{
         padding-top: 40px;
     }
