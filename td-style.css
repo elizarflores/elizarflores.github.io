@@ -1444,6 +1444,30 @@ div#main-content{
     .right .price__wrapper .product__sku{
         margin-top: 6px;
     }
+
+    #heading-specs, #heading-coverage{
+        padding: 8px 4px;
+    }
+    #heading-specs h4 .row .col-xs-4.lh-1-5, 
+    #heading-coverage h4 .row .col-xs-4.lh-1-5{
+        font-size: 8px;
+    }
+    #heading-specs .row .col-xs-8.lh-1-5, 
+    #heading-coverage .row .col-xs-8.lh-1-5{
+        font-size: 120px;
+    }
+    #qty-calculator .pull-right.font-xlg.margin-top-5{
+        justify-content:center;
+    }
+    #qty-calculator .input-group.bootstrap-touchspin input.qty-default{
+        padding: 0;
+        font-size: 12px;
+    }
+    .compute-total, .change-orderby{
+        font-size: 12px;
+        padding: 0 8px;
+    }
+
     .product__slider-area{
         padding-top: 40px;
     }
