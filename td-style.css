@@ -1079,7 +1079,12 @@ div#main-content{
 .product-spec-detail td p{
     margin-bottom: 8px!important;
 }
-
+.product-spec-detail .table.table-bordered > tr > td:first-child{
+    width: 34%;
+}
+.product-spec-detail .table.table-bordered > tr > td:last-child{
+    width: 66%;
+}
 #heading-specs{
     margin-bottom: 16px!important;
 }
