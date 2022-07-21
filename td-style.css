@@ -1260,6 +1260,9 @@ div#main-content{
     text-transform: uppercase;
     color: #000000;
 }
+.account-menu li a:hover{
+    text-decoration: none;
+}
 #main-column .component-title {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
