@@ -1301,6 +1301,22 @@ div#account-details table tr td:nth-child(even){
     line-height: 20px;
     color: #000000;
 }
+#main-column.col-md-9 hr{
+    border: 1px solid #D9D9D9;
+}
+.controls{
+    background: #F5F5F5;
+    padding:32px;
+}
+.controls .general-list{
+    margin-bottom: 0;
+}
+div.controls ul li a{
+    margin: 0!important;
+}
+div.controls ul li:not(:last-child){
+    margin-bottom: 15px;
+}
 /* Dashboard Area End */
 
 
