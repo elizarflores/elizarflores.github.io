@@ -1602,10 +1602,10 @@ div#main-content{
         padding-bottom: 16px;
     }
     .product-spec-detail .spec_details > tbody > tr > td:first-child{
-        width: 33.85%;
+        width: 34%;
     }
     .product-spec-detail .spec_details > tbody > tr > td:last-child{
-        width: 66.15%;
+        width: 66%;
     }
     .product__slider .splide__arrow{
         width: 36px;
