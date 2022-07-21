@@ -1233,6 +1233,8 @@ div#main-content{
     font-size: 25px;
     line-height: 28px;
     color: #000000;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 /* Dashboard Area End */
