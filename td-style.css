@@ -1403,9 +1403,6 @@ div#main-content{
     .product__title{
         text-align: left!important;
     }
-    .product__card{
-        margin: 0 20px;
-    }
     .product__slider .splide__arrow{
         width: 32px;
         height: 32px;
