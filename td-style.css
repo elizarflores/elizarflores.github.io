@@ -847,6 +847,9 @@ div#main-content{
 #product-single-collapsible-panels{
     padding:0 15px;
 }
+#product-single-collapsible-panels .panel.panel-default{
+    border: 0!important;
+}
 #specs .panel-body{
     padding: 0!important;
 }
@@ -1072,6 +1075,7 @@ div#main-content{
 }
 .product-spec-detail .table.table-bordered{
     border: 1px solid #D9D9D9;
+    margin-bottom: 0!important;
 }
 .product-spec-detail td .table.table-bordered{
     margin-bottom: 0!important;
@@ -1087,6 +1091,9 @@ div#main-content{
 }
 #heading-specs{
     margin-bottom: 0px!important;
+}
+#heading-coverage{
+    margin-top: 16px!important;
 }
 #heading-specs,
 #heading-coverage{
