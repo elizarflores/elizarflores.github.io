@@ -1433,6 +1433,21 @@ div#main-content{
         flex-direction: column;
         align-items: flex-start;
     }
+    .right .price__wrapper .product__price span:first-child{
+        font-size: 13px;
+    }
+    .right .price__wrapper .product__price span:nth-child(2){
+        font-size: 14px;
+    }
+    .right .price__wrapper .product__price span:last-child{
+        font-size: 12px;
+    }
+    .right .price__wrapper .product__sku{
+        margin-top: 6px;
+    }
+    .right .price__wrapper .product__sku span{
+        font-size: 11px;
+    }
     .product__slider .splide__arrow{
         width: 32px;
         height: 32px;
