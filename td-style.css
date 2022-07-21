@@ -1414,8 +1414,20 @@ div#main-content{
         padding-left: 0;
         padding-right: 0;
     }
+    .in__your-collection-wrapper{
+        text-align:left;
+    }
+    .in__your-collection-wrapper small{
+        font-size:10px;
+    }
     .product__title{
         text-align: left!important;
+    }
+    .product__title h2{
+        font-size: 18px;
+    }
+    .product__title h3 {
+        font-size: 16px;
     }
     .product__slider .splide__arrow{
         width: 32px;
