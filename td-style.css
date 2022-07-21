@@ -1591,6 +1591,13 @@ div#main-content{
     .product__slider .splide__arrow.splide__arrow--next{
         right: -16px !important;;
     }
+    .in__your-collection-wrapper{
+        text-align:left;
+    }
+    .in__your-collection-wrapper small{
+        display: inline-block;
+        margin: 6px 0;
+    }
     /* Single Product Area End */
 
 }
