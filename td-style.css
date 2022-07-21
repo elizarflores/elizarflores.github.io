@@ -1682,6 +1682,13 @@ div#main-content{
     .product__title h3{
         font-size:16px;
     }
+    .in__your-collection-wrapper{
+        text-align:left;
+    }
+    .in__your-collection-wrapper small{
+        margin: 4px 0;
+        display: inline-block;
+    }
     /* Single Product Area End */
 
 }
