@@ -1647,6 +1647,22 @@ div.controls ul li:not(:last-child){
     }
     /* Single Product Area End */
 
+    /* Dashboard Area Start Here*/
+    #left-column.col-md-3, #main-column.col-md-9{
+        padding-top: 32px;
+    }
+    div#account-details table{
+        margin-bottom: 20px;
+    }
+    div#account-details table tr td:nth-child(odd),
+    div#account-details table tr td:nth-child(even){
+        width: 50%;
+    }
+    .controls{
+        margin-bottom: 32px;
+    }
+    /* Dashboard Area End Here*/
+
 }
 
 
