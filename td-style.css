@@ -1760,6 +1760,13 @@ div.controls ul li:not(:last-child){
     }
     /* Single Product Area End */
 
+    /* Dashboard Area Start Here*/
+    div#account-details table tr td:nth-child(odd),
+    div#account-details table tr td:nth-child(even){
+        padding: 5px 8px;
+    }
+    /* Dashboard Area End Here*/
+
 }
 
 
