@@ -1661,6 +1661,14 @@ div.controls ul li:not(:last-child){
     .controls{
         margin-bottom: 32px;
     }
+    #main-column .component-title{
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    #main-column h5{
+        font-size: 12px;
+        margin-bottom: 12px;
+    }
     /* Dashboard Area End Here*/
 
 }
