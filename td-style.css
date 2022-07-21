@@ -1408,6 +1408,11 @@ div#main-content{
     #single-product-thumbnail-container a{
         width: 25%;
     }
+    .title__wrapper .row .col-lg-8,
+    .right .price__wrapper{
+        padding-left: 0;
+        padding-right: 0;
+    }
     .product__title{
         text-align: left!important;
     }
