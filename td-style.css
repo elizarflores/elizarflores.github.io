@@ -1652,14 +1652,14 @@ div.controls ul li:not(:last-child){
         padding-top: 32px;
     }
     div#account-details table{
-        margin-bottom: 20px;
+        margin-bottom: 16px;
     }
     div#account-details table tr td:nth-child(odd),
     div#account-details table tr td:nth-child(even){
         padding: 5px 10px;
     }
     .controls{
-        margin-bottom: 32px;
+        margin-bottom: 24px;
     }
     #main-column .component-title{
         font-size: 18px;
