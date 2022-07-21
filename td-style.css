@@ -1760,15 +1760,7 @@ div.controls ul li:not(:last-child){
     }
     /* Single Product Area End */
 
-    /* Dashboard Area Start Here*/
-    div#account-details table tr td:nth-child(odd),
-    div#account-details table tr td:nth-child(even){
-        padding: 5px 8px;
-    }
-    .controls{
-        margin-bottom: 32px;
-    }
-    /* Dashboard Area End Here*/
+    
 
 }
 
@@ -1871,6 +1863,16 @@ div.controls ul li:not(:last-child){
         margin-top: 20px;
     }
     /* Single Product Area End */
+
+    /* Dashboard Area Start Here*/
+    div#account-details table tr td:nth-child(odd),
+    div#account-details table tr td:nth-child(even){
+        padding: 5px 8px;
+    }
+    .controls{
+        margin-bottom: 32px;
+    }
+    /* Dashboard Area End Here*/
 
 }
 
