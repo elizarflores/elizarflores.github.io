@@ -1255,7 +1255,14 @@ div#main-content{
     text-transform: uppercase;
     color: #000000;
 }
-
+#main-column .component-title {
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
