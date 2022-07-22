@@ -1337,8 +1337,14 @@ div.controls ul li:not(:last-child){
     top: 50%;
     transform: translateY(-50%);
 }
-
-
+.question__container form .form-group.col-lg-12,
+.question__container form .form-group.col-lg-4{
+    padding-left: 0;
+    padding-right: 0;
+}
+.question__container form .form-group.col-lg-4:not(:last-child){
+    margin-right: 24px;
+}
 /* Dashboard Area End */
 
 
