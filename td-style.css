@@ -1368,6 +1368,10 @@ div.controls ul li:not(:last-child){
     color: #000000;
     background: #FFFFFF;
     border: 1px solid #D9D9D9;
+    padding:12px 20px;
+}
+.question__container form .form-group.col-lg-4 input{
+    height:42px;
 }
 .question__container form .form-group.col-lg-12 textarea:focus,
 .question__container form .form-group.col-lg-4 input:focus{
