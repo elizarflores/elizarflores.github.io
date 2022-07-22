@@ -1493,6 +1493,24 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
 }
+.order__content table tbody tr th{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
+}
+.order__content table tbody tr td{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
