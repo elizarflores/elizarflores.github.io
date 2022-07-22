@@ -1423,6 +1423,7 @@ div.controls ul li:not(:last-child){
 
 #main-column .nav-tabs li.active a{
     opacity: 1;
+    background: #F5F5F5;
 }
 
 /* Dashboard Area End */
