@@ -1263,7 +1263,8 @@ div#main-content{
 .account-menu li a:hover{
     text-decoration: none;
 }
-#main-column .component-title {
+#main-column .component-title,
+.question__title-wrapper h3 {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
@@ -1273,7 +1274,8 @@ div#main-content{
     margin-top: 0;
     margin-bottom: 12px;
 }
-#main-column h5{
+#main-column h5,
+.question__title-wrapper p{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -1335,6 +1337,8 @@ div.controls ul li:not(:last-child){
     top: 50%;
     transform: translateY(-50%);
 }
+
+
 /* Dashboard Area End */
 
 
