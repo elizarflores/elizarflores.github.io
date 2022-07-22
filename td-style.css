@@ -1342,7 +1342,8 @@ div.controls ul li:not(:last-child){
     padding-left: 0;
     padding-right: 0;
 }
-.question__container form .form-group.col-lg-4:not(:last-child){
+.question__container form .form-group.col-lg-4:first-child,
+.question__container form .form-group.col-lg-4:nth-child(2){
     padding-right: 20px;
 }
 /* Dashboard Area End */
