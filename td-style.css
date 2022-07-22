@@ -1854,6 +1854,12 @@ div.controls ul li:not(:last-child){
     .question__container form .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
     }
+    .order__controls .col-lg-4,
+    .order__controls .col-lg-3,
+    .order__controls .col-lg-2{
+        padding-left: 0;
+        padding-right: 0;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -1987,6 +1993,12 @@ div.controls ul li:not(:last-child){
     .question__container form .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
     }
+    .order__controls .col-lg-4,
+    .order__controls .col-lg-3,
+    .order__controls .col-lg-2{
+        padding-left: 0;
+        padding-right: 0;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2102,6 +2114,12 @@ div.controls ul li:not(:last-child){
     .question__container form .form-group.col-lg-4:first-child,
     .question__container form .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
+    }
+    .order__controls .col-lg-4,
+    .order__controls .col-lg-3,
+    .order__controls .col-lg-2{
+        padding-left: 0;
+        padding-right: 0;
     }
     /* Dashboard Area End Here*/
 
