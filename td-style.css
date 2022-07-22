@@ -1432,6 +1432,9 @@ div.controls ul li:not(:last-child){
     background: #F5F5F5;
     border: 0;
 }
+#main-column .nav-tabs li:hover a{
+    background: #ffffff;
+}
 
 /* Dashboard Area End */
 
