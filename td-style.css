@@ -1381,12 +1381,12 @@ div.controls ul li:not(:last-child){
 }
 .question__container form button.btn{
     width: 304px;
-    height:50px;
+    height: 42px;
     background: #000000;
     border: 1px solid #000000;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
     line-height: 24px;
     text-align: center;
@@ -1394,6 +1394,8 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #FFFFFF;
     box-shadow: none;
+    text-shadow: none;
+    border-radius: 0;
 }
 /* Dashboard Area End */
 
