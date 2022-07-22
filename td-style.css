@@ -1990,6 +1990,9 @@ div.controls ul li:not(:last-child){
     .controls{
         margin-bottom: 32px;
     }
+    .order__controls {
+        padding: 8px 24px;
+    }
     .question__container form .form-group.col-lg-4:first-child,
     .question__container form .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
