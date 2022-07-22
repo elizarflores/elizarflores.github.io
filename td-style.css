@@ -1850,6 +1850,10 @@ div.controls ul li:not(:last-child){
         padding: 12px!important;
         font-weight: 600;
     }
+    .question__container form .form-group.col-lg-4:first-child,
+    .question__container form .form-group.col-lg-4:nth-child(2){
+        padding-right: 0px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -1979,6 +1983,10 @@ div.controls ul li:not(:last-child){
     .controls{
         margin-bottom: 32px;
     }
+    .question__container form .form-group.col-lg-4:first-child,
+    .question__container form .form-group.col-lg-4:nth-child(2){
+        padding-right: 0px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2090,6 +2098,10 @@ div.controls ul li:not(:last-child){
     }
     .controls{
         margin-bottom: 32px;
+    }
+    .question__container form .form-group.col-lg-4:first-child,
+    .question__container form .form-group.col-lg-4:nth-child(2){
+        padding-right: 0px;
     }
     /* Dashboard Area End Here*/
 
