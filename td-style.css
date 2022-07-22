@@ -1397,6 +1397,12 @@ div.controls ul li:not(:last-child){
     text-shadow: none;
     border-radius: 0;
 }
+
+.add-cart-container .btn-cart{
+    border-radius: 0;
+    border: none;
+}
+
 /* Dashboard Area End */
 
 
