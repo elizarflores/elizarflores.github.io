@@ -1369,6 +1369,7 @@ div.controls ul li:not(:last-child){
     background: #FFFFFF;
     border: 1px solid #D9D9D9;
     padding:12px 20px;
+    box-shadow: none;
 }
 .question__container form .form-group.col-lg-4 input{
     height:42px;
