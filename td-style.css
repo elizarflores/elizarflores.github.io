@@ -1346,6 +1346,17 @@ div.controls ul li:not(:last-child){
 .question__container form .form-group.col-lg-4:nth-child(2){
     padding-right: 20px;
 }
+.question__container form .form-group.col-lg-12 label,
+.question__container form .form-group.col-lg-4 label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
