@@ -1409,21 +1409,24 @@ div.controls ul li:not(:last-child){
 }
 
 #main-column .nav-tabs li a{
-    padding: 44px 50px;
+    padding: 40px 50px;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 15px;
     text-transform: uppercase;
     color: #000000;
     opacity: 0.3;
     border: 1px solid rgba(0, 0, 0, 0.2);
+    margin-right: 0;
+    border-radius: 0;
 }
 
 #main-column .nav-tabs li.active a{
     opacity: 1;
     background: #F5F5F5;
+    border: 0;
 }
 
 /* Dashboard Area End */
