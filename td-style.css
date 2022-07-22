@@ -1420,7 +1420,7 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #000000;
     opacity: 0.3;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    border: 1px solid #F5F5F5;
     margin-right: 0;
     border-radius: 0;
 }
@@ -1429,7 +1429,6 @@ div.controls ul li:not(:last-child){
 #main-column .nav-tabs li.active:hover a{
     opacity: 1;
     background: #F5F5F5;
-    border: 0;
 }
 #main-column .nav-tabs li:hover a{
     background: #ffffff;
