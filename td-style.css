@@ -1433,7 +1433,10 @@ div.controls ul li:not(:last-child){
 #main-column .nav-tabs li:hover a{
     background: #ffffff;
 }
-
+.table-ftd-list{
+    background-color: #f5f5f5;
+    padding:40px 30px;
+}
 /* Dashboard Area End */
 
 
