@@ -1420,6 +1420,11 @@ div.controls ul li:not(:last-child){
     opacity: 0.3;
     border: 1px solid rgba(0, 0, 0, 0.2);
 }
+
+#main-column .nav-tabs li.active a{
+    opacity: 1;
+}
+
 /* Dashboard Area End */
 
 
