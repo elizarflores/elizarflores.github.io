@@ -1404,8 +1404,8 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
 }
 .order_item{
-    padding-top: 12px;
-    margin-bottom: 12px;
+    padding-top: 12px!important;
+    margin-bottom: 12px!important;
 }
 
 /* Dashboard Area End */
