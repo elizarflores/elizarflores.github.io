@@ -1421,13 +1421,12 @@ div.controls ul li:not(:last-child){
     color: #000000;
     opacity: 0.3;
     border: 1px solid rgba(0, 0, 0, 0.2);
-    border-bottom: 0;
-    border-left: 0;
     margin-right: 0;
     border-radius: 0;
 }
 
-#main-column .nav-tabs li.active a{
+#main-column .nav-tabs li.active a,
+#main-column .nav-tabs li.active:hover a{
     opacity: 1;
     background: #F5F5F5;
     border: 0;
