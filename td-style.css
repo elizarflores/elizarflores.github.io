@@ -1451,7 +1451,7 @@ div.controls ul li:not(:last-child){
     margin: 0!important;
 }
 .order__content{
-    padding: 0 24px 24px 24px;
+    padding:24px;
     background: #f5f5f5;
 }
 .order__controls .col-lg-4{
