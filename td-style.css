@@ -1479,7 +1479,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-.order__controls select{
+.order__controls select,
+.order__controls input{
     box-shadow: none;
     height: 42px;
     background: #ffffff;
