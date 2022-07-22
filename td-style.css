@@ -1407,7 +1407,9 @@ div.controls ul li:not(:last-child){
     padding-top: 12px!important;
     margin-bottom: 12px!important;
 }
-
+#main-column .nav-tabs{
+    border: 0;
+}
 #main-column .nav-tabs li a{
     padding: 40px 50px;
     font-family: 'Inter',sans-serif!important;
@@ -1419,6 +1421,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     opacity: 0.3;
     border: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 0;
+    border-left: 0;
     margin-right: 0;
     border-radius: 0;
 }
