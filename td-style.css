@@ -1460,6 +1460,12 @@ div.controls ul li:not(:last-child){
 .order__controls .col-lg-2{
     padding-right: 0;
 }
+.order__content table tbody tr{
+    background: #ffffff;
+}
+.order__content table tbody tr.dark{
+    background: rgba(245, 245, 245, 1);
+}
 /* Dashboard Area End */
 
 
