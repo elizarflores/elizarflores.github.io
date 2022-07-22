@@ -1432,6 +1432,7 @@ div.controls ul li:not(:last-child){
 #main-column .nav-tabs li.active:hover a{
     opacity: 1;
     background: #F5F5F5;
+    border: 1px solid #f5f5f5;
 }
 #main-column .nav-tabs li:hover a{
     background: #ffffff;
