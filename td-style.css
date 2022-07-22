@@ -1408,6 +1408,18 @@ div.controls ul li:not(:last-child){
     margin-bottom: 12px!important;
 }
 
+#main-column .nav-tabs li a{
+    padding: 44px 50px;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+    opacity: 0.3;
+
+}
 /* Dashboard Area End */
 
 
