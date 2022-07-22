@@ -1460,14 +1460,14 @@ div.controls ul li:not(:last-child){
 .order__controls .col-lg-2{
     padding-right: 0;
 }
-/* .order__content table{
+.order__content table{
     border-bottom: 0;
 }
 .order__content table tbody tr,
 .order__content table tbody tr td,
 .order__content table tbody tr th{
     border: 1px solid #D9D9D9!important;
-} */
+}
 /* Dashboard Area End */
 
 
