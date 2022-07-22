@@ -1861,6 +1861,17 @@ div.controls ul li:not(:last-child){
     .order__controls .col-lg-3{
         margin-bottom: 8px;
     }
+    .order__controls {
+        padding: 8px 24px;
+    }
+    .order__controls .col-lg-4,
+    .order__controls .col-lg-3{
+        margin-bottom: 8px;
+    }
+    #main-column .nav-tabs li a{
+        padding: 26px 30px;
+        font-size:14px;
+    }
     /* Dashboard Area End Here*/
 
 }
