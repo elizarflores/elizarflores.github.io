@@ -1575,6 +1575,15 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
     border-radius: 0;
 }
+.quote-item strong.center-block a{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000!important;
+    margin-bottom: 4px;
+}
 /* Dashboard Area End */
 
 
