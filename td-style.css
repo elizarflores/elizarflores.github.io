@@ -1586,11 +1586,25 @@ div.controls ul li:not(:last-child){
 .quote-item strong.center-block a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
-    line-height: 20px;
+    line-height: 22px;
     color: #000000!important;
     margin-bottom: 4px;
+}
+
+.quote-item small.center-block,
+#lbl-153211,
+#sale-153211,
+#subtotal-label-153211 {
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 0;
+    margin-top: 6px;
 }
 /* Dashboard Area End */
 
