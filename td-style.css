@@ -1648,8 +1648,13 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
 }
+.change-password input:focus,
+.personal-info input:focus{
+    box-shadow: none!important;
+}
 #update,
-#cancel{
+#cancel,
+#change_password.btn{
     border-radius: 0;
     box-shadow: none!important;
 }
