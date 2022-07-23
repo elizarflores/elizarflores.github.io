@@ -1539,6 +1539,19 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #ffff!important;
 }
+#main-column h4 a{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000!important;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+#main-column h4 a span{
+    font-size: 16px;
+}
 
 /* Dashboard Area End */
 
