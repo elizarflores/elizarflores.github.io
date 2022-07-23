@@ -1571,6 +1571,14 @@ div.controls ul li:not(:last-child){
     border-radius: 0;
     height: 34px;
 }
+.quote-item .bootstrap-touchspin input.quote-qty{
+    height: 34px;
+    border: 1px solid #D9D9D9;
+}
+.quote-item .bootstrap-touchspin input.quote-qty{
+    box-shadow: none;
+    border: 1px solid #D9D9D9!important;
+}
 .delete-quote-item{
     box-shadow: none;
     border-radius: 0;
