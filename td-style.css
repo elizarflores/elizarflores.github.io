@@ -1571,6 +1571,10 @@ div.controls ul li:not(:last-child){
     border-radius: 0;
     height: 34px;
 }
+.delete-quote-item{
+    box-shadow: none;
+    border-radius: 0;
+}
 /* Dashboard Area End */
 
 
