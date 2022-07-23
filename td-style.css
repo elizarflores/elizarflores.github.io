@@ -1640,7 +1640,7 @@ div.controls ul li:not(:last-child){
     height: 42px;
     background: #ffffff;
     border: 1px solid #d9d9d9;
-    padding: 6px 16px!important;
+    padding: 6px 12px!important;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -1648,6 +1648,10 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
     border: 1px solid #d9d9d9;
+}
+.change-password input::placeholder,
+.personal-info input::placeholder{
+    font-size: 12px;
 }
 .change-password input:focus,
 .personal-info input:focus{
