@@ -1566,6 +1566,11 @@ div.controls ul li:not(:last-child){
     border-bottom: 0;
     font-size: 14px;
 }
+.quote-item .bootstrap-touchspin .input-group-btn button{
+    box-shadow: none;
+    border-radius: 0;
+    height: 34px;
+}
 /* Dashboard Area End */
 
 
