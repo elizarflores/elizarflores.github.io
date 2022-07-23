@@ -1560,7 +1560,7 @@ div.controls ul li:not(:last-child){
 #update-quote,
 #convert-to-invoice{
     min-width: 124px;
-    height: 40px;
+    height: 42px;
     border-radius: 0;
     box-shadow: none;
     border-bottom: 0;
@@ -1659,6 +1659,8 @@ div.controls ul li:not(:last-child){
 #change_password.btn{
     border-radius: 0;
     box-shadow: none!important;
+    height: 42px;
+    font-size: 14px;
 }
 /* Dashboard Area End */
 
