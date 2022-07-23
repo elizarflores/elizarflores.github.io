@@ -1622,7 +1622,7 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 16px!important;
 }
-
+.change_password label,
 .personal-info label {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -1634,6 +1634,7 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
+.change_password input,
 .personal-info input{
     box-shadow: none;
     height: 42px;
