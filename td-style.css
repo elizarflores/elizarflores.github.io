@@ -1513,8 +1513,12 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
 }
+#quote-summary{
+    border-radius: 0!important;
+}
 #quote-summary .general-panel-header{
     color: #ffffff!important;
+    border-radius: 0!important;
 }
 #quote-summary .general-panel-header label{
     font-family: 'Inter',sans-serif!important;
