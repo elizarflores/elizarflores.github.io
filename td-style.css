@@ -1648,6 +1648,11 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
 }
+#update,
+#cancel{
+    border-radius: 0;
+    box-shadow: none!important;
+}
 /* Dashboard Area End */
 
 
