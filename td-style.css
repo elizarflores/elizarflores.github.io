@@ -1560,11 +1560,11 @@ div.controls ul li:not(:last-child){
 #update-quote,
 #convert-to-invoice{
     min-width: 124px;
-    height: 42px;
+    height: 40px;
     border-radius: 0;
     box-shadow: none;
     border-bottom: 0;
-    font-size: 16px;
+    font-size: 14px;
 }
 /* Dashboard Area End */
 
