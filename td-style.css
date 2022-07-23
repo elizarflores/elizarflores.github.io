@@ -1529,6 +1529,7 @@ div.controls ul li:not(:last-child){
 }
 #quote-summary .general-panel-header h5{
     margin-bottom: 0!important;
+    color: #fff!important;
 }
 
 /* Dashboard Area End */
