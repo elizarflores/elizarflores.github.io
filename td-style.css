@@ -1556,7 +1556,16 @@ div.controls ul li:not(:last-child){
 #main-column h4 a span{
     font-size: 16px;
 }
-
+#reset-quote,
+#update-quote,
+#convert-to-invoice{
+    width: 120px;
+    height: 40px;
+    border-radius: 0;
+    box-shadow: none;
+    border-bottom: 0;
+    font-size: 16px;
+}
 /* Dashboard Area End */
 
 
