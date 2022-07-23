@@ -1559,7 +1559,7 @@ div.controls ul li:not(:last-child){
 #reset-quote,
 #update-quote,
 #convert-to-invoice{
-    width: 120px;
+    min-width: 120px;
     height: 40px;
     border-radius: 0;
     box-shadow: none;
