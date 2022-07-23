@@ -1530,6 +1530,14 @@ div.controls ul li:not(:last-child){
 #quote-summary .general-panel-header h5{
     margin-bottom: 0!important;
     color: #fff!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #ffff!important;
 }
 
 /* Dashboard Area End */
