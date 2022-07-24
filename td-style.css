@@ -2081,6 +2081,9 @@ div.controls ul li:not(:last-child){
         font-size: 9px;
         margin-bottom: 6px;
     }
+    .quote-item .col-md-6.col-lg-5{
+        width: 100%!important;
+    }
     #main-column h4 a{
         font-size: 14px;
         margin-bottom: 0!important;
