@@ -2119,6 +2119,9 @@ div.controls ul li:not(:last-child){
         margin-left: 0;
         margin-right: 0;
     }
+    #convert-to-invoice{
+        margin-top: 12px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2306,6 +2309,9 @@ div.controls ul li:not(:last-child){
     .quote-item .row{
         margin-left: 0;
         margin-right: 0;
+    }
+    #update-quote{
+        margin-right: 5px;
     }
     /* Dashboard Area End Here*/
 
