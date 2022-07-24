@@ -2122,6 +2122,12 @@ div.controls ul li:not(:last-child){
     #convert-to-invoice{
         margin-top: 12px;
     }
+    #change_password .container-fluid > .row, .personal-info{
+        padding: 20px 5px;
+    }
+    .billing-info{
+        margin-top: 32px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2313,6 +2319,12 @@ div.controls ul li:not(:last-child){
     #update-quote{
         margin-right: 10px;
     }
+    #change_password .container-fluid > .row, .personal-info{
+        padding: 30px 15px;
+    }
+    .billing-info{
+        margin-top: 40px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2454,6 +2466,9 @@ div.controls ul li:not(:last-child){
     }
     .quote-item .col-md-6.col-lg-5 small.center-block:last-child{
         margin-bottom: 12px;
+    }
+    #change_password .container-fluid > .row, .personal-info{
+        padding: 30px 10px;
     }
     /* Dashboard Area End Here*/
 
