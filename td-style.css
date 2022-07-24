@@ -2097,6 +2097,7 @@ div.controls ul li:not(:last-child){
     }
     #quote-summary .general-panel-header.quote-details .row{
         display: flex;
+        flex-wrap: wrap;
     }
     #quote-summary .general-panel-header.quote-details .col-md-2{
         width: 48%;
