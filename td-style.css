@@ -2125,6 +2125,7 @@ div.controls ul li:not(:last-child){
     #change_password .container-fluid > .row, .personal-info{
         padding: 20px 5px;
     }
+    .change-password-requirements,
     .billing-info{
         margin-top: 32px;
     }
