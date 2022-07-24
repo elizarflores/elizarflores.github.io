@@ -2107,6 +2107,10 @@ div.controls ul li:not(:last-child){
     .quote-item .col-md-6.col-lg-5 small.center-block:last-child{
         margin-bottom: 12px;
     }
+    .quote-item .row{
+        margin-left: 0;
+        margin-right: 0;
+    }
     /* Dashboard Area End Here*/
 
 }
