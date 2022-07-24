@@ -1697,6 +1697,12 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px!important;
 }
+#view-expired-quotes{
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+    height: 42px;
+}
 /* Dashboard Area End */
 
 
