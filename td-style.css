@@ -2081,6 +2081,17 @@ div.controls ul li:not(:last-child){
         font-size: 9px;
         margin-bottom: 6px;
     }
+    #main-column h4 a{
+        font-size: 14px;
+        margin-bottom: 0!important;
+    }
+    #main-column h4 a span{
+        font-size: 10px;
+    }
+    #main-column h4 span{
+        font-size: 12px;
+        margin-top: 2px;
+    }
     /* Dashboard Area End Here*/
 
 }
