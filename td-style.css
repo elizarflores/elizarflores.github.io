@@ -1544,7 +1544,6 @@ div.controls ul li:not(:last-child){
     color: #ffff!important;
 }
 #main-column h4 a{
-    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -1557,14 +1556,10 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
 }
 #main-column h4 span{
-    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 26px;
-    color: #000000!important;
-    margin-bottom: 8px;
-    display: inline-block;
 }
 #reset-quote,
 #update-quote,
