@@ -1605,6 +1605,7 @@ div.controls ul li:not(:last-child){
     color: rgba(0, 0, 0, 0.75);
     margin-bottom: 0;
     margin-top: 4px;
+    word-break:break;
 }
 #change_password .container-fluid > .row,
 .personal-info {
@@ -2351,6 +2352,12 @@ div.controls ul li:not(:last-child){
     #main-column .nav-tabs li a{
         padding: 26px 30px;
         font-size:14px;
+    }
+    .quote-item small.center-block, 
+    #lbl-153211, 
+    #sale-153211, 
+    #subtotal-label-153211{
+        font-size: 10px;
     }
     /* Dashboard Area End Here*/
 
