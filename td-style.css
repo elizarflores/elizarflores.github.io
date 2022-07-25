@@ -1806,12 +1806,12 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid {
     padding-left: 0!important;
     padding-right: 0!important;
+    background-color: #f5f5f5;
+    padding: 20px;
 }
 .account_invite .balance-table{
     margin-right: 0;
     margin-left: 0;
-    background-color: #f5f5f5;
-    padding: 20px;
 }
 .balance-table-title{
     font-family: 'Inter',sans-serif!important;
@@ -1827,22 +1827,25 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 15px;
     text-transform: uppercase;
     color: #000000;
-    margin-bottom: 12px;
+    margin-top: 12px;
+    display: inline-block;
 }
 #pay_balance{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 15px;
     text-transform: uppercase;
-    color: #000000;
-    width: 320px;
-    height:48px;
+    width: 100%;
+    height: 42px;
+    border-radius: 0;
+    box-shadow: none;
+    margin-top: 12px;
 }
 /* Dashboard Area End */
 
