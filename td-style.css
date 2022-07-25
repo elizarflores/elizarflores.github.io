@@ -1784,7 +1784,13 @@ div.controls ul li:not(:last-child){
     -moz-appearance: none;
     appearance: none;
 }
-
+.tab-content #customize_style label.radio-inline{
+    margin-bottom: 0!important;
+}
+.tab-content #customize_style input[type=radio]{
+    margin-top: 0px!important;
+    height: auto!important;
+}
 
 
 /* Dashboard Area End */
