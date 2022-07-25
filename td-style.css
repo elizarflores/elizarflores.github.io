@@ -1741,12 +1741,12 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     height: 42px;
 }
-.tab-content{
+.account_settings .tab-content{
     padding: 24px;
     background: #f5f5f5;
 }
-.tab-content #customize_style label,
-.tab-content #pricing_display label{
+.account_settings .tab-content #customize_style label,
+.account_settings .tab-content #pricing_display label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -1757,8 +1757,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-.tab-content #customize_style input,
-.tab-content #pricing_display input{
+.account_settings .tab-content #customize_style input,
+.account_settings .tab-content #pricing_display input{
     box-shadow: none;
     height: 42px;
     background: #ffffff;
@@ -1772,10 +1772,10 @@ div.controls ul li:not(:last-child){
     color: #000000;
 }
 
-.tab-content #customize_style input[type=file] {
+.account_settings .tab-content #customize_style input[type=file] {
     overflow: hidden;
 }
-.tab-content #customize_style input[type=file] {
+.account_settings .tab-content #customize_style input[type=file] {
     display: block;
     width: 100%;
     padding: 0.375rem 0.75rem!important;
@@ -1786,19 +1786,19 @@ div.controls ul li:not(:last-child){
     -moz-appearance: none;
     appearance: none;
 }
-.tab-content #customize_style input[type=file]:focus{
+.account_settings .tab-content #customize_style input[type=file]:focus{
     outline: none !important;
 }
-.tab-content #customize_style label.radio-inline,
-.tab-content #pricing_display label.radio-inline{
+.account_settings .tab-content #customize_style label.radio-inline,
+.account_settings .tab-content #pricing_display label.radio-inline{
     margin-bottom: 0!important;
 }
-.tab-content #customize_style label[for="text_color"],
-.tab-content #pricing_display label[for="text_color"]{
+.account_settings .tab-content #customize_style label[for="text_color"],
+.account_settings .tab-content #pricing_display label[for="text_color"]{
     margin-bottom: 18px!important;
 }
-.tab-content #customize_style input[type=radio],
-.tab-content #pricing_display input[type=radio]{
+.account_settings .tab-content #customize_style input[type=radio],
+.account_settings .tab-content #pricing_display input[type=radio]{
     margin-top: 0px!important;
     height: auto!important;
 }
@@ -2577,6 +2577,9 @@ div.controls ul li:not(:last-child){
     }
     #change_password .container-fluid > .row, .personal-info{
         padding: 30px 10px;
+    }
+    .account_settings .tab-content{
+        padding:8px;
     }
     /* Dashboard Area End Here*/
 
