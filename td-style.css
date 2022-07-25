@@ -1713,7 +1713,7 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-.tab-content #customize_style input{
+/* .tab-content #customize_style input{
     box-shadow: none;
     height: 42px;
     background: #ffffff;
@@ -1725,7 +1725,7 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     line-height: 20px;
     color: #000000;
-}
+} */
 input[type=file]:not(:disabled):not([readonly]) {
     cursor: pointer;
 }
