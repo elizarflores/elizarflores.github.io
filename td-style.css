@@ -1803,7 +1803,37 @@ div.controls ul li:not(:last-child){
     height: auto!important;
 }
 
-
+.balance-table-title{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 24px;
+}
+.balance-footer .pull-right span{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 12px;
+}
+#pay_balance{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+    width: 320px;
+    height:48px;
+}
 /* Dashboard Area End */
 
 
