@@ -1804,8 +1804,6 @@ div.controls ul li:not(:last-child){
 }
 
 .account_invite .container-fluid {
-    padding-left: 0!important;
-    padding-right: 0!important;
     background-color: #f5f5f5;
     padding: 20px;
 }
@@ -1821,13 +1819,13 @@ div.controls ul li:not(:last-child){
     line-height: 15px;
     text-transform: uppercase;
     color: #000000;
-    margin-bottom: 24px;
+    margin-bottom: 24px!important;
 }
 .balance-footer .pull-right span{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 15px;
     text-transform: uppercase;
     color: #000000;
