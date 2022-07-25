@@ -1657,7 +1657,7 @@ div.controls ul li:not(:last-child){
 }
 #change_password .container-fluid > .row,
 .personal-info {
-    padding: 40px 30px;
+    padding: 32px 12px;
     background: #f5f5f5;
 }
 .personal-info p{
