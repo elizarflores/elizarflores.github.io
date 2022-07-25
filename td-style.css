@@ -1784,6 +1784,9 @@ div.controls ul li:not(:last-child){
     -moz-appearance: none;
     appearance: none;
 }
+.tab-content #customize_style input[type=file]:focus{
+    outline: none !important;
+}
 .tab-content #customize_style label.radio-inline{
     margin-bottom: 0!important;
 }
