@@ -2579,7 +2579,7 @@ div.controls ul li:not(:last-child){
         padding: 30px 10px;
     }
     .account_settings .tab-content{
-        padding:8px;
+        padding:18px 8px 8px 8px;
     }
     /* Dashboard Area End Here*/
 
