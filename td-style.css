@@ -1847,7 +1847,6 @@ div.controls ul li:not(:last-child){
     line-height: 15px;
     text-transform: uppercase;
     color: #000000;
-    margin-top: 12px;
     display: inline-block;
 }
 #pay_balance{
@@ -2504,6 +2503,13 @@ div.controls ul li:not(:last-child){
     .account_settings .tab-content #customize_style label[for="text_color"], .account_settings .tab-content #pricing_display label[for="text_color"]{
         margin-bottom: 12px !important;
     }
+    .balance-table-title {
+        font-size:18px;
+    }
+    #pay_balance{
+        font-size: 12px;
+        width: 132px;
+    }
     /* Dashboard Area End Here*/
 
 }
@@ -2651,6 +2657,10 @@ div.controls ul li:not(:last-child){
     }
     .account_settings .tab-content{
         padding:18px 8px 8px 8px;
+    }
+    .balance-footer .pull-right span{
+        font-size:16px;
+        line-height:24px;
     }
     /* Dashboard Area End Here*/
 
