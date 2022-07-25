@@ -2236,7 +2236,7 @@ div.controls ul li:not(:last-child){
         margin-top: 32px;
     }
     .account_settings .tab-content {
-        padding: 8px 0px;
+        padding: 16px 0px;
     }
     .account_settings .tab-content #customize_style label[for="text_color"], .account_settings .tab-content #pricing_display label[for="text_color"]{
         margin-bottom: 12px !important;
