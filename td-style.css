@@ -2299,6 +2299,19 @@ div.controls ul li:not(:last-child){
     .account_settings .tab-content #customize_style label[for="text_color"], .account_settings .tab-content #pricing_display label[for="text_color"]{
         margin-bottom: 12px !important;
     }
+    .account_invite .container-fluid{
+        padding:16px 10px;
+    }
+    .balance-table-title {
+        font-size:16px;
+    }
+    #pay_balance{
+        font-size: 12px;
+        width: 132px;
+    }
+    .balance-table{
+        overflow-x: scroll;
+    }
     /* Dashboard Area End Here*/
 
 }
