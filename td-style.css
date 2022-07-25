@@ -1745,7 +1745,8 @@ div.controls ul li:not(:last-child){
     padding: 24px;
     background: #f5f5f5;
 }
-.tab-content #customize_style label{
+.tab-content #customize_style label,
+.tab-content #pricing_display label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -1756,7 +1757,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-.tab-content #customize_style input{
+.tab-content #customize_style input,
+.tab-content #pricing_display input{
     box-shadow: none;
     height: 42px;
     background: #ffffff;
@@ -1787,13 +1789,16 @@ div.controls ul li:not(:last-child){
 .tab-content #customize_style input[type=file]:focus{
     outline: none !important;
 }
-.tab-content #customize_style label.radio-inline{
+.tab-content #customize_style label.radio-inline,
+.tab-content #pricing_display label.radio-inline{
     margin-bottom: 0!important;
 }
-.tab-content #customize_style label[for="text_color"]{
+.tab-content #customize_style label[for="text_color"],
+.tab-content #pricing_display label[for="text_color"]{
     margin-bottom: 18px!important;
 }
-.tab-content #customize_style input[type=radio]{
+.tab-content #customize_style input[type=radio],
+.tab-content #pricing_display input[type=radio]{
     margin-top: 0px!important;
     height: auto!important;
 }
