@@ -1803,6 +1803,16 @@ div.controls ul li:not(:last-child){
     height: auto!important;
 }
 
+.account_invite .container-fluid {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+.account_invite .balance-table{
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
 .balance-table-title{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
