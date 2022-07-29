@@ -2054,6 +2054,10 @@ div.controls ul li:not(:last-child){
     margin-left: 15px;
     margin-right: 15px;
 }
+#cart-summary .cart-item td:nth-child(2),
+#cart-summary .cart-item td.text-left{
+    padding-right: 16px;
+}
 /* Dashboard Area End */
 
 
