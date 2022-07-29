@@ -1980,7 +1980,7 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     box-shadow: none!important;
 }
-#cart-summary tfoot tr td.form-group.form-inline{
+#cart-summary tfoot tr td .form-group.form-inline{
     margin-bottom: 0!important;
 }
 /* Dashboard Area End */
