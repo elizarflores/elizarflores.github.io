@@ -2038,6 +2038,10 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-weight: 500!important;
 }
+#summary-dropdown-tbl .center-img.cart-dropdown-thumb{
+    width: 40px!important;
+    height: 40px !important;
+}
 /* Dashboard Area End */
 
 
