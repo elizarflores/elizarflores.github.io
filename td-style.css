@@ -1890,6 +1890,14 @@ div.controls ul li:not(:last-child){
     line-height: 22px;
     color: #000000;
 }
+#cart-summary tbody tr td:nth-child(2) small{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
 /* Dashboard Area End */
 
 
