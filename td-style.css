@@ -2022,6 +2022,15 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-left: 4px;
 }
+#cart-summary tfoot tr td.text-right.text-nowrap,
+#cart-summary tfoot tr td.text-right{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 15px;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
