@@ -2050,6 +2050,11 @@ div.controls ul li:not(:last-child){
 #summary-dropdown-tbl span.glyphicon-remove{
     color: #000000;
 }
+#main-content.container > .row,
+#main-content.container  .row:first-child{
+    margin-left: 0;
+    margin-right: 0;
+}
 /* Dashboard Area End */
 
 
