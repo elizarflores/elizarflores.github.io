@@ -2042,6 +2042,11 @@ div.controls ul li:not(:last-child){
     width: 40px!important;
     height: 40px !important;
 }
+#info-modal .modal-footer button.btn.btn-primary{
+    border-radius: 0;
+    box-shadow: none;
+    padding: 6px 20px;
+}
 /* Dashboard Area End */
 
 
