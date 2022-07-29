@@ -2508,6 +2508,12 @@ div.controls ul li:not(:last-child){
     .balance-table{
         overflow-x: scroll;
     }
+    #update-cart-content{
+        max-width: 148px;
+    }
+    #checkout-btn{
+        max-width: 180px;
+    }
     /* Dashboard Area End Here*/
 
 }
