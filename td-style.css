@@ -1863,7 +1863,7 @@ div.controls ul li:not(:last-child){
     margin-top: 12px;
 }
 
-#cart-summary table thead tr td{
+#cart-summary thead tr td{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
