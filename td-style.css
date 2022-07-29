@@ -1961,7 +1961,7 @@ div.controls ul li:not(:last-child){
     height: 48px;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 24px;
     text-align: center;
@@ -1979,9 +1979,9 @@ div.controls ul li:not(:last-child){
     height: 48px;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 32px;
     text-align: center;
     letter-spacing: 0.095em;
     text-transform: uppercase;
