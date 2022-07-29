@@ -1960,6 +1960,7 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.095em;
     text-transform: uppercase;
     box-shadow: none!important;
+    margin-right: 12px;
 }
 #checkout-btn{
     background-color: #000000!important;
