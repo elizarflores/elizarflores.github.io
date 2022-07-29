@@ -1874,7 +1874,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
 }
 
-#cart-summary tbody tr td{
+#cart-summary tbody tr td,
+#cart-summary tfoot tr td{
     padding:14px 0;
     vertical-align: middle!important;
 }
