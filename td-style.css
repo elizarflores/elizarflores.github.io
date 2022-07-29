@@ -1888,8 +1888,8 @@ div.controls ul li:not(:last-child){
 #cart-summary tbody tr td:nth-child(2) a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
+    font-weight: 500;
+    font-size: 11px;
     line-height: 22px;
     color: #000000;
 }
@@ -1897,7 +1897,7 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 9px;
+    font-size: 10px;
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5);
 }
