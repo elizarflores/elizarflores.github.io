@@ -2000,6 +2000,7 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #000000;
+    margin-bottom: 8px;
 }
 #cart-summary tfoot tr td .form-group.form-inline input{
     height:42px !important;
@@ -2012,7 +2013,6 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     text-align: center;
     color: #000000;
-    margin-bottom: 8px;
 }
 #cart-summary tfoot tr td .form-group.form-inline input:focus{
     border: 1px solid #D9D9D9;
