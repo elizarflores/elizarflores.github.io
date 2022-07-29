@@ -1877,7 +1877,11 @@ div.controls ul li:not(:last-child){
 #cart-summary tbody tr td{
     padding:12px 0;
 }
-
+.cart-dropdown-thumb, .cart-thumb{
+    height: 60px!important;
+    width: 100%!important;
+    padding-right: 8px;
+}
 
 /* Dashboard Area End */
 
