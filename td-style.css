@@ -1932,11 +1932,12 @@ div.controls ul li:not(:last-child){
 #cart-summary tbody tr td button.delete-cart-product:hover{
     background: #F5F5F5;
 }
-#cart-summary tbody tr td {
+#cart-summary tbody tr td,
+#cart-summary tbody tr td span {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 500;
+    font-size: 14px!important;
     line-height: 20px;
     color: #000000;
 }
