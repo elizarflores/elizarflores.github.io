@@ -1959,6 +1959,7 @@ div.controls ul li:not(:last-child){
     text-align: center;
     letter-spacing: 0.095em;
     text-transform: uppercase;
+    box-shadow: none!important;
 }
 #checkout-btn{
     background-color: #000000!important;
@@ -1975,6 +1976,7 @@ div.controls ul li:not(:last-child){
     text-align: center;
     letter-spacing: 0.095em;
     text-transform: uppercase;
+    box-shadow: none!important;
 }
 /* Dashboard Area End */
 
