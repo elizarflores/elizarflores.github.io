@@ -2005,6 +2005,13 @@ div.controls ul li:not(:last-child){
     height:42px !important;
     background: #FFFFFF;
     border: 1px solid #D9D9D9;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
 }
 /* Dashboard Area End */
 
