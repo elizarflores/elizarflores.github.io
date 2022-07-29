@@ -1932,7 +1932,15 @@ div.controls ul li:not(:last-child){
 #cart-summary tbody tr td button.delete-cart-product:hover{
     background: #F5F5F5;
 }
-
+#cart-summary tbody tr td {
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #000000;
+}
 /* Dashboard Area End */
 
 
