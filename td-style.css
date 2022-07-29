@@ -1883,9 +1883,7 @@ div.controls ul li:not(:last-child){
     width: 80%!important;
     padding-right: 8px;
 }
-.cart-dropdown-thumb, .cart-thumb{
-    width: 100%!important;
-}
+
 #cart-summary tbody tr td:nth-child(2) a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
