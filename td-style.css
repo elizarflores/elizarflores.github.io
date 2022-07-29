@@ -2065,7 +2065,7 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
-    font-size: 9px;
+    font-size: 10px;
     line-height: 12px;
     letter-spacing: 0.09em;
     text-transform: uppercase;
@@ -2083,6 +2083,9 @@ div.controls ul li:not(:last-child){
     border: 1px solid #D9D9D9;
     box-shadow: none;
     outline:0;
+}
+#main-column .panel.panel-smart{
+    backgroun:#f5f5f5;
 }
 /* Checkout Page CSS */
 
