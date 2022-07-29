@@ -2013,6 +2013,10 @@ div.controls ul li:not(:last-child){
     text-align: center;
     color: #000000;
 }
+#cart-summary tfoot tr td .form-group.form-inline input:focus{
+    border: 1px solid #D9D9D9;
+    box-shadow: none;
+}
 /* Dashboard Area End */
 
 
