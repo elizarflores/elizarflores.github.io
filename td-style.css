@@ -1876,7 +1876,7 @@ div.controls ul li:not(:last-child){
 
 #cart-summary tbody tr td{
     padding:10px 0;
-    vertical-align: middle;
+    vertical-align: middle!important;
 }
 .cart-dropdown-thumb, .cart-thumb{
     height: 60px!important;
