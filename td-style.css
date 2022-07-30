@@ -2091,6 +2091,9 @@ div.controls ul li:not(:last-child){
     border:1px solid #D9D9D9;
     box-shadow: none;
 }
+#frm-shipping input[type="radio"]{
+    height:auto;
+}
 #main-column .panel.panel-smart{
     background:#f5f5f5;
     margin-left: 15px;
