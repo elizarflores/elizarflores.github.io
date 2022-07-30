@@ -2195,6 +2195,7 @@ div.controls ul li:not(:last-child){
     line-height: 15px;
     color: #000000;
 }
+.text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg,
 #btn-next-order-summary a{
     width: 48%;
     margin-right: 5px;
@@ -2212,9 +2213,11 @@ div.controls ul li:not(:last-child){
     color: #000000!important;
     transition: all 0.3s ease-in;
 }
+.text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg:hover,
 #btn-next-order-summary a:hover{
     color: #ffffff!important;
 }
+.text-uppercase.clearfix.text-right button.btn.btn-primary.btn-lg,
 #btn-next-order-summary button{
     width: 48%;
     box-shadow: none;
@@ -2229,6 +2232,7 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     transition: all 0.3s ease-in;
 }
+.text-uppercase.clearfix.text-right button.btn.btn-primary.btn-lg:hover,
 #btn-next-order-summary button:hover{
     background: #ffffff!important;
     color: #000000!important;
@@ -2247,6 +2251,7 @@ div.controls ul li:not(:last-child){
     text-align: left!important;
 }
 #collapse-shipping-disclaimer .panel-body{
+    padding-top: 15px!important;
     padding-bottom: 15px!important;
 }
 #collapse-shipping-disclaimer .panel-body p{
@@ -2256,6 +2261,9 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     line-height: 24px;
     color: #000000!important;
+}
+.nopadding.maps{
+    margin-top: 16px!important;
 }
 /* Checkout Page CSS */
 
