@@ -2104,7 +2104,7 @@ div.controls ul li:not(:last-child){
     margin-left: 15px;
     margin-right: 15px;
 }
-#main-column .panel.panel-smart .form-group .col-lg-12{
+#main-column .panel.panel-smart .panel-heading .form-group .col-lg-12{
     padding-left: 0;
 }
 #main-column .panel.panel-smart .form-group .col-lg-12 label{
