@@ -2072,7 +2072,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-#frm-shipping input{
+#frm-shipping input,
+#frm-shipping select{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
