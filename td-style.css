@@ -2279,6 +2279,16 @@ div.controls ul li:not(:last-child){
     margin-bottom: 15px;
     padding-left: 15px;
 }
+.total h4,
+.total h4 span {
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+}
 /* Checkout Page CSS */
 
 
