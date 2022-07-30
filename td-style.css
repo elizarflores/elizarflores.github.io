@@ -2800,6 +2800,10 @@ div.controls ul li:not(:last-child){
     #main-column .panel.panel-smart .panel-heading h4{
         font-size: 14px;
     }
+    .text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg, #btn-next-order-summary a,
+    .text-uppercase.clearfix.text-right button.btn.btn-primary.btn-lg, #btn-next-order-summary button{
+        padding:8px 0;
+    }
     /* Checkout Page CSS */
 
 }
