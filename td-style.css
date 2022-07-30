@@ -2061,7 +2061,8 @@ div.controls ul li:not(:last-child){
 /* Dashboard Area End */
 
 /* Checkout Page CSS */
-#frm-shipping label{
+#frm-shipping label,
+.panel.panel-smart .panel-body form label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -2073,7 +2074,9 @@ div.controls ul li:not(:last-child){
     margin-bottom: 8px;
 }
 #frm-shipping input,
-#frm-shipping select{
+#frm-shipping select,
+.panel.panel-smart .panel-body form input,
+.panel.panel-smart .panel-body form select{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -2148,7 +2151,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     text-align: center;
 }
-#frm-shipping h1.uppercased{
+#frm-shipping h1.uppercased,
+.panel.panel-smart .panel-body form h2.uppercased{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
