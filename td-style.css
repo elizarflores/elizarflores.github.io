@@ -2270,6 +2270,7 @@ div.controls ul li:not(:last-child){
 #main-column > h1{
     font-size: 18px;
     margin-bottom: 5px;
+    padding-left: 15px;
 }
 /* Checkout Page CSS */
 
