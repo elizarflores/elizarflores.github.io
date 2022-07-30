@@ -2230,8 +2230,8 @@ div.controls ul li:not(:last-child){
     transition: all 0.3s ease-in;
 }
 #btn-next-order-summary button:hover{
-    background: #ffff;
-    color: #000000;
+    background: #ffffff!important;
+    color: #000000!important;
 }
 /* Checkout Page CSS */
 
