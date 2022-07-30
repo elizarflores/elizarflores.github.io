@@ -2241,6 +2241,7 @@ div.controls ul li:not(:last-child){
     background: #ffffff!important;
     border-radius: 0;
     box-shadow: none;
+    padding: 0!important;
 }
 #collapseShippingDisclaimer h4{
     text-align: left!important;
