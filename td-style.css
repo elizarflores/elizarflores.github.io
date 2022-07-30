@@ -2133,6 +2133,10 @@ div.controls ul li:not(:last-child){
 #main-column .panel.panel-smart .form-group .col-lg-12 select:focus{
     box-shadow: none;
 }
+#main-column .panel.panel-smart .panel-heading .row{
+    display: flex;
+    align-items: center;
+}
 #main-column .panel.panel-smart .panel-heading h4{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
