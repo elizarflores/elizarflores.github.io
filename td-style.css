@@ -2804,11 +2804,15 @@ div.controls ul li:not(:last-child){
     .text-uppercase.clearfix.text-right button.btn.btn-primary.btn-lg, #btn-next-order-summary button{
         padding:8px 0;
     }
+    .panel.panel-smart .panel-body h1,
     #main-column > h1 {
         font-size: 16px;
     }
     #frm-shipping label, .panel.panel-smart .panel-body form label{
         font-size: 9px;
+    }
+    #main-column > .panel.panel-smart > .panel-body{
+        padding-top: 0!important;
     }
     /* Checkout Page CSS */
 
