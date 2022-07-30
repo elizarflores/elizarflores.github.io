@@ -2162,6 +2162,10 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #000000;
 }
+.panel.panel-smart .panel-body form h2.uppercased{
+    margin-top: 0;
+    margin-bottom: 15px !important;
+}
 .panel.panel-smart .panel-heading h3.panel-title{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -2200,7 +2204,7 @@ div.controls ul li:not(:last-child){
     font-size: 20px;
     line-height: 15px;
     color: #000000;
-    margin-top: 0!important;
+    margin-top: 12px!important;
     margin-bottom: 15px;
 }
 .text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg,
