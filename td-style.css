@@ -2163,6 +2163,9 @@ div.controls ul li:not(:last-child){
     line-height: 28px;
     color: #000000;
 }
+#dl-order-summary dt{
+    width: auto;
+}
 /* Checkout Page CSS */
 
 
