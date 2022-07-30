@@ -2165,6 +2165,21 @@ div.controls ul li:not(:last-child){
 }
 #dl-order-summary dt{
     width: auto;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+#dl-order-summary dd{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    align-items: center;
+    color: #000000;
 }
 /* Checkout Page CSS */
 
