@@ -2286,10 +2286,10 @@ div.controls ul li:not(:last-child){
 .total h4,
 .total h4 span {
     font-family: 'Inter',sans-serif!important;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 15px;
+    font-style: normal!important;
+    font-weight: 400!important;
+    font-size: 20px!important;
+    line-height: 15px!important;
     text-transform: uppercase;
     color: #000000;
 }
