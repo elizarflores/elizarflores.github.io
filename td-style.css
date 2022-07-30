@@ -2122,7 +2122,7 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 20px;
     color: #000000;
     height:42px;
@@ -2132,6 +2132,14 @@ div.controls ul li:not(:last-child){
 }
 #main-column .panel.panel-smart .form-group .col-lg-12 select:focus{
     box-shadow: none;
+}
+#main-column .panel.panel-smart .panel-heading h4{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
 }
 /* Checkout Page CSS */
 
