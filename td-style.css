@@ -2283,6 +2283,7 @@ div.controls ul li:not(:last-child){
     margin-bottom: 15px;
     padding-left: 15px;
 }
+.term-container h4,
 .total h4,
 .total h4 span {
     font-family: 'Inter',sans-serif!important;
