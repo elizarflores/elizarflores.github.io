@@ -2267,6 +2267,10 @@ div.controls ul li:not(:last-child){
 .nopadding.maps{
     margin-top: 16px!important;
 }
+#main-column > h1{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
 /* Checkout Page CSS */
 
 
