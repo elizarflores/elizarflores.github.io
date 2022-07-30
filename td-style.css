@@ -2210,6 +2210,10 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.095em;
     text-transform: uppercase;
     color: #000000!important;
+    transition: all 0.3s ease-in;
+}
+#btn-next-order-summary a:hover{
+    color: #ffffff!important;
 }
 #btn-next-order-summary button{
     width: 48%;
