@@ -2294,6 +2294,17 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #000000;
 }
+#submit_billing{
+    height: 42px;
+    box-shadow: none;
+    border-radius: 0;
+    border: 2px solid #000000;
+    transition: all 0.3s ease-in;
+}
+#submit_billing:hover{
+    background: #ffffff;
+    color: #000000;
+}
 /* Checkout Page CSS */
 
 
