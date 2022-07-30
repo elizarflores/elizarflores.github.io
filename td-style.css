@@ -2293,6 +2293,7 @@ div.controls ul li:not(:last-child){
     line-height: 15px!important;
     text-transform: uppercase;
     color: #000000;
+    margin-bottom: 12px!important;
 }
 #submit_billing{
     height: 42px;
