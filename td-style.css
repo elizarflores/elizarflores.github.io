@@ -2246,6 +2246,17 @@ div.controls ul li:not(:last-child){
 #collapseShippingDisclaimer h4{
     text-align: left!important;
 }
+#collapse-shipping-disclaimer .panel-body{
+    padding-bottom: 15px!important;
+}
+#collapse-shipping-disclaimer .panel-body p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000!important;
+}
 /* Checkout Page CSS */
 
 
