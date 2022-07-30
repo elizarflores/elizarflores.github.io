@@ -2233,8 +2233,14 @@ div.controls ul li:not(:last-child){
     background: #ffffff!important;
     color: #000000!important;
 }
+#accordion-shipping-disclaimer .panel.panel-default{
+    border: none;
+}
 #collapseShippingDisclaimer {
     border:0;
+    background: #ffffff!important;
+    border-radius: 0;
+    box-shadow: none;
 }
 #collapseShippingDisclaimer h4{
     text-align: left!important;
