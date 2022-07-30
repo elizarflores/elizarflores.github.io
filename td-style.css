@@ -2211,6 +2211,10 @@ div.controls ul li:not(:last-child){
     margin-top: 12px!important;
     margin-bottom: 15px;
 }
+#btn-next-order-summary{
+    display:flex;
+    justify-content: space-between;
+}
 .text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg,
 #btn-next-order-summary a{
     width: 48%;
@@ -2976,6 +2980,18 @@ div.controls ul li:not(:last-child){
         font-size: 12px;
         width: 132px;
     }
+    /* Checkout Page CSS */
+    #first_name,
+    #email,
+    #unit,
+    #city,
+    #country{
+        margin-bottom: 15px;
+    }
+    #main-column .panel.panel-smart .panel-heading h4 a{
+        font-size: 16px!important;
+    }
+    /* Checkout Page CSS */
     /* Dashboard Area End Here*/
 
 }
@@ -3059,7 +3075,8 @@ div.controls ul li:not(:last-child){
     #qty-calculator .input-group.bootstrap-touchspin input.qty-default{
         padding: 0 !important;
     }
-    #qty-calculator div.col-lg-4.text-center span.font-xlg, #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary {
+    #qty-calculator div.col-lg-4.text-center span.font-xlg, 
+    #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary {
         font-size: 14px;
     }
     #qty-calculator div.col-lg-4.text-center label{
