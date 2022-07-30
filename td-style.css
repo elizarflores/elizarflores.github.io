@@ -2233,7 +2233,10 @@ div.controls ul li:not(:last-child){
     background: #ffffff!important;
     color: #000000!important;
 }
-#accordion-shipping-disclaimer h4{
+#collapseShippingDisclaimer {
+    border:0;
+}
+#collapseShippingDisclaimer h4{
     text-align: left!important;
 }
 /* Checkout Page CSS */
