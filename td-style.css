@@ -2227,6 +2227,11 @@ div.controls ul li:not(:last-child){
     line-height: 24px;
     letter-spacing: 0.095em;
     text-transform: uppercase;
+    transition: all 0.3s ease-in;
+}
+#btn-next-order-summary button:hover{
+    background: #ffff;
+    color: #000000;
 }
 /* Checkout Page CSS */
 
