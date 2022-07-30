@@ -2804,6 +2804,12 @@ div.controls ul li:not(:last-child){
     .text-uppercase.clearfix.text-right button.btn.btn-primary.btn-lg, #btn-next-order-summary button{
         padding:8px 0;
     }
+    #main-column > h1 {
+        font-size: 16px;
+    }
+    #frm-shipping label, .panel.panel-smart .panel-body form label{
+        font-size: 9px;
+    }
     /* Checkout Page CSS */
 
 }
