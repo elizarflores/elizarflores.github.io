@@ -2141,9 +2141,10 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 28px;
     color: #000000;
+    text-align: center;
 }
 #frm-shipping h1.uppercased{
     font-family: 'Inter',sans-serif!important;
