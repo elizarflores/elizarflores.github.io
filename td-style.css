@@ -2781,13 +2781,24 @@ div.controls ul li:not(:last-child){
         margin-bottom: 15px;
     }
     #main-column .panel.panel-smart .panel-heading h4 a{
-        font-size: 16px!important;
+        font-size: 14px!important;
     }
     #main-column > .panel.panel-smart{
         padding:12px;
     }
     #main-column > .panel.panel-smart .panel-body .row .col-lg-4 .panel.panel-smart{
         margin-bottom: 0;
+        padding: 15px;
+    }
+    #main-column .panel.panel-smart .form-group .col-lg-12 select{
+        padding: 0 6px;
+        font-size: 13px;
+    }
+    .panel.panel-smart .panel-heading h3.panel-title{
+        font-size: 18px;
+    }
+    #main-column .panel.panel-smart .panel-heading h4{
+        font-size: 14px;
     }
     /* Checkout Page CSS */
 
