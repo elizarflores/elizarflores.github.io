@@ -2151,6 +2151,10 @@ div.controls ul li:not(:last-child){
     color: #000000;
     text-align: center;
 }
+#main-column .panel.panel-smart .panel-heading h4 a{
+    padding: 10px 16px;
+    margin-bottom: 0!important;
+}
 #frm-shipping h1.uppercased,
 .panel.panel-smart .panel-body form h2.uppercased{
     font-family: 'Inter',sans-serif!important;
