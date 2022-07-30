@@ -2200,6 +2200,8 @@ div.controls ul li:not(:last-child){
     font-size: 20px;
     line-height: 15px;
     color: #000000;
+    margin-top: 0!important;
+    margin-bottom: 15px;
 }
 .text-uppercase.clearfix.text-right a.btn.btn-primary.btn-lg,
 #btn-next-order-summary a{
