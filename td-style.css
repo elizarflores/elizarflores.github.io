@@ -2097,6 +2097,7 @@ div.controls ul li:not(:last-child){
 #frm-shipping input[type="radio"]{
     height:auto;
     margin-right: 8px;
+    margin-top: 0;
 }
 #frm-shipping #shipping-options p label.point{
     display: inline-flex;
@@ -2771,6 +2772,25 @@ div.controls ul li:not(:last-child){
     }
     /* Dashboard Area End Here*/
 
+    /* Checkout Page CSS */
+    #first_name,
+    #email,
+    #unit,
+    #city,
+    #country{
+        margin-bottom: 15px;
+    }
+    #main-column .panel.panel-smart .panel-heading h4 a{
+        font-size: 16px!important;
+    }
+    #main-column > .panel.panel-smart{
+        padding:12px;
+    }
+    #main-column > .panel.panel-smart .panel-body .row .col-lg-4 .panel.panel-smart{
+        margin-bottom: 0;
+    }
+    /* Checkout Page CSS */
+
 }
 
 
@@ -2980,6 +3000,8 @@ div.controls ul li:not(:last-child){
         font-size: 12px;
         width: 132px;
     }
+    /* Dashboard Area End Here*/
+
     /* Checkout Page CSS */
     #first_name,
     #email,
@@ -2992,7 +3014,6 @@ div.controls ul li:not(:last-child){
         font-size: 16px!important;
     }
     /* Checkout Page CSS */
-    /* Dashboard Area End Here*/
 
 }
 
