@@ -3041,6 +3041,16 @@ div.controls ul li:not(:last-child){
     #main-column .panel.panel-smart .panel-heading h4 a{
         font-size: 16px!important;
     }
+    .general-border.padding-10.margin-10 .order_item_simple .row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-2{
+        width:16%;
+    }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
+        width: 50%;
+    }
     /* Checkout Page CSS */
 
 }
