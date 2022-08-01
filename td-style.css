@@ -2841,9 +2841,10 @@ div.controls ul li:not(:last-child){
     .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
         margin-bottom: 12px;
     }
-    #main-content > .row{
-        margin-left: 0;
-        margin-right: 0;
+    .payment-method,
+    .credit-card__container,
+    .billing-form__container{
+        padding: 0 15px;
     }
     .billing-form__container .row div.col-lg-8{
         text-align: left!important;
