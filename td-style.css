@@ -2315,6 +2315,9 @@ div.controls ul li:not(:last-child){
     background: #ffffff!important;
     color: #000000!important;
 }
+.transaction__wrapper{
+    padding: 0 15px;
+}
 /* Checkout Page CSS */
 
 
@@ -3203,6 +3206,12 @@ div.controls ul li:not(:last-child){
     }
     #main-column .panel.panel-smart .panel-heading h4 a{
         font-size: 16px!important;
+    }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-2{
+        width:16.67%;
+    }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
+        width: 50%;
     }
     /* Checkout Page CSS */
 
