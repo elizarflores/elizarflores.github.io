@@ -2848,6 +2848,9 @@ div.controls ul li:not(:last-child){
     .billing-form__container .row div.col-lg-8{
         text-align: left!important;
     }
+    #main-column .container .row > .col-sm-12{
+        padding: 0;
+    }
     /* Checkout Page CSS */
 
 }
