@@ -2179,6 +2179,10 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: #000000;
 }
+.billing-form__container h3.uppercased,
+.credit-card__container h3.uppercased{
+    font-size: 16px;
+}
 .panel.panel-smart .panel-body form h2.uppercased{
     margin-top: 0;
     margin-bottom: 15px !important;
