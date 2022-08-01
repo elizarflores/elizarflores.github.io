@@ -2079,7 +2079,9 @@ div.controls ul li:not(:last-child){
 .panel.panel-smart .panel-body form input,
 .panel.panel-smart .panel-body form select,
 .billing-form__container select,
-.billing-form__container input{
+.billing-form__container input,
+.payment-method select,
+.credit-card__container input{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -2162,7 +2164,8 @@ div.controls ul li:not(:last-child){
 }
 #frm-shipping h1.uppercased,
 .panel.panel-smart .panel-body form h2.uppercased,
-.billing-form__container h3.uppercased{
+.billing-form__container h3.uppercased,
+.credit-card__container h3.uppercased{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
