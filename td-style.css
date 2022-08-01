@@ -2843,7 +2843,7 @@ div.controls ul li:not(:last-child){
     }
     .payment-method,
     .credit-card__container,
-    .order__summary-container{
+    .billing-form__container{
         padding: 0 15px;
     }
     /* Checkout Page CSS */
