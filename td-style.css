@@ -2817,6 +2817,12 @@ div.controls ul li:not(:last-child){
     #main-column > .panel.panel-smart > .panel-body{
         padding-top: 0!important;
     }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-2{
+        margin-bottom: 12px;
+    }
+    .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
+        margin-bottom: 12px;
+    }
     /* Checkout Page CSS */
 
 }
