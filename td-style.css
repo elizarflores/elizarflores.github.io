@@ -2062,7 +2062,8 @@ div.controls ul li:not(:last-child){
 
 /* Checkout Page CSS */
 #frm-shipping label,
-.panel.panel-smart .panel-body form label{
+.panel.panel-smart .panel-body form label,
+.billing-form__container label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -2076,7 +2077,9 @@ div.controls ul li:not(:last-child){
 #frm-shipping input,
 #frm-shipping select,
 .panel.panel-smart .panel-body form input,
-.panel.panel-smart .panel-body form select{
+.panel.panel-smart .panel-body form select,
+.billing-form__container select,
+.billing-form__container input{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -2136,7 +2139,8 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
     outline:0;
 }
-#main-column .panel.panel-smart .form-group .col-lg-12 select:focus{
+#main-column .panel.panel-smart .form-group .col-lg-12 select:focus,
+.billing-form__container select:focus{
     box-shadow: none;
 }
 #main-column .panel.panel-smart .panel-heading .row{
@@ -2318,6 +2322,8 @@ div.controls ul li:not(:last-child){
 .transaction__wrapper{
     padding: 0 15px;
 }
+
+
 /* Checkout Page CSS */
 
 
