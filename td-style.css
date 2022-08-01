@@ -2842,7 +2842,7 @@ div.controls ul li:not(:last-child){
         margin-bottom: 12px;
     }
     .payment-method,
-    .credit-card__container
+    .credit-card__container,
     .order__summary-container{
         padding: 0 15px;
     }
