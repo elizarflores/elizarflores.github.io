@@ -2786,10 +2786,10 @@ div.controls ul li:not(:last-child){
         overflow-x: scroll;
     }
     #update-cart-content{
-        max-width: 148px;
+        max-width: 140px;
     }
     #checkout-btn{
-        max-width: 180px;
+        max-width: 160px;
     }
     /* Dashboard Area End Here*/
 
