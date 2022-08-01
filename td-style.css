@@ -2093,6 +2093,10 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
     outline:0;
 }
+.credit-card__container input:focus,
+.billing-form__container input:focus{
+    border-color: #d9d9d9;
+}
 #frm-shipping input:focus,
 #frm-shipping select:focus{
     outline:0;
