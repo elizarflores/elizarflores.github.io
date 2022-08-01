@@ -2841,6 +2841,11 @@ div.controls ul li:not(:last-child){
     .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
         margin-bottom: 12px;
     }
+    .payment-method,
+    .credit-card__container
+    .order__summary-container{
+        padding: 0 15px;
+    }
     /* Checkout Page CSS */
 
 }
