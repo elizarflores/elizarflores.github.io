@@ -2791,6 +2791,18 @@ div.controls ul li:not(:last-child){
     #checkout-btn{
         max-width: 160px;
     }
+    #cart-summary tbody tr td, #cart-summary tfoot tr td{
+        padding: 10px;
+    }
+    .cart__container .text-right{
+        text-align: center;
+    }
+    .jobtag,
+    .po{
+        display: inline-flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
     /* Dashboard Area End Here*/
 
     /* Checkout Page CSS */
