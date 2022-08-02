@@ -2864,10 +2864,6 @@ div.controls ul li:not(:last-child){
     #main-column .container .row > .col-sm-12{
         padding: 0;
     }
-    .shopping-cart-table{
-        margin-left: 0px;
-        margin-right: 0px;
-    }
     /* Checkout Page CSS */
 
 }
