@@ -2334,7 +2334,9 @@ div.controls ul li:not(:last-child){
 .transaction__wrapper{
     padding: 0 15px;
 }
-
+.cart__container{
+    min-width:75vh;
+}
 
 /* Checkout Page CSS */
 
