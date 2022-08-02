@@ -2803,6 +2803,15 @@ div.controls ul li:not(:last-child){
         align-items: center;
         flex-wrap: wrap;
     }
+    .jobtag input,
+    .po input{
+        width:90%;
+    }
+    .jobtag a,
+    .po a{
+        width:8%;
+        margin-left:1%;
+    }
     /* Dashboard Area End Here*/
 
     /* Checkout Page CSS */
