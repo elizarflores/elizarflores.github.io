@@ -2399,6 +2399,17 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
     border-color: #d9d9d9;
 }
+
+.order__summary-container .panel-group .panel-heading.point{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    color: #000000;
+}
+
 /* Checkout Page CSS */
 
 
