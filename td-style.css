@@ -2408,6 +2408,7 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #000000;
+    margin-bottom: 0!important;
 }
 
 /* Checkout Page CSS */
