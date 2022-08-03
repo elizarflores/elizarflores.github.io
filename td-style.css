@@ -2379,6 +2379,12 @@ div.controls ul li:not(:last-child){
     padding: 6px 20px;
     outline: none;
 }
+.credit-card__container,
+.payment-method,
+.billing-form__container{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 /* Checkout Page CSS */
 
 
