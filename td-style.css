@@ -2066,7 +2066,7 @@ div.controls ul li:not(:last-child){
 .billing-form__container label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 10px;
     line-height: 12px;
     letter-spacing: 0.09em;
