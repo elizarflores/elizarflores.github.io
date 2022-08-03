@@ -2413,7 +2413,7 @@ div.controls ul li:not(:last-child){
     padding-bottom: 16px;
 }
 .items__on-cart-wrapper .single__item-on-cart:not(:last-child){
-    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
 }
 .single__item-on-cart{
     display: flex;
