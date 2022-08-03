@@ -2460,7 +2460,7 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
     margin-top: 0!important;
-    margin-bottom: 12px!important;
+    margin-bottom: 8px!important;
 }
 .product__info > p{
     font-family: 'Inter',sans-serif!important;
@@ -2469,7 +2469,7 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     line-height: 18px;
     color: #000000;
-    margin-bottom: 12px!important;
+    margin-bottom: 8px!important;
 }
 .qty-and-price{
     display:flex;
