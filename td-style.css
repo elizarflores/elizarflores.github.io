@@ -2409,6 +2409,12 @@ div.controls ul li:not(:last-child){
 #order-items .panel-body{
     border-top: 0;
 }
+.items__on-cart-wrapper .single__item-on-cart{
+    padding-bottom: 16px;
+}
+.items__on-cart-wrapper .single__item-on-cart:not(:last-child){
+    border-top: 1px solid #d9d9d9;
+}
 .single__item-on-cart{
     display: flex;
     flex-wrap: wrap;
