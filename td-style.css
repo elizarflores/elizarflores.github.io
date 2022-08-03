@@ -2942,6 +2942,10 @@ div.controls ul li:not(:last-child){
     .order__summary-container{
         margin-right: -15px;
     }
+    
+.term-account__container div{
+    padding-right:15px;
+}
     /* Checkout Page CSS */
 
 }
