@@ -2123,7 +2123,8 @@ div.controls ul li:not(:last-child){
 #main-column .panel.panel-smart .panel-heading .form-group .col-lg-12{
     padding-left: 0;
 }
-#main-column .panel.panel-smart .form-group .col-lg-12 label{
+#main-column .panel.panel-smart .form-group .col-lg-12 label,
+.credit-card__container label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 600;
