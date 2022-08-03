@@ -2288,6 +2288,12 @@ div.controls ul li:not(:last-child){
 #collapseShippingDisclaimer h4{
     text-align: left!important;
 }
+#collapseShippingDisclaimer h4 a{
+    font-weight:500!important;
+}
+#collapseShippingDisclaimer h4 a::after{
+    font-size:12px!important;
+}
 #collapse-shipping-disclaimer .panel-body{
     padding-top: 15px!important;
     padding-bottom: 15px!important;
