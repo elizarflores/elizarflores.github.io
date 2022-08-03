@@ -2340,8 +2340,12 @@ div.controls ul li:not(:last-child){
 #general-modal .modal-header{
     background: #ffffff;
 }
+#general-modal.modal-header button.close{
+    opacity: 1!important;
+}
 #general-modal .text-ccc{
     color: #000000;
+    font-size: 18px;
 }
 #general-modal .modal-header p{
     text-align: left!important;
