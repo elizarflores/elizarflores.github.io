@@ -2337,7 +2337,30 @@ div.controls ul li:not(:last-child){
 .cart__container{
     min-height:75vh;
 }
-
+#general-modal .modal-header{
+    background: #ffffff;
+}
+#general-modal .text-ccc{
+    color: #000000;
+}
+#general-modal .modal-header p{
+    text-align: left!important;
+}
+#general-modal .modal-body,
+#general-modal .modal-body p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+#general-modal .modal-footer button{
+    box-shadow: none;
+    border-radius: 0;
+    padding: 8px 28px;
+    outline: none;
+}
 /* Checkout Page CSS */
 
 
