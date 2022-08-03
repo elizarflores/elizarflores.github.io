@@ -2416,6 +2416,16 @@ div.controls ul li:not(:last-child){
 #order-items .panel-body{
     border-top: 0;
 }
+.single__item-on-cart{
+    display: flex;
+    flex-wrap: wrap;
+}
+.single__item-on-cart .product__img{
+    max-width:25%;
+}
+.single__item-on-cart .product__info{
+    max-width:75%;
+}
 /* Checkout Page CSS */
 
 
