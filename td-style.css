@@ -2337,19 +2337,25 @@ div.controls ul li:not(:last-child){
 .cart__container{
     min-height:75vh;
 }
+#info-modal .modal-header,
 #general-modal .modal-header{
     background: #ffffff;
 }
+#info-modal .modal-header button.close,
 #general-modal .modal-header button.close{
     opacity: 1!important;
 }
+#info-modal .text-ccc,
 #general-modal .text-ccc{
     color: #000000;
     font-size: 18px;
 }
+#info-modal .modal-header p,
 #general-modal .modal-header p{
     text-align: left!important;
 }
+#info-modal .modal-body,
+#info-modal .modal-body p,
 #general-modal .modal-body,
 #general-modal .modal-body p{
     font-family: 'Inter',sans-serif!important;
@@ -2362,7 +2368,7 @@ div.controls ul li:not(:last-child){
 #general-modal .modal-footer button{
     box-shadow: none;
     border-radius: 0;
-    padding: 8px 28px;
+    padding: 6px 20px;
     outline: none;
 }
 /* Checkout Page CSS */
