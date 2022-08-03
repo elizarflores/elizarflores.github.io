@@ -2386,11 +2386,13 @@ div.controls ul li:not(:last-child){
     padding-right: 15px;
 }
 .term-account__container div{
-    padding: 15px 30px;
+    padding: 0px 30px;
 }
 .term-account__container div table{
-    margin-top: 15px;
     margin-bottom: 0;
+}
+.payment-method{
+    margin-bottom: 15px;
 }
 /* Checkout Page CSS */
 
