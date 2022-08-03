@@ -2925,11 +2925,7 @@ div.controls ul li:not(:last-child){
     .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
         margin-bottom: 12px;
     }
-    .payment-method,
-    .credit-card__container,
-    .billing-form__container{
-        padding-right: 0px;
-    }
+    
     .billing-form__container .row div.col-lg-8{
         text-align: left!important;
     }
@@ -2943,13 +2939,10 @@ div.controls ul li:not(:last-child){
     .cart__container{
         padding: 0 15px;
     }
-    .order__summary-container{
-        margin-right: -15px;
+        
+    .term-account__container div{
+        padding-right:15px;
     }
-    
-.term-account__container div{
-    padding-right:15px;
-}
     /* Checkout Page CSS */
 
 }
