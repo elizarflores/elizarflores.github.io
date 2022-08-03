@@ -1326,7 +1326,7 @@ div#main-content{
     line-height: 20px;
     color: #000000;
     margin-top: 0!important;
-    margin-bottom: 20px!important;
+    margin-bottom: 20px;
 }
 div#account-details table tr td:nth-child(odd){
     font-family: 'Inter',sans-serif!important;
