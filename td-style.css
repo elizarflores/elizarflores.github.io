@@ -2526,6 +2526,9 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.09em;
     color: #000000;
 }
+.captcha-ui{
+    margin-left: 0!important;
+}
 /* Checkout Page CSS */
 
 
