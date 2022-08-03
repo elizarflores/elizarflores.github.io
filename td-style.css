@@ -2435,8 +2435,8 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 11px;
-    line-height: 16px;
+    font-size: 16px;
+    line-height: 18px;
     color: #000000;
     margin-top: 0!important;
     margin-bottom: 8px!important;
@@ -2445,8 +2445,8 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
-    font-size: 11px;
-    line-height: 16px;
+    font-size: 15px;
+    line-height: 18px;
     color: #000000;
     margin-bottom: 8px!important;
 }
