@@ -2385,6 +2385,9 @@ div.controls ul li:not(:last-child){
     padding-left: 15px;
     padding-right: 15px;
 }
+.term-account__container div{
+    padding: 15px 30px;
+}
 /* Checkout Page CSS */
 
 
