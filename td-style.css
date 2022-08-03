@@ -2422,9 +2422,33 @@ div.controls ul li:not(:last-child){
 }
 .single__item-on-cart .product__img{
     max-width:25%;
+    padding-right: 10px;
 }
 .single__item-on-cart .product__info{
     max-width:75%;
+    padding-left: 10px;
+}
+.product__img img{
+    width: 100%;
+}
+.product__info h3{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+    margin-top: 0!important;
+    margin-bottom: 8px!important;
+}
+.product__info > p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+    margin-bottom: 8px!important;
 }
 /* Checkout Page CSS */
 
