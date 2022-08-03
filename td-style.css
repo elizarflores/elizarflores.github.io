@@ -2340,7 +2340,7 @@ div.controls ul li:not(:last-child){
 #general-modal .modal-header{
     background: #ffffff;
 }
-#general-modal.modal-header button.close{
+#general-modal .modal-header button.close{
     opacity: 1!important;
 }
 #general-modal .text-ccc{
