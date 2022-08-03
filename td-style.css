@@ -2448,8 +2448,8 @@ div.controls ul li:not(:last-child){
     padding-left: 10px;
 }
 .product__img img{
-    width: 85%;
-    height: 85%;
+    width: 80%;
+    height: 80%;
     object-fit: contain
 }
 .product__info h3{
