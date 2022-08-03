@@ -2468,6 +2468,10 @@ div.controls ul li:not(:last-child){
 .qty-and-price p:first-child{
     font-weight: 600!important;
     font-size: 14px!important;
+    padding-right: 8px;
+}
+.qty-and-price p:last-child{
+    padding-left: 8px;
 }
 .job-tag-and-po{
     display: flex;
