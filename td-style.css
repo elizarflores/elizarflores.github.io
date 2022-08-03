@@ -2413,7 +2413,9 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 0!important;
 }
-
+#order-items .panel-body{
+    border-top: 0;
+}
 /* Checkout Page CSS */
 
 
