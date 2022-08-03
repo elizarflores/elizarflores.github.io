@@ -2243,7 +2243,7 @@ div.controls ul li:not(:last-child){
     border: 2px solid #000000;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.095em;
@@ -2263,7 +2263,7 @@ div.controls ul li:not(:last-child){
     border: 2px solid #000000;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.095em;
