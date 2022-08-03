@@ -2415,10 +2415,12 @@ div.controls ul li:not(:last-child){
 }
 .single__item-on-cart .product__img{
     max-width:25%;
+    flex-basis: 25%;
     padding-right: 10px;
 }
 .single__item-on-cart .product__info{
     max-width:75%;
+    flex-basis: 75%;
     padding-left: 10px;
 }
 .product__img img{
@@ -2442,6 +2444,11 @@ div.controls ul li:not(:last-child){
     line-height: 18px;
     color: #000000;
     margin-bottom: 8px!important;
+}
+.qty-and-price{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 /* Checkout Page CSS */
 
