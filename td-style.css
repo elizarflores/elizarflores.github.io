@@ -1587,6 +1587,7 @@ div.controls ul li:not(:last-child){
     color: #ffff!important;
 }
 #main-column h4 a{
+    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
