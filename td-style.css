@@ -2513,6 +2513,7 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #000000;
+    padding-right: 12px;
 }
 
 .job-tag p,
@@ -2525,7 +2526,6 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     letter-spacing: 0.09em;
     color: #000000;
-    padding-left: 20px;
 }
 /* Checkout Page CSS */
 
