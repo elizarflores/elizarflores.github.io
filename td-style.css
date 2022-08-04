@@ -2651,6 +2651,12 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: rgba(0, 0, 0, 0.3);
 }
+#main-column ul.breadcrumb li.active a{
+    color: #000000;
+}
+#main-column ul.breadcrumb{
+    margin-bottom: 20px;
+}
 /* Checkout Page CSS */
 
 
