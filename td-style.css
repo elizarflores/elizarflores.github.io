@@ -2638,6 +2638,16 @@ div.controls ul li:not(:last-child){
 .captcha-ui.row .col-md-12.col-xs-12{
     padding: 0;
 }
+.total h4{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 15px;
+    color: #000000;
+    margin-top: 12px!important;
+    margin-bottom: 15px!important;
+}
 /* Checkout Page CSS */
 
 
