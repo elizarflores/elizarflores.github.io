@@ -2602,12 +2602,16 @@ div.controls ul li:not(:last-child){
     margin-left: 15px;
     margin-right: 15px;
 }
+.billing-form__container{
+    padding-bottom: 0;
+}
 .payment-method{
     padding-top: 0;
+    padding-bottom: 20px;
 }
 .captcha-ui.row{
     padding-top: 0;
-    padding-bottom: 0;
+    padding-bottom: 13px;
 }
 .delivery-container span{
     font-family: 'Inter',sans-serif!important;
