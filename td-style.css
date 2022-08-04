@@ -2119,6 +2119,7 @@ div.controls ul li:not(:last-child){
     margin-right: 15px;
     border: 0;
     border-radius: 0;
+    box-shadow: none;
 }
 #main-column .panel.panel-smart .panel-heading .form-group .col-lg-12{
     padding-left: 0;
