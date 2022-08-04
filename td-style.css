@@ -2595,6 +2595,8 @@ div.controls ul li:not(:last-child){
     line-height: 20px;
     color: #000000;
     margin-top: 0!important;
+}
+.shipping__summary-heading h6:not(:last-child){
     margin-bottom: 4px!important;
 }
 /* Checkout Page CSS */
