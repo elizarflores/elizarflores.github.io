@@ -2601,6 +2601,13 @@ div.controls ul li:not(:last-child){
 .shipping__summary-heading span{
     margin-right: 4px;
 }
+.billing-form__container,
+.payment-method,
+.payment-method{
+    padding: 30px;
+    background: #f5f5f5;
+}
+
 /* Checkout Page CSS */
 
 
