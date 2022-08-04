@@ -2595,6 +2595,9 @@ div.controls ul li:not(:last-child){
 .shipping__summary-heading span{
     margin-right: 4px;
 }
+.billing-form__container{
+    margin-top: 20px;
+}
 .billing-form__container,
 .payment-method,
 .payment-method{
