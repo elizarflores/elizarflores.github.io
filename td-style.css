@@ -2576,7 +2576,9 @@ div.controls ul li:not(:last-child){
     padding-left: 36px;
 }
 .shipping__summary-container{
-    padding: 0 15px;
+    margin: 0 15px;
+    padding: 36px 24px;
+    background: #F5F5F5;
 }
 /* Checkout Page CSS */
 
