@@ -2419,7 +2419,7 @@ div.controls ul li:not(:last-child){
 
 }
 .order__summary-container .panel-group .panel-heading{
-    padding:25px 30px!important;
+    padding:12px 30px!important;
     border-bottom: 0!important;
 }
 .order__summary-container .panel-group .panel-heading.point h5.panel-title{
