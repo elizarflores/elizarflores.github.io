@@ -2639,13 +2639,7 @@ div.controls ul li:not(:last-child){
     padding: 0;
 }
 .total h4{
-    font-family: 'Inter',sans-serif!important;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 15px;
-    color: #000000;
-    margin-top: 12px!important;
+    margin-top: 6px!important;
     margin-bottom: 15px!important;
 }
 /* Checkout Page CSS */
