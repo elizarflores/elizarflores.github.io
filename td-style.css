@@ -2642,6 +2642,15 @@ div.controls ul li:not(:last-child){
     margin-top: 6px!important;
     margin-bottom: 15px!important;
 }
+#main-column ul.breadcrumb li a{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.3);
+}
 /* Checkout Page CSS */
 
 
