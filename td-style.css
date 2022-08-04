@@ -2652,7 +2652,8 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     color: rgba(0, 0, 0, 0.3);
 }
-#main-column ul.breadcrumb li.active a{
+#main-column ul.breadcrumb li.active a,
+#main-column ul.breadcrumb li.active{
     color: #000000;
 }
 #main-column ul.breadcrumb{
