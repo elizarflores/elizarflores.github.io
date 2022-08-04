@@ -2628,7 +2628,7 @@ div.controls ul li:not(:last-child){
 .delivery-container span:not(:last-child){
     margin-bottom: 4px!important;
 }
-.delivery-container label{
+.delivery-container label.point.text-danger{
     display: inline-flex;
     align-items: center;
     margin: 25px 0;
