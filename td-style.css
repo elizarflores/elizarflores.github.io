@@ -2577,7 +2577,7 @@ div.controls ul li:not(:last-child){
 }
 .shipping__summary-container{
     margin: 0 15px;
-    padding: 36px 24px;
+    padding: 24px;
     background: #F5F5F5;
 }
 .shipping__summary-heading h5{
