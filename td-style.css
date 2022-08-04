@@ -3206,6 +3206,9 @@ div.controls ul li:not(:last-child){
     .term-account__container div{
         padding-right:15px;
     }
+    .order__summary-container .panel-body{
+        padding: 10px!important;
+    }
     /* Checkout Page CSS */
 
 }
