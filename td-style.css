@@ -3226,6 +3226,12 @@ div.controls ul li:not(:last-child){
     .shipping__summary-heading h5 {
         line-height: 20px!important;
     }
+    .checkout-header__container a img{
+        width:176px;
+    }
+    .checkout-header__container span{
+        padding-left: 20px;
+    }
     /* Checkout Page CSS */
 
 }
