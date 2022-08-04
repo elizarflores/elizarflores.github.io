@@ -3214,6 +3214,18 @@ div.controls ul li:not(:last-child){
         margin-left: 15px;
         margin-right: 15px;
     }
+    .shipping__summary-container{
+        padding: 12px!important;
+    }
+    .billing-form__container, .payment-method, .captcha-ui.row, .credit-card__container{
+        padding: 10px !important;
+    }
+    .captcha-ui.row{
+        padding-bottom: 0!important;
+    }
+    .shipping__summary-heading h5 {
+        line-height: 20px!important;
+    }
     /* Checkout Page CSS */
 
 }
