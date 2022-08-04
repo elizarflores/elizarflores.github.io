@@ -2623,6 +2623,16 @@ div.controls ul li:not(:last-child){
     margin-bottom: 4px!important;
     display: inline-block;
 }
+.delivery-container label{
+    display: inline-flex;
+    align-items: center;
+    margin: 6px 0;
+}
+.delivery-container label input{
+    height: 100%;
+    margin-bottom: 4px;
+    margin-right: 8px;
+}
 .captcha-ui.row .col-md-12.col-xs-12{
     padding: 0;
 }
