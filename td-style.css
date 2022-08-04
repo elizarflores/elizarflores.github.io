@@ -2545,10 +2545,6 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.09em;
     color: #000000;
 }
-.captcha-ui{
-    margin-left: 0!important;
-}
-
 .checkout-header__container{
     display: inline-flex;
     align-items: center;
@@ -2605,9 +2601,12 @@ div.controls ul li:not(:last-child){
     margin-left: 15px;
     margin-right: 15px;
 }
-.payment-method,
+.payment-method{
+    padding-top: 0;
+}
 .captcha-ui.row{
     padding-top: 0;
+    padding-bottom: 0;
 }
 .delivery-container span{
     font-family: 'Inter',sans-serif!important;
@@ -2618,6 +2617,9 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 4px!important;
     display: inline-block;
+}
+.captcha-ui.row .col-md-12.col-xs-12{
+    padding: 0;
 }
 /* Checkout Page CSS */
 
