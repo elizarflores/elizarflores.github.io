@@ -2547,6 +2547,15 @@ div.controls ul li:not(:last-child){
 .checkout-header__container + hr{
     border-color: #d9d9d9;
 }
+.checkout-header__container span{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+    padding-left: 42px;
+}
 
 /* Checkout Page CSS */
 
