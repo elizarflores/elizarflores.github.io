@@ -2449,6 +2449,7 @@ div.controls ul li:not(:last-child){
 .single__item-on-cart{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 .single__item-on-cart .product__img{
     max-width: 60px;
@@ -2574,7 +2575,9 @@ div.controls ul li:not(:last-child){
     color: #000000;
     padding-left: 36px;
 }
-
+.shipping__summary-container{
+    padding: 0 15px;
+}
 /* Checkout Page CSS */
 
 
