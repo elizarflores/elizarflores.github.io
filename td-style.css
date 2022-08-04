@@ -3156,7 +3156,6 @@ div.controls ul li:not(:last-child){
     }
     #main-column > .panel.panel-smart .panel-body .row .col-lg-4 .panel.panel-smart{
         margin-bottom: 0;
-        padding: 15px;
     }
     #main-column .panel.panel-smart .form-group .col-lg-12 select{
         padding: 0 6px;
@@ -3229,6 +3228,9 @@ div.controls ul li:not(:last-child){
     }
     .checkout-header__container span{
         padding-left: 20px;
+    }
+    .order__summary-container .panel-group{
+        margin-top: 20px;
     }
     /* Checkout Page CSS */
 
