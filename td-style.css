@@ -2620,13 +2620,15 @@ div.controls ul li:not(:last-child){
     font-size: 14px!important;
     line-height: 20px;
     color: #000000;
-    margin-bottom: 4px!important;
     display: inline-block;
+}
+.delivery-container span:not(:last-child){
+    margin-bottom: 4px!important;
 }
 .delivery-container label{
     display: inline-flex;
     align-items: center;
-    margin: 6px 0;
+    margin: 25px 0;
 }
 .delivery-container label input{
     height: 100%;
