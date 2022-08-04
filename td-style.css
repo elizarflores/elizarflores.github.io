@@ -2581,15 +2581,11 @@ div.controls ul li:not(:last-child){
     background: #F5F5F5;
 }
 .shipping__summary-heading h5{
-    font-family: 'Inter',sans-serif!important;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.095em;
+    font-weight: 700!important;
+    line-height: 24px!important;
     text-transform: uppercase;
-    color: #000000;
-    margin-bottom: 0!important;
+    margin-top: 0;
+    margin-bottom: 6px;
 }
 /* Checkout Page CSS */
 
