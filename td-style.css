@@ -2598,6 +2598,9 @@ div.controls ul li:not(:last-child){
 .shipping__summary-heading h6:not(:last-child){
     margin-bottom: 6px!important;
 }
+.shipping__summary-heading span{
+    margin-right: 4px;
+}
 /* Checkout Page CSS */
 
 
