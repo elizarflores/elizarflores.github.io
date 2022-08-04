@@ -2537,6 +2537,17 @@ div.controls ul li:not(:last-child){
 .captcha-ui{
     margin-left: 0!important;
 }
+
+.checkout-header__container{
+    display: inline-flex;
+    align-items: center;
+    padding-top: 32px;
+    padding-bottom: 12px;
+}
+.checkout-header__container + hr{
+    border-color: #d9d9d9;
+}
+
 /* Checkout Page CSS */
 
 
