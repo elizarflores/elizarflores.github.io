@@ -2404,6 +2404,11 @@ div.controls ul li:not(:last-child){
     box-shadow: none!important;
     border: 0!important;
 }
+.order__summary-container .panel-heading{
+    padding-top:0!important;
+    padding-bottom: 24px;
+    border: none;
+}
 .order__summary-container .panel-body{
     /* padding: 15px!important; */
 }
