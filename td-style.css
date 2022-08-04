@@ -2589,7 +2589,8 @@ div.controls ul li:not(:last-child){
 .shipping__summary-heading span{
     margin-right: 4px;
 }
-.billing-form__container{
+.billing-form__container,
+.credit-card__container{
     margin-top: 20px;
 }
 .billing-form__container,
