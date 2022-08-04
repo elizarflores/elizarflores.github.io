@@ -2175,11 +2175,13 @@ div.controls ul li:not(:last-child){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 14px!important;
     line-height: 24px;
     letter-spacing: 0.095em;
     text-transform: uppercase;
     color: #000000;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
 }
 .billing-form__container h3.uppercased,
 .credit-card__container h3.uppercased{
