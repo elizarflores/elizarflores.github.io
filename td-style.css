@@ -2396,6 +2396,7 @@ div.controls ul li:not(:last-child){
     box-shadow: none!important;
     border: 0!important;
     padding: 0!important;
+    background: transparent !important;
 }
 .order__summary-container .panel-heading{
     padding-top:0!important;
@@ -2405,6 +2406,7 @@ div.controls ul li:not(:last-child){
 .order__summary-container .panel-body{
     padding: 30px!important;
     border: 1px solid #D9D9D9;
+    background: #ffffff;
 }
 .order__summary-container .panel-group{
     border: 1px solid #D9D9D9;
