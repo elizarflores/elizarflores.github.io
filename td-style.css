@@ -3209,6 +3209,11 @@ div.controls ul li:not(:last-child){
     .order__summary-container .panel-body{
         padding: 10px!important;
     }
+    .order__summary-container{
+        margin-top: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
     /* Checkout Page CSS */
 
 }
@@ -3442,6 +3447,11 @@ div.controls ul li:not(:last-child){
     }
     .general-border.padding-10.margin-10 .order_item_simple .col-lg-6{
         width: 50%;
+    }
+    .order__summary-container{
+        margin-top: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
     }
     /* Checkout Page CSS */
 
