@@ -2584,8 +2584,7 @@ div.controls ul li:not(:last-child){
     font-weight: 600!important;
     line-height: 24px!important;
     text-transform: uppercase;
-    margin-top: 0;
-    margin-bottom: 6px!important;
+    margin-bottom: 4px!important;
 }
 .shipping__summary-heading h6{
     font-family: 'Inter',sans-serif!important;
@@ -2597,7 +2596,7 @@ div.controls ul li:not(:last-child){
     margin-top: 0!important;
 }
 .shipping__summary-heading h6:not(:last-child){
-    margin-bottom: 4px!important;
+    margin-bottom: 6px!important;
 }
 /* Checkout Page CSS */
 
