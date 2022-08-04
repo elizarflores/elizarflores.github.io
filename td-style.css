@@ -2387,10 +2387,6 @@ div.controls ul li:not(:last-child){
 .term-account__container div table{
     margin-bottom: 0;
 }
-#submit_billing,
-.payment-method{
-    margin-bottom: 15px;
-}
 .payment-method:focus{
     box-shadow: none;
     border-color: #d9d9d9;
