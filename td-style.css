@@ -3469,6 +3469,13 @@ div.controls ul li:not(:last-child){
     .order__summary-container{
         margin-top: 20px;
     }
+    .billing-form__container, .payment-method, .captcha-ui.row, .credit-card__container{
+        padding: 24px;
+    }
+    #main-column ul + div.row .col-lg-5 .order__summary-container{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
     /* Checkout Page CSS */
 
 }
@@ -3655,6 +3662,9 @@ div.controls ul li:not(:last-child){
     }
     .order__summary-container .panel-group .panel-heading {
         padding:12px 14px!important
+    }
+    .billing-form__container, .payment-method, .captcha-ui.row, .credit-card__container{
+        padding: 24px;
     }
     /* Checkout Page CSS */
 
