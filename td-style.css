@@ -2333,11 +2333,19 @@ div.controls ul li:not(:last-child){
     margin-bottom: 12px!important;
 }
 #submit_billing{
-    height: 42px;
+    height: 48px;
     box-shadow: none;
     border-radius: 0;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     transition: all 0.3s ease-in;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    color: #ffffff!important;
 }
 #submit_billing:hover{
     background: #ffffff!important;
