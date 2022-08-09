@@ -3337,6 +3337,7 @@ div.controls ul li:not(:last-child){
         margin-right: 15px;
     }
     .component-subtitle {
+        font-size: 16px;
         margin-bottom: 24px!important;
     }
     /* Checkout Page CSS */
