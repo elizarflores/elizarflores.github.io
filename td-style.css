@@ -1676,7 +1676,8 @@ div.controls ul li:not(:last-child){
     margin-bottom: 16px!important;
 }
 .change-password label,
-.personal-info label {
+.personal-info label,
+.account_invite .container-fluid .invite-form label {
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
