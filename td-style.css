@@ -1306,6 +1306,9 @@ div#main-content{
 .account-menu li a:hover{
     text-decoration: none;
 }
+.question__title-wrapper{
+    margin-bottom: 32px;
+}
 #main-column .component-title,
 .question__title-wrapper h3 {
     font-family: 'Inter',sans-serif!important;
@@ -2672,6 +2675,8 @@ div.controls ul li:not(:last-child){
 #main-column ul.breadcrumb{
     margin-bottom: 20px;
 }
+
+
 /* Checkout Page CSS */
 
 
