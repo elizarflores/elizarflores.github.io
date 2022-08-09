@@ -2112,7 +2112,8 @@ div.controls ul li:not(:last-child){
     border:1px solid #D9D9D9;
     box-shadow: none;
 }
-#frm-shipping input[type="radio"]{
+#frm-shipping input[type="radio"],
+.account_invite .container-fluid .invite-form input[type="radio"]{
     height:auto;
     margin-right: 8px;
     margin-top: 0;
