@@ -1717,7 +1717,8 @@ div.controls ul li:not(:last-child){
 }
 #update,
 #cancel,
-#change_password.btn{
+#change_password.btn,
+#send_invitation{
     border-radius: 0;
     box-shadow: none!important;
     height: 42px;
