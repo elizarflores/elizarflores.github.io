@@ -2682,6 +2682,16 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-table{
     padding: 30px;
 }
+.component-subtitle{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 48px;
+}
 /* Checkout Page CSS */
 
 
