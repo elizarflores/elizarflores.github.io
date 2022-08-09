@@ -3528,7 +3528,8 @@ div.controls ul li:not(:last-child){
     .account_settings .tab-content {
         padding: 16px 12px;
     }
-    .account_settings .tab-content #customize_style label[for="text_color"], .account_settings .tab-content #pricing_display label[for="text_color"]{
+    .account_settings .tab-content #customize_style label[for="text_color"], 
+    .account_settings .tab-content #pricing_display label[for="text_color"]{
         margin-bottom: 12px !important;
     }
     .balance-table-title {
@@ -3570,6 +3571,12 @@ div.controls ul li:not(:last-child){
     #main-column ul + div.row .col-lg-5 .order__summary-container{
         margin-left: 15px;
         margin-right: 15px;
+    }
+    .account_invite .container-fluid .invite-form {
+        padding: 0px 12px;
+    }
+    .account_invite .container-fluid .invite-table {
+        padding: 28px 28px 0 28px;
     }
     /* Checkout Page CSS */
 
