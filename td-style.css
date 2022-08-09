@@ -2687,10 +2687,13 @@ div.controls ul li:not(:last-child){
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 15px;
+    line-height: 16px;
     text-transform: uppercase;
     color: #000000;
-    margin-bottom: 48px;
+    margin-bottom: 48px!important;
+}
+.component-subtitle i{
+    margin-right: 8px;
 }
 /* Checkout Page CSS */
 
