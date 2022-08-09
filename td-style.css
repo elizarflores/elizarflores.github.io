@@ -2839,7 +2839,7 @@ div.controls ul li:not(:last-child){
     /* Main Header Area Start*/
 
     .main-header{
-        padding:20px 0!important;
+        padding:16px 0!important;
     }
 
     .main-header nav.navbar .container{
@@ -3333,6 +3333,8 @@ div.controls ul li:not(:last-child){
     }
     .account_invite .container-fluid .invite-table {
         padding: 28px 28px 0 28px;
+        overflow-x: scroll;
+        margin-right: 15px;
     }
     .component-subtitle {
         margin-bottom: 32px!important;
