@@ -3329,7 +3329,7 @@ div.controls ul li:not(:last-child){
     }
 
     .account_invite .container-fluid .invite-form {
-        padding: 0px 12px;
+        padding:12px;
     }
     .account_invite .container-fluid .invite-table {
         padding: 28px 28px 0 28px;
@@ -3337,7 +3337,7 @@ div.controls ul li:not(:last-child){
         margin-right: 15px;
     }
     .component-subtitle {
-        margin-bottom: 32px!important;
+        margin-bottom: 24px!important;
     }
     /* Checkout Page CSS */
 
