@@ -2712,7 +2712,16 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-form textarea{
     height: 100px!important;
 }
-
+#send_invitation{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
 /* Checkout Page CSS */
 
 
