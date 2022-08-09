@@ -2679,7 +2679,9 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-form{
     padding: 16px;
 }
-
+.account_invite .container-fluid .invite-table{
+    padding: 30px;
+}
 /* Checkout Page CSS */
 
 
