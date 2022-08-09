@@ -3340,6 +3340,14 @@ div.controls ul li:not(:last-child){
         font-size: 16px;
         margin-bottom: 24px!important;
     }
+    #send_invitation{
+        font-weight: 600;
+        font-size: 11px;
+    }
+    .invite-table-title{
+        font-size: 12px;
+        margin-bottom: 16px!important;
+    }
     /* Checkout Page CSS */
 
 }
