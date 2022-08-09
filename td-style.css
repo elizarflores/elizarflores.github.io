@@ -3761,6 +3761,12 @@ div.controls ul li:not(:last-child){
     .billing-form__container, .payment-method, .captcha-ui.row, .credit-card__container{
         padding: 24px;
     }
+    .account_invite .container-fluid .invite-form {
+        padding: 0px 12px;
+    }
+    .account_invite .container-fluid .invite-table {
+        padding: 28px 28px 0 28px;
+    }
     /* Checkout Page CSS */
 
 }
