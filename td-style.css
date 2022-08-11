@@ -12,6 +12,9 @@ p{
 .underlined{
     text-decoration: underline!important;
 }
+button:focus{
+    outline: 0 !important;
+}
 
 /* Common CSS for file input */
 
