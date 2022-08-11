@@ -175,6 +175,12 @@ div#main-content{
     box-shadow: none;
     padding: 13px 0;
 }
+
+.login__area-right div form button:focus{
+    background: #000000!important;
+    outline: none!important;
+}
+
 .login__area-right div form p.padding-20-0 a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
