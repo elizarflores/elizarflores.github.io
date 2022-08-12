@@ -2833,7 +2833,7 @@ div.controls ul li:not(:last-child){
     margin: 0;
 }
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary,
-.padding-0-15 .general-border.padding-10 .form-group button.btn.btn-primary{
+.padding-0-15 .general-border.padding-10 button.btn.btn-primary{
     width:230px;
     margin-right: 12px;
 }
@@ -2843,7 +2843,7 @@ div.controls ul li:not(:last-child){
 }
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary,
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a,
-.padding-0-15 .general-border.padding-10 .form-group button.btn.btn-primary{
+.padding-0-15 .general-border.padding-10 button.btn.btn-primary{
     border-radius: 0;
     box-shadow: none!important;
     height: 42px;
