@@ -2829,8 +2829,12 @@ div.controls ul li:not(:last-child){
     box-shadow: none;
     border-color: #d9d9d9;
 }
+.padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10{
+    margin: 0;
+}
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary{
     width:230px;
+    margin-right: 12px;
 }
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a{
     width: 120px;
