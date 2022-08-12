@@ -2811,6 +2811,23 @@ div.controls ul li:not(:last-child){
     box-shadow: none!important;
     border: 1px solid #D9D9D9;
 }
+.padding-0-15 .general-border.padding-10 .form-group select{
+    box-shadow: none;
+    height: 42px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    padding: 6px 16px!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+.padding-0-15 .general-border.padding-10 .form-group select:focus{
+    box-shadow: none;
+    border-color: #d9d9d9;
+}
 /* Checkout Page CSS */
 
 
