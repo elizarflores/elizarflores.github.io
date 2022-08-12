@@ -3458,7 +3458,8 @@ div.controls ul li:not(:last-child){
         width: 100%;
     }
     .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary, 
-    .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a{
+    .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a,
+    .padding-0-15 .general-border.padding-10 button.btn.btn-primary{
         width: 100%;
         margin-right: 0;
         margin-bottom: 15px;
