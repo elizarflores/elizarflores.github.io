@@ -3718,7 +3718,7 @@ div.controls ul li:not(:last-child){
     }
 
     .padding-0-15 .general-border.padding-10{
-        padding: 12px 6px !important;
+        padding: 16px 8px !important;
     }
     .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10{
         width: 100%;
