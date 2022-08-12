@@ -1328,6 +1328,7 @@ div#main-content{
     color: #000000;
     margin-top: 0;
     margin-bottom: 12px;
+    padding-left: 0;
 }
 #main-column h5,
 .question__title-wrapper p{
