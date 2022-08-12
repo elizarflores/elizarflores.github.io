@@ -3735,6 +3735,9 @@ div.controls ul li:not(:last-child){
         width: 48%;
         margin-right: 0;
     }
+    .padding-0-15 .general-border.padding-10 button.btn.btn-primary{
+        width:100%;
+    }
     /* Checkout Page CSS */
 
 }
