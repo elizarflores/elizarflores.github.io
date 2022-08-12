@@ -3445,6 +3445,20 @@ div.controls ul li:not(:last-child){
         font-size: 12px;
         margin-bottom: 16px!important;
     }
+    #update{
+        margin-bottom: 15px;
+    }
+    .padding-0-15 .general-border.padding-10{
+        padding: 12px 6px !important;
+    }
+    .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10{
+        width: 100%;
+    }
+    .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary, 
+    .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a{
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
     /* Checkout Page CSS */
 
 }
