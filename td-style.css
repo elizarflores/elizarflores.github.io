@@ -3724,6 +3724,7 @@ div.controls ul li:not(:last-child){
         width: 100%;
         display: inline-flex;
         justify-content: space-between;
+        margin-bottom: 15px;
     }
     .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary, 
     .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a{
