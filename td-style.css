@@ -40,7 +40,7 @@ input[type=file]:not(:disabled):not([readonly]) {
     border-style: solid;
     border-width: 0;
     border-inline-end-width: 1px;
-    border-radius: 0;
+    
 }
 .form-control::-webkit-file-upload-button {
     padding: 1rem 0.75rem;
@@ -54,7 +54,7 @@ input[type=file]:not(:disabled):not([readonly]) {
     border-style: solid;
     border-width: 0;
     border-inline-end-width: 1px;
-    border-radius: 0;
+    
 }
 
 
@@ -153,7 +153,7 @@ div#main-content{
     font-size: 14px;
     line-height: 20px;
     color: #000000;
-    border-radius: 0;
+    
     padding:11px 20px;
     border: 1px solid #D9D9D9;
     height: unset!important;
@@ -174,7 +174,7 @@ div#main-content{
     border: 1px solid #000000;
     letter-spacing: 0.095em;
     text-transform: uppercase;
-    border-radius: 0;
+    
     box-shadow: none;
     padding: 13px 0;
 }
@@ -287,8 +287,8 @@ div#main-content{
 }
 #cart-summary-preview{
     margin-top: 0!important;
-    width: 336px!important;
-    padding: 30px!important;
+    width: 450px!important;
+    padding: 30px 10px !important;
     right: -5px!important;
 }
 #cart-summary-preview li p.btn-block1{
@@ -368,7 +368,7 @@ div#main-content{
 }
 .main-header nav.navbar .navbar-header  .navbar-brand img{
     display: block;
-    max-width: 100%;
+    max-width: 233px;
     height: auto;
 }
 #bespokeNav{
@@ -422,7 +422,7 @@ div#main-content{
 #product-filters button.btn{
     background: transparent;
     box-shadow: none;
-    border-radius: 0;
+    
     border: none;
     width: 48px;
     text-align: left;
@@ -503,18 +503,18 @@ div#main-content{
 
 
 /* Collection Page Filter Option Start*/
-#filters-ui .each-filter .panel.panel-default {
+#filters-ui .each-filter .panel.panel-default, #item-type__filter .each-filter .panel.panel-default {
     border: none;
     box-shadow: none;
 }
-#filters-ui .each-filter .panel-heading{
+#filters-ui .each-filter .panel-heading,#item-type__filter .each-filter .panel-heading{
     background-image: none !important;
     background-color: transparent!important;
     border-bottom: 1px solid #000000!important;
     padding-left: 0;
     padding-right: 0;
 }
-#filters-ui .each-filter .panel-heading h4{
+#filters-ui .each-filter .panel-heading h4, h4.filter-title{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
@@ -524,7 +524,7 @@ div#main-content{
     text-transform: capitalize;
     position: relative;
 }
-#filters-ui .each-filter .panel-heading h4.panel-title::after {
+#filters-ui .each-filter .panel-heading h4.panel-title::after, #item-type__filter .each-filter .panel-heading h4.panel-title::after{
     content: "";
     background-image: url('https://i.ibb.co/dkydQYD/Vector.png');
     right: 0px;
@@ -564,17 +564,28 @@ div#main-content{
     font-size: 14px;
     line-height: 20px;
     color: #000000!important;
+    cursor: pointer;
 }
 
-.filter__list li label input{
+.filter__list li label input[type='checkbox']{
     width: 20px;
     height: 20px;
-    margin-right: 10px;
     visibility: hidden;
     margin-top: 0;
     margin-right: 12px;
     position: relative;
 }
+
+.filter__list li label input[type='radio']{
+    width: 20px;
+    height: 20px;
+    margin-top: 0;
+    margin-right: 12px;
+    visibility: hidden;
+    position: relative;
+}
+
+
 .filter__list li label input::after{
     content: "";
     position: absolute;
@@ -775,7 +786,7 @@ div#main-content{
 .form-control:focus{
     box-shadow: none!important;
 }
-#all-filters .ea-filter{
+#all-filters .ea-filter, .all-filters .ea-filter{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
@@ -987,7 +998,7 @@ div#main-content{
     display: inline-block;
     width: 100%;
 }
-.cart-buttons .add-cart-container button{
+.cart-buttons .add-cart-container button, button#reset-calc, div#sample-cart .btn-sample{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -1069,7 +1080,7 @@ div#main-content{
     height: 42px;
     background: #F5F5F5!important;
     box-shadow: none;
-    border-radius: 0;
+    
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -1453,12 +1464,12 @@ div.controls ul li:not(:last-child){
     color: #FFFFFF;
     box-shadow: none;
     text-shadow: none;
-    border-radius: 0;
+
 }
 
 .add-cart-container .added-to-cart.btn,
 .add-cart-container .btn-cart{
-    border-radius: 0;
+    
     border: none;
     box-shadow: none;
     background: #0d0d0d!important;
@@ -1483,7 +1494,7 @@ div.controls ul li:not(:last-child){
     opacity: 0.3;
     border: 1px solid rgba(0, 0, 0, 0.2);
     margin-right: 0;
-    border-radius: 0;
+    
 }
 
 #main-column .nav-tabs li.active a,
@@ -1622,17 +1633,17 @@ div.controls ul li:not(:last-child){
 }
 #reset-quote,
 #update-quote,
-#convert-to-invoice{
+#convert-to-invoice, .quote-buttons{
     min-width: 124px;
     height: 42px;
-    border-radius: 0;
+    
     box-shadow: none;
     border-bottom: 0;
     font-size: 14px;
 }
 .quote-item .bootstrap-touchspin .input-group-btn button{
     box-shadow: none;
-    border-radius: 0;
+    
     height: 34px;
 }
 .quote-item .bootstrap-touchspin input.quote-qty{
@@ -1645,7 +1656,7 @@ div.controls ul li:not(:last-child){
 }
 .delete-quote-item{
     box-shadow: none;
-    border-radius: 0;
+    
 }
 .quote-item strong.center-block a{
     font-family: 'Inter',sans-serif!important;
@@ -1731,7 +1742,6 @@ div.controls ul li:not(:last-child){
 #cancel,
 #change_password.btn,
 #send_invitation{
-    border-radius: 0;
     box-shadow: none!important;
     height: 42px;
     font-size: 14px;
@@ -1760,7 +1770,7 @@ div.controls ul li:not(:last-child){
     margin-bottom: 8px!important;
 }
 #view-expired-quotes{
-    border-radius: 0;
+    
     box-shadow: none;
     font-size: 14px;
     height: 42px;
@@ -1882,7 +1892,6 @@ div.controls ul li:not(:last-child){
     text-transform: uppercase;
     width: 100%;
     height: 42px;
-    border-radius: 0;
     box-shadow: none;
     margin-top: 12px;
 }
@@ -1930,7 +1939,7 @@ div.controls ul li:not(:last-child){
 
 #cart-summary tbody tr td:nth-child(3) .input-group .input-group-btn button{
     box-shadow: none;
-    border-radius: 0;
+    
     width: 42px;
     height: 42px;
     background: #F5F5F5;
@@ -1960,7 +1969,7 @@ div.controls ul li:not(:last-child){
     width: 42px;
     height: 42px;
     box-shadow: none;
-    border-radius: 0;
+    
     background: #f5f5f5;
 }
 #cart-summary tbody tr td button.delete-cart-product:hover{
@@ -1976,18 +1985,37 @@ div.controls ul li:not(:last-child){
     color: #000000;
 }
 #update-cart-content, .light-btn{
+    background-image: none;
     background-color: #ffffff!important;
     color: #000000!important;
     border-radius: 0!important;
     border: 1px solid #000000;
     width: 100%;
-    max-width: 180px;
+    max-width: 200px;
     height: 48px;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    box-shadow: none!important;
+    margin-right: 12px;
+}
+
+.light-btn-sm{
+    background-image: none;
+    background-color: #ffffff!important;
+    color: #000000!important;
+    border-radius: 0!important;
+    border: 1px solid #000000 !important;
+
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
     text-align: center;
     letter-spacing: 0.095em;
     text-transform: uppercase;
@@ -2007,7 +2035,19 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     line-height: 32px;
     text-align: center;
-    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    box-shadow: none!important;
+}
+
+.dark-btn-sm{
+    background-color: #000000!important;
+    color: #ffffff!important;
+    border-radius: 0!important;
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
     text-transform: uppercase;
     box-shadow: none!important;
 }
@@ -2067,7 +2107,7 @@ div.controls ul li:not(:last-child){
     height: 40px !important;
 }
 #info-modal .modal-footer button.btn.btn-primary{
-    border-radius: 0;
+    
     box-shadow: none;
     padding: 6px 20px;
 }
@@ -2144,7 +2184,7 @@ div.controls ul li:not(:last-child){
     margin-left: 15px;
     margin-right: 15px;
     border: 0;
-    border-radius: 0;
+    
     box-shadow: none;
 }
 #main-column .panel.panel-smart .panel-heading .form-group .col-lg-12{
@@ -2269,7 +2309,7 @@ div.controls ul li:not(:last-child){
     height: 48px;
     margin-right: 5px;
     box-shadow: none;
-    border-radius: 0;
+    
     background: #ffffff;
     border: 1px solid #000000;
     font-family: 'Inter',sans-serif!important;
@@ -2291,7 +2331,7 @@ div.controls ul li:not(:last-child){
     width: 48%;
     height: 48px;
     box-shadow: none;
-    border-radius: 0;
+    
     border: 1px solid #000000;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -2313,7 +2353,7 @@ div.controls ul li:not(:last-child){
 #collapseShippingDisclaimer {
     border:0;
     background: #ffffff!important;
-    border-radius: 0;
+    
     box-shadow: none;
     padding: 0!important;
 }
@@ -2362,7 +2402,7 @@ div.controls ul li:not(:last-child){
 #submit_billing{
     height: 48px;
     box-shadow: none;
-    border-radius: 0;
+    
     border: 1px solid #000000;
     transition: all 0.3s ease-in;
     font-family: 'Inter',sans-serif!important;
@@ -2414,7 +2454,7 @@ div.controls ul li:not(:last-child){
 }
 #general-modal .modal-footer button{
     box-shadow: none;
-    border-radius: 0;
+    
     padding: 6px 20px;
     outline: none;
 }
@@ -2844,7 +2884,7 @@ div.controls ul li:not(:last-child){
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 button.btn.btn-primary,
 .padding-0-15 .general-border.padding-10 .form-group .pull-right.margin-10 a,
 .padding-0-15 .general-border.padding-10 button.btn.btn-primary{
-    border-radius: 0;
+
     box-shadow: none!important;
     height: 42px;
     font-size: 14px;
