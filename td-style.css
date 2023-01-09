@@ -128,7 +128,7 @@ div#main-content{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     line-height: 28px;
-    color: red;
+    color: #000000;
 }
 .login__area-right div p.text-muted{
     margin-bottom: 96px!important;
