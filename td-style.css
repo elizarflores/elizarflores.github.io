@@ -573,6 +573,9 @@ div#main-content{
     padding-left: 0!important;
     padding-bottom: 0!important;
 }
+.panel-default > .panel-heading{
+    background-image:none;
+}
 .filter__list{
     padding-left: 0;
     list-style-type: none;
