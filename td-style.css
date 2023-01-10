@@ -1201,6 +1201,7 @@ div#main-content{
     padding-top:0!important;
     padding-bottom: 0!important;
     height: 66px!important;
+    border-radius: 0!important;
 }
 #heading-specs h4 .row .col-xs-4.lh-1-5,
 #heading-coverage h4 .row .col-xs-4.lh-1-5 {
@@ -3929,7 +3930,6 @@ div.controls ul li:not(:last-child){
     }
     #heading-specs, #heading-coverage{
         padding:0 12px !important;
-        border-radius: 0!important;
     }
     #heading-specs .row .col-xs-8.lh-1-5, #heading-coverage .row .col-xs-8.lh-1-5 {
         font-size: 12px;
