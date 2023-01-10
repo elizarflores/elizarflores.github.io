@@ -2527,7 +2527,6 @@ div.controls ul li:not(:last-child){
 .order__summary-container .panel-group .panel-heading{
     padding:12px 30px!important;
     border-bottom: 0!important;
-    border-radius: 0!important;
 }
 .order__summary-container .panel-group .panel-heading.point h5.panel-title{
     margin-bottom: 0!important;
@@ -3930,6 +3929,7 @@ div.controls ul li:not(:last-child){
     }
     #heading-specs, #heading-coverage{
         padding:0 12px !important;
+        border-radius: 0!important;
     }
     #heading-specs .row .col-xs-8.lh-1-5, #heading-coverage .row .col-xs-8.lh-1-5 {
         font-size: 12px;
