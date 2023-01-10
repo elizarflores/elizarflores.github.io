@@ -136,8 +136,9 @@ div#main-content{
 }
 .login__area-right div p.text-muted{
     margin-bottom: 96px!important;
-    font-size: 19px;
+    font-size: 14px;
     font-weight:500;
+    text-transform: uppercase;
 }
 
 
