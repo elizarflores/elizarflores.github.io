@@ -4016,6 +4016,9 @@ div.controls ul li:not(:last-child){
     .login__area{
         padding-top: 80px!important;
     }
+    .login__area-left{
+        padding-left: 15px;
+    }
     .login__area-left,
     .login__area-right{
         height:100%;
