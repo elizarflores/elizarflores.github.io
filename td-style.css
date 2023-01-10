@@ -1116,7 +1116,7 @@ div#main-content{
     height: 42px;
     background: #F5F5F5!important;
     box-shadow: none;
-    
+    border-radius: 0;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
