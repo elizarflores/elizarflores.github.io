@@ -401,7 +401,7 @@ div#main-content{
     text-decoration: none;
 }
 #bespokeNav ul li a.underlined{
-    text-underline-offset: 8px;
+    text-underline-offset: 6px;
 }
 #bespokeNav ul li a:hover,
 #bespokeNav ul li a:focus{
