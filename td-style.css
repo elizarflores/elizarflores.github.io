@@ -2947,13 +2947,11 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left img{
         width:100%!important;
-        margin-left: -12px;
+        margin-left: -18px;
     }
     .login__area-left h3{
         margin-top: 0!important;
-        font-size: 28px!important;
         width: 100%;
-        line-height: 42px;
     }
     .login__area-left,
     .login__area-right{
