@@ -4045,6 +4045,9 @@ div.controls ul li:not(:last-child){
         height:100%;
         min-height:600px;
     }
+    .login__area-left h3{
+        width: 65%;
+    }
     /* Login Area End */
 
     /* Main Menu Area Start*/
@@ -4053,3 +4056,11 @@ div.controls ul li:not(:last-child){
     }
     /* Main Menu Area End*/
 }
+
+/*Extra Large Device Media Query*/
+@media (min-width: 1600px) and (max-width:1799px){
+    .login__area-left h3{
+        width: 65%;
+    }
+}
+
