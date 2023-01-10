@@ -228,6 +228,9 @@ div#main-content{
     color: #FFFFFF;
     transition: all 0.3s ease-in-out;
 }
+#main-menu .nav.navbar-nav li a .fa.fa-angle-down{
+    font-size: 12px;
+}
 #main-menu .nav.navbar-nav li #cart{
     cursor: pointer;
     padding: 15px;
