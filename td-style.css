@@ -3835,7 +3835,7 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         margin-top: 0!important;
-        max-width: 50%!important;
+        max-width: 42%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -3854,6 +3854,9 @@ div.controls ul li:not(:last-child){
     }
     .login__area-right div p.text-muted {
         margin-bottom: 32px!important;
+    }
+    .login__area-right > p {
+        padding-left: 15px;
     }
     /* Login Area End */
 
