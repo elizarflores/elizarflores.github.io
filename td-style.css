@@ -3560,7 +3560,7 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         margin-top: 0!important;
-        max-width: 68%!important;
+        max-width: 52%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -3571,8 +3571,10 @@ div.controls ul li:not(:last-child){
         padding-top: 136px!important;
         padding-left: 0!important;
     }
-    .login__area-right div{
+    .login__area-right div.col-lg-12{
         width: 100%;
+        padding-left: 0;
+        padding-right: 0;
     }
     .login__area-right div h2 {
         margin-bottom: 24px;
