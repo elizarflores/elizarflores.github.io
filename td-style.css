@@ -81,6 +81,9 @@ div#main-content{
     justify-content: space-between;
     align-items: start;
 }
+.login__area-left img{
+    margin-left: -20px;
+}
 .login__area-left h3{
     font-family: 'Inter', sans-serif!important;
     font-style: normal;
