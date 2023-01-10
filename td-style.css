@@ -2931,7 +2931,9 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         margin-top: 0!important;
-        font-size: 28px;
+        font-size: 28px!important;
+        width: 100%;
+        line-height: 42px;
     }
     .login__area-left,
     .login__area-right{
@@ -3531,7 +3533,7 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         margin-top: 0!important;
-        max-width: 72%!important;
+        max-width: 68%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -3805,7 +3807,7 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         margin-top: 0!important;
-        max-width: 60%!important;
+        max-width: 50%!important;
     }
     .login__area-left,
     .login__area-right{
@@ -4003,6 +4005,9 @@ div.controls ul li:not(:last-child){
     .login__area-left img {
         margin-left: -14px;
     }
+    .login__area-left h3{
+        width: 70%;
+    }
     .login__area-right div p.text-muted{
         margin-bottom: 64px!important;
     }
@@ -4046,7 +4051,7 @@ div.controls ul li:not(:last-child){
         min-height:600px;
     }
     .login__area-left h3{
-        width: 65%;
+        width: 70%;
     }
     /* Login Area End */
 
@@ -4060,7 +4065,7 @@ div.controls ul li:not(:last-child){
 /*Extra Large Device Media Query*/
 @media (min-width: 1600px) and (max-width:1799px){
     .login__area-left h3{
-        width: 65%;
+        width: 68%;
     }
 }
 
