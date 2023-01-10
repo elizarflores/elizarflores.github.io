@@ -2924,6 +2924,10 @@ div.controls ul li:not(:last-child){
         margin-left: 0!important;
         margin-right: 0!important;
     }
+    .login__area-left img{
+        width:100%!important;
+        margin-left: -12px;
+    }
     .login__area-left h3{
         margin-top: 0!important;
         font-size: 28px;
