@@ -3552,6 +3552,9 @@ div.controls ul li:not(:last-child){
         background-size: 100% 50%;
         background-position: top center;
     }
+    .login__area-left{
+        padding-left: 0;
+    }
     .login__area-left img {
         margin-left: -18px;
     }
