@@ -2945,9 +2945,13 @@ div.controls ul li:not(:last-child){
         margin-left: 0!important;
         margin-right: 0!important;
     }
+    .login__area-left{
+        padding-left: 0;
+    }
     .login__area-left img{
-        width:100%!important;
-        margin-left: -18px;
+        width:90%!important;
+        margin-left: -16px;
+        font-size: 36px!important;
     }
     .login__area-left h3{
         margin-top: 0!important;
@@ -2962,8 +2966,10 @@ div.controls ul li:not(:last-child){
         padding-top: 128px!important;
         padding-left: 0!important;
     }
-    .login__area-right div{
+    .login__area-right div.col-lg-12{
         width: 100%;
+        padding-left: 0;
+        padding-right: 0;
     }
     .login__area-right div h2 {
         margin-bottom: 24px;
