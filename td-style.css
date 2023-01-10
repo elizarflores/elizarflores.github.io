@@ -179,7 +179,7 @@ div#main-content{
     border: 1px solid #000000;
     letter-spacing: 0.095em;
     text-transform: uppercase;
-    
+    border-radius: 0;
     box-shadow: none;
     padding: 13px 0;
 }
