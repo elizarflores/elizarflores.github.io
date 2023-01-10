@@ -400,6 +400,9 @@ div#main-content{
     padding-right: 0!important;
     text-decoration: none;
 }
+#bespokeNav ul li a.underlined{
+    text-underline-offset: 8px;
+}
 #bespokeNav ul li a:hover,
 #bespokeNav ul li a:focus{
     background: #ffffff!important;
