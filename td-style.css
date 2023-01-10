@@ -80,6 +80,7 @@ div#main-content{
     flex-direction: column;
     justify-content: space-between;
     align-items: start;
+    padding-left: 15px;
 }
 .login__area-left img{
     margin-left: -20px;
@@ -4016,9 +4017,6 @@ div.controls ul li:not(:last-child){
     .login__area{
         padding-top: 80px!important;
     }
-    .login__area-left{
-        padding-left: 15px;
-    }
     .login__area-left,
     .login__area-right{
         height:100%;
@@ -4066,9 +4064,6 @@ div.controls ul li:not(:last-child){
     /* Login Area Start */
     .login__area{
         padding-top: 104px!important;
-    }
-    .login__area-left{
-        padding-left: 15px;
     }
     .login__area-left,
     .login__area-right{
