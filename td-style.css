@@ -2951,11 +2951,11 @@ div.controls ul li:not(:last-child){
     .login__area-left img{
         width:90%!important;
         margin-left: -16px;
-        font-size: 36px!important;
     }
     .login__area-left h3{
         margin-top: 0!important;
         width: 100%;
+        font-size: 36px!important;
     }
     .login__area-left,
     .login__area-right{
