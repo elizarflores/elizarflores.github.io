@@ -4038,6 +4038,11 @@ div.controls ul li:not(:last-child){
     }
     .login__area-left h3{
         width: 75%;
+    
+    }
+    .login__area-right div.col-lg-12{
+        padding-left: 0;
+        padding-right: 0;
     }
     .login__area-right div p.text-muted{
         margin-bottom: 64px!important;
