@@ -863,11 +863,11 @@ div#main-content{
 /* Single Product Page Start Here */
 .product__title h2{
     margin-top: 0!important;
-    margin-bottom: 0!important;
+    margin-bottom: 5px!important;
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 500;
-    font-size: 22px!important;
+    font-weight: 400;
+    font-size: 28px!important;
     line-height: 30px;
     text-transform: capitalize!important;
     color: #000000;
