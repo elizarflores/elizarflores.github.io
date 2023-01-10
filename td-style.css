@@ -4078,6 +4078,9 @@ div.controls ul li:not(:last-child){
     .product__slider .splide__arrow.splide__arrow--next{
         right: -20px !important;;
     }
+    #product-filters{
+        width: 528px;
+    }
     /* Single Product Area End */
 }
 
