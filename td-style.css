@@ -3552,9 +3552,7 @@ div.controls ul li:not(:last-child){
         background-size: 100% 50%;
         background-position: top center;
     }
-    .login__area-left{
-        padding-left: 0;
-    }
+    
     .login__area-left img {
         margin-left: -18px;
     }
@@ -3573,14 +3571,15 @@ div.controls ul li:not(:last-child){
     }
     .login__area-right div.col-lg-12{
         width: 100%;
-        padding-left: 0;
-        padding-right: 0;
     }
     .login__area-right div h2 {
         margin-bottom: 24px;
     }
     .login__area-right div p.text-muted {
         margin-bottom: 32px!important;
+    }
+    .login__area-right > p {
+        padding-left: 15px;
     }
     /* Login Area End */
 
