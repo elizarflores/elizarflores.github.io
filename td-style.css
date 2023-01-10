@@ -726,15 +726,7 @@ div#main-content{
 .product__price-wrap{
     text-align: center;
 }
-.product__price-wrap p span:first-child{
-    font-family: 'Inter',sans-serif!important;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 13px;
-    line-height: 15px;
-    text-align: center;
-    color: #000000;
-}
+.product__price-wrap p span:first-child,
 .product__price-wrap p span:nth-child(2){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
@@ -743,6 +735,8 @@ div#main-content{
     line-height: 15px;
     text-align: center;
     color: #000000;
+}
+.product__price-wrap p span:nth-child(2){
     padding: 0 4px;
 }
 .product__price-wrap p span:last-child{
