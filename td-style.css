@@ -809,7 +809,7 @@ div#main-content{
     background-position-x: 88%;
     background-position-y: 50%;
     appearance: none;
-    background-size: 15px
+    background-size: 14px
   }
 .form-control:focus{
     box-shadow: none!important;
