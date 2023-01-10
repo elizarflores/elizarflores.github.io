@@ -3525,6 +3525,9 @@ div.controls ul li:not(:last-child){
         background-size: 100% 50%;
         background-position: top center;
     }
+    .login__area-left img {
+        margin-left: -18px;
+    }
     .login__area-left h3{
         margin-top: 0!important;
         max-width: 72%!important;
@@ -3995,6 +3998,9 @@ div.controls ul li:not(:last-child){
     .login__area-right{
         height:100%;
         min-height:560px;
+    }
+    .login__area-left img {
+        margin-left: -14px;
     }
     .login__area-right div p.text-muted{
         margin-bottom: 64px!important;
