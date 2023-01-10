@@ -4088,7 +4088,7 @@ div.controls ul li:not(:last-child){
     }
 }
 
-@media (min-width: 1200px){
+@media (min-width: 1400px){
     .container {
         width: 1280px!important;
     }
