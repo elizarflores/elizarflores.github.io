@@ -766,10 +766,7 @@ div#main-content{
     color: rgba(0, 0, 0, 0.5)!important;
     text-decoration:underline!important;
 }
-.pagination li.active a,
-#paginator li.active a{
-    font-weight: 700;
-}
+
 .pagination li a[rel="prev"],
 .pagination li a[rel="next"],
 .pagination li:last-child a,
@@ -789,6 +786,7 @@ div#main-content{
     background-color: transparent;
     color: #000!important;
     text-decoration: none!important;
+    font-weight: 700;
 }
 #items-ppg label{
     font-family: 'Inter',sans-serif!important;
