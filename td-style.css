@@ -817,7 +817,7 @@ div#main-content{
     background-position-x: 88%;
     background-position-y: 50%;
     appearance: none;
-    background-size: 14px
+    background-size: 14px;
   }
 .form-control:focus{
     box-shadow: none!important;
@@ -1156,6 +1156,17 @@ div#main-content{
 .change-orderby:focus{
     box-shadow: none !important;
     border-color:#D9D9D9!important
+}
+.change-orderby{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position-x: 88%;
+    background-position-y: 50%;
+    appearance: none;
+    background-size: 14px;
 }
 #total_sqft_ppc,
 #qty-sold-by-label{
