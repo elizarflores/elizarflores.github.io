@@ -2955,6 +2955,9 @@ div.controls ul li:not(:last-child){
 .thumbnail{
     border-radius:0!important;
 }
+.modal-header{
+    border-bottom: none;
+}
 
 
 
