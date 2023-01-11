@@ -2951,6 +2951,9 @@ div.controls ul li:not(:last-child){
 }
 
 /* Checkout Page CSS */
+#customize{
+    box-shadow: none;
+}
 #customize,
 .thumbnail{
     border-radius:0!important;
