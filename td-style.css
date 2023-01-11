@@ -2829,6 +2829,7 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.095em;
     text-transform: uppercase;
     color: #FFFFFF;
+    border-radius: 0;
 }
 .invite-table-title{
     font-family: 'Inter',sans-serif!important;
@@ -2950,7 +2951,9 @@ div.controls ul li:not(:last-child){
 }
 
 /* Checkout Page CSS */
-
+.thumbnail{
+    border-radius:0!important;
+}
 
 
 
