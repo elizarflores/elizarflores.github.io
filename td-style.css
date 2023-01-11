@@ -1183,7 +1183,10 @@ div#main-content{
     margin-bottom: 0;
     margin-top: 6px;
 }
-
+#coverage .panel-body{
+    padding-left: 0;
+    padding-right: 0;
+}
 .product-spec-detail{
     margin-bottom: 0!important;
 }
