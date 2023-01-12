@@ -1993,7 +1993,7 @@ div.controls ul li:not(:last-child){
 
 #cart-summary tbody tr td:nth-child(3) .input-group .input-group-btn button{
     box-shadow: none;
-    
+    border-radius: 0;
     width: 42px;
     height: 42px;
     background: #F5F5F5;
