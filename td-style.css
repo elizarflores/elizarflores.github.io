@@ -1518,7 +1518,7 @@ div.controls ul li:not(:last-child){
     color: #FFFFFF;
     box-shadow: none;
     text-shadow: none;
-
+    border-radius: 0;
 }
 
 .add-cart-container .added-to-cart.btn,
