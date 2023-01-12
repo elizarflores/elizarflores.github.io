@@ -1439,6 +1439,7 @@ div#account-details table tr td:nth-child(even){
 }
 div.controls ul li a{
     margin: 0!important;
+    background: #ffffff!important;
 }
 div.controls ul li:not(:last-child){
     margin-bottom: 15px;
