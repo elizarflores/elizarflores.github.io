@@ -2862,7 +2862,6 @@ div.controls ul li:not(:last-child){
 }
 .padding-0-15 .general-border.padding-10{
     border: 0;
-    margin-top: 32px;
     padding: 24px!important;
     background: #f5f5f5;
 }
