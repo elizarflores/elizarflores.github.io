@@ -1461,17 +1461,17 @@ div.controls ul li:not(:last-child){
     top: 50%;
     transform: translateY(-50%);
 }
-.question__container form .form-group.col-lg-12,
-.question__container form .form-group.col-lg-4{
+.question__container .form-group.col-lg-12,
+.question__container .form-group.col-lg-4{
     padding-left: 0;
     padding-right: 0;
 }
-.question__container form .form-group.col-lg-4:first-child,
-.question__container form .form-group.col-lg-4:nth-child(2){
+.question__container .form-group.col-lg-4:first-child,
+.question__container .form-group.col-lg-4:nth-child(2){
     padding-right: 20px;
 }
-.question__container form .form-group.col-lg-12 label,
-.question__container form .form-group.col-lg-4 label{
+.question__container .form-group.col-lg-12 label,
+.question__container .form-group.col-lg-4 label{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
@@ -1482,8 +1482,8 @@ div.controls ul li:not(:last-child){
     color: #000000;
     margin-bottom: 8px;
 }
-.question__container form .form-group.col-lg-12 textarea,
-.question__container form .form-group.col-lg-4 input{
+.question__container .form-group.col-lg-12 textarea,
+.question__container .form-group.col-lg-4 input{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
@@ -1495,15 +1495,15 @@ div.controls ul li:not(:last-child){
     padding:12px 20px;
     box-shadow: none;
 }
-.question__container form .form-group.col-lg-4 input{
+.question__container .form-group.col-lg-4 input{
     height:42px;
 }
-.question__container form .form-group.col-lg-12 textarea:focus,
-.question__container form .form-group.col-lg-4 input:focus{
+.question__container .form-group.col-lg-12 textarea:focus,
+.question__container .form-group.col-lg-4 input:focus{
     box-shadow: none;
     border: 1px solid #D9D9D9;
 }
-.question__container form button.btn{
+.question__container button.btn{
     width: 304px;
     height: 42px;
     background: #000000;
@@ -3308,8 +3308,8 @@ div.controls ul li:not(:last-child){
         padding: 12px!important;
         font-weight: 600;
     }
-    .question__container form .form-group.col-lg-4:first-child,
-    .question__container form .form-group.col-lg-4:nth-child(2){
+    .question__container .form-group.col-lg-4:first-child,
+    .question__container .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
     }
     .order__controls .col-lg-4,
@@ -3722,8 +3722,8 @@ div.controls ul li:not(:last-child){
     .order__controls {
         padding: 8px 24px;
     }
-    .question__container form .form-group.col-lg-4:first-child,
-    .question__container form .form-group.col-lg-4:nth-child(2){
+    .question__container .form-group.col-lg-4:first-child,
+    .question__container .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
     }
     .order__controls .col-lg-4,
@@ -3978,8 +3978,8 @@ div.controls ul li:not(:last-child){
     .controls{
         margin-bottom: 32px;
     }
-    .question__container form .form-group.col-lg-4:first-child,
-    .question__container form .form-group.col-lg-4:nth-child(2){
+    .question__container .form-group.col-lg-4:first-child,
+    .question__container .form-group.col-lg-4:nth-child(2){
         padding-right: 0px;
     }
     .order__controls .col-lg-4,
