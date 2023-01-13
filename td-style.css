@@ -3053,6 +3053,7 @@ button#customize{
 }
 .thumbnail{
     background: transparent;
+    box-shadow: none;
 }
 
 
