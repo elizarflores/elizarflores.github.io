@@ -1455,7 +1455,7 @@ div#account-details table tr td:nth-child(even){
 }
 .controls{
     background: #F5F5F5;
-    padding:32px;
+    padding:30px;
 }
 .controls .general-list{
     margin-bottom: 0;
