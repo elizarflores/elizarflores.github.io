@@ -3768,8 +3768,10 @@ button#customize{
         display: inline-block;
         margin-top: 16px;
     }
+    .change-orderby{
+        max-width: 100%;
+    }
     #qty-calculator div.col-lg-4.text-center label{
-        display: inline-block;
         margin-bottom: 16px;
     }
     /* Single Product Area End */
