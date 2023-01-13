@@ -1196,7 +1196,7 @@ div#main-content{
     border-color:#D9D9D9!important
 }
 .change-orderby{
-    width: 148px;
+    max-width: 148px;
 }
 .change-orderby,
 #measurements{
