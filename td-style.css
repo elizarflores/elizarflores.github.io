@@ -3051,6 +3051,9 @@ button#customize{
 .modal-header{
     border-bottom: none;
 }
+.thumbnail{
+    background: transparent;
+}
 
 
 
