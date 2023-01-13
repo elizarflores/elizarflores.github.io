@@ -3319,8 +3319,6 @@ button#customize{
     #qty-calculator div.col-lg-4.text-center span.font-xlg, 
     #qty-calculator div.col-lg-4.text-center span.font-xlg #total-summary{
         font-size: 16px;
-        margin-top: 8px;
-        display: inline-block;
     }
     .product__slider-area{
         padding-top: 40px;
