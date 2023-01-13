@@ -2846,6 +2846,10 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-table table{
     margin-bottom: 0!important;
 }
+.account_invite .container-fluid .invite-table table thead tr,
+.account_invite .container-fluid .invite-table table tbody tr:nth-child(even){
+    background-color: #ffffff;
+}
 .component-subtitle{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
