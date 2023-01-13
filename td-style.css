@@ -1817,6 +1817,9 @@ div.controls ul li:not(:last-child){
     font-weight: 400;
     text-transform: none;
 }
+.account_invite .container-fluid .invite-form label[for="add_margin"]{
+    margin-bottom: 18px;
+}
 .change-password input,
 .personal-info input,
 .account_invite .container-fluid .invite-form input,
