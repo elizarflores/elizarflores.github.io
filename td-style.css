@@ -3075,7 +3075,9 @@ button#customize{
     line-height: 22px;
     color: #000000;
 }
-
+.fa-question-circle.text-danger{
+    color: #000000;
+}
 
 
 
