@@ -1823,6 +1823,10 @@ div.controls ul li:not(:last-child){
 #the-count{
     margin-top: 5px;
 }
+.account_invite .balance-table table thead tr,
+.account_invite .balance-table table tbody tr:nth-child(even){
+    background: #ffffff;
+}
 .change-password input,
 .personal-info input,
 .account_invite .container-fluid .invite-form input,
