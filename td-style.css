@@ -1147,6 +1147,7 @@ div#main-content{
     color: rgba(0, 0, 0, 0.5);
     margin-top: 4px;
     margin-bottom: 0;
+    display: block;
 }
 
 #qty-calculator .input-group.bootstrap-touchspin .input-group-btn button{
