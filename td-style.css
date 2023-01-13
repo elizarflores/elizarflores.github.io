@@ -408,6 +408,15 @@ div#main-content{
 #bespokeNav ul li a:focus{
     background: #ffffff!important;
 }
+#filter_type{
+    font-family: 'Inter', sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    padding: 11px 20px;
+}
 #product-filters{
     padding-left: 0!important;
     padding-right: 0!important;
