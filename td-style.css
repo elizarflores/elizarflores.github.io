@@ -737,9 +737,9 @@ div#main-content{
     max-width:100%;
 }
 .product-container .product-wrap  h3.name {
-    margin-top: 6px!important;
+    margin-top: 12px!important;
     margin-bottom: 6px!important;
-    min-height: 100px;
+    min-height: 80px;
 }
 .product-container .product-wrap  h3.name a{
     color: #000;
@@ -767,6 +767,9 @@ div#main-content{
     line-height: 15px;
     text-align: center;
     color: #000000;
+}
+.product__price-wrap p span:first-child{
+    font-weight: 400;
 }
 .product__price-wrap p span:nth-child(2){
     padding: 0 4px;
