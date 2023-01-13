@@ -3067,6 +3067,14 @@ button#customize{
     margin-bottom: 12px;
 }
 
+.thumbnail .caption div p{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+}
 
 
 
