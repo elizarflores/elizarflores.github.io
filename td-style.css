@@ -1855,8 +1855,15 @@ div.controls ul li:not(:last-child){
     height: 42px;
 }
 .account_settings .tab-content{
-    padding: 24px;
+    padding: 30px;
     background: #f5f5f5;
+}
+.account_settings .tab-content .container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.account_settings .tab-content .container-fluid .form-group a.link{
+    margin-top: 4px;
 }
 .account_settings .tab-content #customize_style label,
 .account_settings .tab-content #pricing_display label{
