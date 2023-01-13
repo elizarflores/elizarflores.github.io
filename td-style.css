@@ -429,7 +429,7 @@ div#main-content{
     background-size: 14px;
 }
 #filter_type:focus{
-    border-color:inherit;
+    border-color:#cccccc;
 }
 #product-filters{
     padding-left: 0!important;
