@@ -2838,7 +2838,12 @@ div.controls ul li:not(:last-child){
 #main-column ul.breadcrumb{
     margin-bottom: 20px;
 }
-
+#general-modal .modal-header{
+    display: none;
+}
+#general-modal .modal-footer button{
+    border-radius: 0;
+}
 .account_invite .container-fluid .invite-table{
     margin: 0;
     margin-top: 30px;
