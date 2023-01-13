@@ -1863,7 +1863,8 @@ div.controls ul li:not(:last-child){
     padding-right: 0;
 }
 .account_settings .tab-content .container-fluid .form-group a.link{
-    margin-top: 4px;
+    margin-top: 5px;
+    display: inline-block;
 }
 .account_settings .tab-content #customize_style label,
 .account_settings .tab-content #pricing_display label{
