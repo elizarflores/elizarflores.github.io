@@ -1820,6 +1820,9 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-form label[for="add_margin"]{
     margin-bottom: 18px;
 }
+#the-count{
+    margin-top: 5px;
+}
 .change-password input,
 .personal-info input,
 .account_invite .container-fluid .invite-form input,
