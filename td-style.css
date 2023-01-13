@@ -1814,6 +1814,7 @@ div.controls ul li:not(:last-child){
     font-size: 14px;
     letter-spacing: 0;
     font-weight: 400;
+    text-transform: none;
 }
 .change-password input,
 .personal-info input,
