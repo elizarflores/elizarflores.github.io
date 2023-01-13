@@ -1125,6 +1125,7 @@ div#main-content{
 }
 #qty-calculator div.col-lg-4.text-center{
     text-align: right;
+    padding-left: 0;
     padding-right: 0;
 }
 #qty-calculator div.col-lg-4.text-center span.font-xlg{
@@ -1132,6 +1133,7 @@ div#main-content{
     align-items: center;
     justify-content: flex-end;
     height: 42px;
+    border-bottom: 1px solid #cccccc;
 }
 #qty-calculator div.col-lg-4.text-center span.font-xlg ~ br{
     display: none;
