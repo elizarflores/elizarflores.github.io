@@ -1953,7 +1953,7 @@ div.controls ul li:not(:last-child){
     border-radius: 0;
 }
 #cart-summary thead tr{
-    height: 42px;
+    height: 45px;
 }
 #cart-summary thead tr td{
     font-family: 'Inter',sans-serif!important;
@@ -1964,6 +1964,7 @@ div.controls ul li:not(:last-child){
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #000000;
+    vertical-align: middle;
 }
 #cart-summary thead tr td:first-child{
     font-size: 25px;
