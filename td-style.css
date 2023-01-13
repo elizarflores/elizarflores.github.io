@@ -2994,6 +2994,7 @@ div.controls ul li:not(:last-child){
 /* Checkout Page CSS */
 #customize{
     box-shadow: none;
+    height: 40px;
 }
 #customize,
 .thumbnail{
