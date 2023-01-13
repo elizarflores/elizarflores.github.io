@@ -1969,12 +1969,16 @@ div.controls ul li:not(:last-child){
     padding:14px 0;
     vertical-align: middle!important;
 }
-.cart-dropdown-thumb, .cart-thumb{
+.cart-dropdown-thumb{
     height: 60px!important;
     width: 80%!important;
     padding-right: 8px;
 }
-
+.cart-thumb{
+    width: 100px!important;
+    height: 100px!important;
+    padding-right: 8px;
+}
 #cart-summary tbody tr td:nth-child(2) a{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
