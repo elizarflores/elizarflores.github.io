@@ -3396,8 +3396,9 @@ button#customize{
         padding: 12px!important;
         font-weight: 600;
     }
-    .question__container .form-group.col-lg-4:first-child,
-    .question__container .form-group.col-lg-4:nth-child(2){
+    
+    .question__container .form-group.col-lg-4:nth-child(3){
+        padding-left: 0;
         padding-right: 0px;
     }
     .order__controls .col-lg-4,
@@ -3812,8 +3813,8 @@ button#customize{
     .order__controls {
         padding: 8px 24px;
     }
-    .question__container .form-group.col-lg-4:first-child,
-    .question__container .form-group.col-lg-4:nth-child(2){
+    .question__container .form-group.col-lg-4:nth-child(3){
+        padding-left: 0;
         padding-right: 0px;
     }
     .order__controls .col-lg-4,
@@ -4102,7 +4103,7 @@ button#customize{
         padding: 30px 10px;
     }
     .account_settings .tab-content{
-        padding:18px 8px 8px 8px;
+        padding:20px;
     }
     .balance-footer .pull-right span{
         font-size:16px;
