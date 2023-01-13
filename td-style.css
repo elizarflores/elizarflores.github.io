@@ -1163,6 +1163,7 @@ div#main-content{
     color: #000000;
     padding: 6px 16px!important;
     border:1px solid #d9d9d9!important;
+    margin-left: 0;
 }
 #qty-calculator .input-group.bootstrap-touchspin input.qty-default{
     font-family: 'Inter',sans-serif!important;
