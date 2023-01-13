@@ -3056,7 +3056,16 @@ button#customize{
     box-shadow: none;
 }
 
-
+.thumbnail .caption h3{
+    font-family: 'Inter',sans-serif!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
 
 
 
