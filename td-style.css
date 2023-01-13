@@ -341,7 +341,7 @@ div#main-content{
 .main-header::after {
     content: "";
     width: 100%;
-    max-width: 1147px;
+    max-width: 1280px;
     height: 1px;
     background: #d9d9d9;
     display: inline-block;
@@ -4169,5 +4169,8 @@ div.controls ul li:not(:last-child){
     .login__area-right div.col-lg-12{
         padding-left: 0;
         padding-right: 0;
+    }
+    #single-product-container .right{
+        padding-left: 0;
     }
 }
