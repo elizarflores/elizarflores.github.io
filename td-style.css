@@ -4059,6 +4059,10 @@ button#customize{
     .cart-buttons .add-cart-container{
         margin-top: 20px;
     }
+    .question__container .form-group.col-lg-4:nth-child(3){
+        padding-left: 0;
+        padding-right: 0;
+    }
     /* Single Product Area End */
 
     /* Dashboard Area Start Here*/
