@@ -3056,7 +3056,7 @@ button#customize{
     box-shadow: none;
 }
 
-.thumbnail .caption h3{
+.thumbnail .caption h4{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
