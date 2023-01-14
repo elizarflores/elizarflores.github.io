@@ -2078,6 +2078,7 @@ div.controls ul li:not(:last-child){
 }
 #cart-summary tbody tr td.text-center .input-group{
     max-width:220px;
+    margin: 0 auto;
 }
 #cart-summary tbody tr td:nth-child(3) .input-group .input-group-btn button{
     box-shadow: none;
