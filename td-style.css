@@ -2044,7 +2044,7 @@ div.controls ul li:not(:last-child){
 }
 #cart-summary tbody tr td,
 #cart-summary tfoot tr td{
-    padding:14px 0;
+    padding:20px 0;
     vertical-align: middle!important;
 }
 .cart-dropdown-thumb{
