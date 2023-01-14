@@ -3111,6 +3111,9 @@ button#customize{
     color: #000000;
     margin: 0;
 }
+.invite-table table tbody tr td small.text-danger{
+    color: #777777;
+}
 
 
 
