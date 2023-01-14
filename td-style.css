@@ -3114,7 +3114,9 @@ button#customize{
 .invite-table table tbody tr td small.text-danger{
     color: #000000;
 }
-
+.fa-info-circle.text-danger{
+    color: #000000;
+}
 
 
 
