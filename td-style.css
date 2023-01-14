@@ -2240,6 +2240,9 @@ div.controls ul li:not(:last-child){
     line-height: 15px;
     color: #000000;
 }
+#cart-summary tfoot tr td.text-right.text-nowrap{
+    text-align:left!important;
+}
 #cart-summary tfoot tr td.text-right.text-nowrap strong,
 #cart-summary tfoot tr td.text-right strong{
     font-family: 'Inter',sans-serif!important;
