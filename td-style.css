@@ -3128,7 +3128,9 @@ button#customize{
     height: 50px;
 }
 
-
+#cart-summary tr td{
+    border-top:0;
+}
 
 
 /* Medium Laptop Media Query */
