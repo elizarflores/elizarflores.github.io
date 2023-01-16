@@ -2071,6 +2071,9 @@ div.controls ul li:not(:last-child){
     line-height: 22px;
     text-transform: none;
 }
+.cart__container .text-right ~ hr{
+    display: none;
+}
 #cart-summary tbody tr td:nth-child(2) small{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
