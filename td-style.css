@@ -3119,7 +3119,9 @@ button#customize{
 }
 .thumbnail  .caption .light-btn-sm,
 .thumbnail  .caption .dark-btn-sm{
-    font-family: 'Inter';
+    display: flex;
+    justify-content:center;
+    align-items:center;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
