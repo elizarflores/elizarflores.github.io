@@ -3738,6 +3738,9 @@ button#customize{
         margin-bottom: 15px;
     }
     /* Checkout Page CSS */
+    .thumbnail  .caption .light-btn-sm{
+        margin-bottom: 12px;
+    }
 
 }
 
