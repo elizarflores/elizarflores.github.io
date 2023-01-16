@@ -3131,7 +3131,14 @@ button#customize{
 #cart-summary tr td{
     border-top:0;
 }
+#cart-summary thead tr td,
+#cart-summary tfoot tr td{
+    border-bottom: 1px solid #000000;
+}
 
+#cart-summary tbody tr td{
+    border-bottom: 1px solid #D9D9D9;
+}
 
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
