@@ -3117,7 +3117,17 @@ button#customize{
 .fa-info-circle.text-danger{
     color: #000000;
 }
-
+.thumbnail  .caption .light-btn-sm,
+.thumbnail  .caption .dark-btn-sm{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+    height: 50px;
+}
 
 
 
