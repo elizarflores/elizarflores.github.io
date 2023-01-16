@@ -2042,7 +2042,9 @@ div.controls ul li:not(:last-child){
     font-size: 25px;
     font-weight:400;
 }
-#cart-summary thead tr td,
+#cart-summary thead tr td{
+    padding:16px 6px;
+}
 #cart-summary tbody tr td,
 #cart-summary tfoot tr td{
     padding:20px 0;
