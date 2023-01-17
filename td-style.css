@@ -3147,7 +3147,6 @@ button#customize{
 }
 #account-details table tbody tr{
     display:flex;
-    flex-wrap: wrap;
     width: 100%;
 }
 #account-details table tbody tr td:first-child{
