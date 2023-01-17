@@ -3771,6 +3771,21 @@ button#customize{
         margin-bottom: 12px;
     }
 
+    #account-details table tbody tr td:first-child{
+        font-size: 10px!important;
+    }
+    #account-details table tbody tr td:first-child{
+        font-size: 12px!important;
+    }
+    #account-details table tbody tr td:first-child{
+        max-width: 48%;
+        flex-basis: 48%;
+    }
+    #account-details table tbody tr td:last-child{
+        max-width: 52%;
+        flex-basis: 52%;
+    }
+
 }
 
 
@@ -3901,10 +3916,6 @@ button#customize{
     }
     div#account-details table{
         margin-bottom: 20px;
-    }
-    div#account-details table tr td:nth-child(odd),
-    div#account-details table tr td:nth-child(even){
-        width: 50%;
     }
     .controls{
         margin-bottom: 32px;
