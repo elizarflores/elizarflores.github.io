@@ -4346,24 +4346,7 @@ button#customize{
         width: 528px;
     }
     /* Single Product Area End */
-
-    div#account-details table tr:last-child td{
-        padding-bottom: 12px!important;
-    }
-    div#account-details table tr:first-child td{
-        padding-top: 12px!important;
-    }
-    div#account-details table tr td{
-        padding: 5px 10px!important;
-    }
-    #account-details table tbody tr td:first-child{
-        max-width: 42%;
-        flex-basis: 42%;
-        font-size: 9px!important;
-    }
     #account-details table tbody tr td:last-child{
-        max-width: 58%;
-        flex-basis: 58%;
         font-size: 12px!important;
     }
 }
