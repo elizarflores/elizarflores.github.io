@@ -3152,13 +3152,13 @@ button#customize{
 }
 #account-details table tbody tr td:first-child{
     width: 100%;
-    max-width: 40%;
-    flex-basis: 40%;
+    max-width: 36%;
+    flex-basis: 36%;
 }
 #account-details table tbody tr td:last-child{
     width: 100%;
-    max-width: 60%;
-    flex-basis: 60%;
+    max-width: 74%;
+    flex-basis: 74%;
 }
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
