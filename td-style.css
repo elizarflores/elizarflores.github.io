@@ -3145,7 +3145,21 @@ button#customize{
 #cart-summary tbody tr td{
     border-bottom: 1px solid #D9D9D9;
 }
-
+#account-details table tbody tr{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+#account-details table tbody tr td:first-child{
+    width: 100%;
+    max-width: 40%;
+    flex-basis: 40%;
+}
+#account-details table tbody tr td:last-child{
+    width: 100%;
+    max-width: 60%;
+    flex-basis: 60%;
+}
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
@@ -3461,21 +3475,6 @@ button#customize{
     div#account-details table tr td,
     div#account-details table tr td{
         padding: 5px 10px;
-    }
-    #account-details table tbody tr{
-        display:flex;
-        flex-wrap: wrap;
-        width: 100%;
-    }
-    #account-details table tbody tr td:first-child{
-        width: 100%;
-        max-width: 40%;
-        flex-basis: 40%;
-    }
-    #account-details table tbody tr td:last-child{
-        width: 100%;
-        max-width: 60%;
-        flex-basis: 60%;
     }
     .controls{
         margin-bottom: 24px;
