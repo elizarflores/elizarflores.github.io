@@ -3770,7 +3770,7 @@ button#customize{
         margin-bottom: 12px;
     }
     div#account-details table tr:last-child td{
-        margin-bottom: 12px!important;
+        padding-bottom: 12px!important;
     }
     div#account-details table tr:first-child td{
         padding-top: 12px!important;
