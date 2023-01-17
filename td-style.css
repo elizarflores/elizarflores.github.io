@@ -3769,11 +3769,12 @@ button#customize{
     .thumbnail  .caption .light-btn-sm{
         margin-bottom: 12px;
     }
+    div#account-details table tr:last-child td,
     div#account-details table tr:first-child td{
-        padding-top: 12px;
+        padding-top: 12px!important;
     }
     div#account-details table tr td{
-        padding: 5px 10px;
+        padding: 5px 10px!important;
     }
     #account-details table tbody tr td:first-child{
         max-width: 42%;
