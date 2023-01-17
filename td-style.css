@@ -3458,8 +3458,8 @@ button#customize{
     div#account-details table{
         margin-bottom: 16px;
     }
-    div#account-details table tr td:nth-child(odd),
-    div#account-details table tr td:nth-child(even){
+    div#account-details table tr td,
+    div#account-details table tr td{
         padding: 5px 10px;
     }
     #account-details table tbody tr{
