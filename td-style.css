@@ -3462,6 +3462,21 @@ button#customize{
     div#account-details table tr td:nth-child(even){
         padding: 5px 10px;
     }
+    #account-details table tbody tr{
+        display:flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    #account-details table tbody tr td:first-child{
+        width: 100%;
+        max-width: 40%;
+        flex-basis: 40%;
+    }
+    #account-details table tbody tr td:last-child{
+        width: 100%;
+        max-width: 60%;
+        flex-basis: 60%;
+    }
     .controls{
         margin-bottom: 24px;
         padding: 24px;
