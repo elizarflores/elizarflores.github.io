@@ -1427,6 +1427,10 @@ div#main-content{
 .account-menu li a:hover{
     text-decoration: none;
 }
+.account-menu li a.underlined{
+    font-weight: 700;
+    text-underline-offset: 6px;
+}
 .question__title-wrapper{
     margin-bottom: 32px;
 }
