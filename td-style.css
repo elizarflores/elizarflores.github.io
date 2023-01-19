@@ -738,8 +738,8 @@ div#main-content{
     max-width:100%;
 }
 .product__img-wrapper .center-img img {
+    max-width:96%;
     max-height: 100%;
-    max-width:100%;
     position: unset;
 }
 div#single-product-container div.center-img{
