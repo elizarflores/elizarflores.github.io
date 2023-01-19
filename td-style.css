@@ -1273,6 +1273,14 @@ div#single-product-container div.center-img{
     text-transform: uppercase;
     color: #000000;
 }
+.product-spec-detail .spec_details tbody tr td:nth-child(even){
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    color: #000000;
+}
 .product-spec-detail .spec_details > tbody > tr > td:last-child{
     width: 65.85%;
 }
