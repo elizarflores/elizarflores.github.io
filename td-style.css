@@ -1281,10 +1281,10 @@ div#single-product-container div.center-img{
     line-height: 20px;
     color: #000000;
 }
-.product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:first-child,
 .product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(3){
-
+    border-right: none;
 }
+.product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:first-child,
 .product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(even){
     border-left: none;
     border-right: none;
