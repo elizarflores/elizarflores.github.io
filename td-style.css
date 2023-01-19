@@ -1363,7 +1363,7 @@ div#single-product-container div.center-img{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    padding: 0 10px!important;
+    padding: 0 24px!important;
 }
 #calculate{
     font-family: 'Inter';
@@ -3840,7 +3840,9 @@ button#customize{
         max-width: 550px;
         width: 550px;
     }
-    .product-spec-detail .spec_details > tbody > tr > td{
+    .product-spec-detail .spec_details > tbody > tr > td,
+    #heading-specs .row .col-xs-8.lh-1-5,
+    #heading-coverage .row .col-xs-8.lh-1-5{
         padding:12px;
     }
 }
@@ -4345,7 +4347,9 @@ button#customize{
         font-size: 12px!important;
     }
 
-    .product-spec-detail .spec_details > tbody > tr > td{
+    .product-spec-detail .spec_details > tbody > tr > td,
+    #heading-specs .row .col-xs-8.lh-1-5,
+    #heading-coverage .row .col-xs-8.lh-1-5{
         padding:12px;
     }
 }
