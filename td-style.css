@@ -1424,7 +1424,8 @@ div#main-content{
     text-transform: uppercase;
     color: #000000;
 }
-.account-menu li a:hover{
+.account-menu li a:hover,
+.account-menu li a:focus{
     text-decoration: none;
 }
 .account-menu li a.underlined{
