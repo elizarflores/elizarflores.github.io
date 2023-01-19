@@ -1257,6 +1257,9 @@ div#single-product-container div.center-img{
 .product-spec-detail td p{
     margin-bottom: 8px!important;
 }
+.product-spec-detail .spec_details > tbody > tr > td{
+    padding: 12px 24px;
+}
 .product-spec-detail .spec_details > tbody > tr > td:first-child{
     width: 34.15%;
 }
