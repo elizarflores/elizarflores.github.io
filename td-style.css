@@ -1282,9 +1282,12 @@ div#single-product-container div.center-img{
     color: #000000;
 }
 .product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:first-child,
-.product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(3),
+.product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(3){
+
+}
 .product-spec-detail tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(even){
-    border: none;
+    border-left: none;
+    border-right: none;
 }
 .product-spec-detail .spec_details > tbody > tr > td:last-child{
     width: 65.85%;
