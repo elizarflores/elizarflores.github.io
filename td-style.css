@@ -737,7 +737,7 @@ div#main-content{
     max-height: 100%;
     max-width:100%;
 }
-.product__img-wrapper .div.center-img img {
+.product__img-wrapper .center-img img {
     max-height: 100%;
     max-width:100%;
     position: unset;
