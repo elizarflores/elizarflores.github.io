@@ -1262,6 +1262,14 @@ div#single-product-container div.center-img{
 }
 .product-spec-detail .spec_details > tbody > tr > td:first-child{
     width: 34.15%;
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
 }
 .product-spec-detail .spec_details > tbody > tr > td:last-child{
     width: 65.85%;
