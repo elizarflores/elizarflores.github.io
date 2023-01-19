@@ -1281,7 +1281,7 @@ div#single-product-container div.center-img{
     line-height: 20px;
     color: #000000;
 }
-.product-spec-detail .spec_details tbody tr td:nth-child(even) .table-bordered > tbody > tr > td{
+.product-spec-detail .spec_details tbody tr td:nth-child(even) .table-bordered > tbody > tr > td:nth-child(even){
     border: none;
 }
 .product-spec-detail .spec_details > tbody > tr > td:last-child{
