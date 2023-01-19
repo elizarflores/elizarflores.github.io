@@ -732,9 +732,20 @@ div#main-content{
 .product-container .product-wrap:hover{
     border:1px solid #212121!important;
 }
+/* Product Image */
 .product-container .product-wrap .center-img img{
     max-height: 100%;
     max-width:100%;
+}
+.product__img-wrapper .div.center-img img {
+    max-height: 100%;
+    max-width:100%;
+    position: unset;
+}
+div#single-product-container div.center-img{
+    padding: 0;
+    height: auto;
+    margin-bottom: 12px;
 }
 .product-container .product-wrap  h3.name {
     margin-top: 12px!important;
