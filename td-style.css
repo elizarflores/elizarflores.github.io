@@ -3196,12 +3196,23 @@ button#customize{
 #qte-3 .quote-details table tr,
 #qte-3 .quote-details table tr td{
     border-radius: 0;
+    padding: 5px 20px;
 }
 #qte-3 .quote-details table tr:nth-child(odd){
     background-color:#ffff;
 }
 #qte-3 .quote-details table tr:nth-child(even){
     background-color: #F5F5F5;
+}
+#qte-3 .quote-details table tr:first-child td{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
 }
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
