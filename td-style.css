@@ -3192,11 +3192,14 @@ button#customize{
     max-width: 74%;
     flex-basis: 74%;
 }
-
+#qte-3 .quote-details{
+    padding: 0;
+}
 #qte-3 .quote-details table tr,
 #qte-3 .quote-details table tr td{
     border-radius: 0;
-    padding: 5px 20px;
+    padding: 8px 20px;
+    line-height: 1;
 }
 #qte-3 .quote-details table tr:nth-child(odd){
     background-color:#ffff;
