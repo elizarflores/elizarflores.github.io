@@ -3874,6 +3874,12 @@ button#customize{
         max-width: 520px;
         width: 520px;
     }
+    table.gray-tbl tr td:first-child{
+        width: 36%;
+    }
+    table.gray-tbl tr td{
+        padding: 5px 16px;
+    }
 
 }
 
