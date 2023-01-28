@@ -3192,6 +3192,12 @@ button#customize{
     max-width: 74%;
     flex-basis: 74%;
 }
+
+#qte-3 .quote-details table tr,
+#qte-3 .quote-details table tr td{
+    border-radius: 0;
+}
+
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
