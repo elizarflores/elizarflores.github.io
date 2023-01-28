@@ -3866,6 +3866,15 @@ button#customize{
     #heading-coverage .row .col-xs-8.lh-1-5{
         padding:12px;
     }
+
+    #qte-3 .quote-details{
+        overflow-x:scroll;
+    }
+    #qte-3 .quote-details table{
+        max-width: 520px;
+        width: 520px;
+    }
+
 }
 
 
