@@ -1894,7 +1894,7 @@ div.controls ul li:not(:last-child){
 #update,
 #cancel,
 #change_password.btn,
-#send_invitation{
+#send_invitation, .collection-btn{
     box-shadow: none!important;
     height: 42px;
     font-size: 14px;
