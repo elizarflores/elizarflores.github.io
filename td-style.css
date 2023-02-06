@@ -2969,7 +2969,7 @@ div.controls ul li:not(:last-child){
 .account_invite .container-fluid .invite-form textarea{
     height: 124px!important;
 }
-#send_invitation{
+#send_invitation, .collection-btn{
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
