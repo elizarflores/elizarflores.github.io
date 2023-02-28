@@ -3265,6 +3265,10 @@ button#customize{
     margin-top: 0px;
 }
 
+#tbl-coverage-calculator tr{
+    border-top:0!important ;
+}
+
 #tr-pc,
 #tr-over{
     border-bottom: 1px solid #cccccc;
@@ -3273,6 +3277,9 @@ button#customize{
 #tr-over td{
     padding-left: 0;
     padding-bottom: 0;
+}
+#tr-over td{
+    line-height: 1.2;
 }
 
 /* Medium Laptop Media Query */
