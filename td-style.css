@@ -2626,6 +2626,9 @@ div.controls ul li:not(:last-child){
     top: 24px;
     right:24px;
 }
+#general-modal .modal-footer{
+    display: none;
+}
 #info-modal .text-ccc,
 #general-modal .text-ccc{
     color: #000000;
