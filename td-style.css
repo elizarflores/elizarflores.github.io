@@ -3245,7 +3245,8 @@ button#customize{
 #tbl-coverage-calculator tr td .input-group .pcs-down{
     box-shadow: none;
 }
-#frm-coverage-calc .not-sqft[style="display: none;"] + .col-lg-4.padding-5 #calculate{
+#frm-coverage-calc .not-sqft[style="display: none;"] + .col-lg-4.padding-5 #calculate,
+#frm-coverage-calc .not-sqft:not([style="display: none;"]) + .col-lg-4.padding-5 #calculate{
     margin-top: 26px;
 }
 
