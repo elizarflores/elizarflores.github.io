@@ -3251,6 +3251,12 @@ button#customize{
     border-radius: 0;
     height: 34px;
 }
+#tbl-coverage-calculator tr td .form-control{
+    box-shadow: none;
+}
+#tbl-coverage-calculator tr td .form-control:focus{
+    border-color: #cccccc;
+}
 #frm-coverage-calc .not-sqft[style="display: none;"] + .col-lg-4.padding-5 #calculate,
 #frm-coverage-calc .not-sqft:not([style="display: none;"]) + .col-lg-4.padding-5 #calculate{
     margin-top: 26px;
