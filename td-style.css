@@ -3264,6 +3264,15 @@ button#customize{
 #frm-coverage-calc .not-sqft[style="display: block;"] + .col-lg-4.padding-5 #calculate{
     margin-top: 0px;
 }
+
+#tr-pc{
+    border-bottom: 1px solid #cccccc;
+}
+#tr-pc td{
+    padding-left: 0;
+    padding-bottom: 0;
+}
+
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
