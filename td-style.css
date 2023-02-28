@@ -763,14 +763,14 @@ div#main-content{
 .product__price-wrap p span:nth-child(2){
     font-family: 'Inter',sans-serif!important;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 14px;
     line-height: 15px;
     text-align: center;
     color: #000000;
 }
 .product__price-wrap p span:first-child{
-    font-weight: 400;
+    font-weight: 500;
 }
 .product__price-wrap p span:nth-child(2){
     padding: 0 4px;
