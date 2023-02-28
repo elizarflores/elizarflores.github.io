@@ -3249,7 +3249,9 @@ button#customize{
 #frm-coverage-calc .not-sqft:not([style="display: none;"]) + .col-lg-4.padding-5 #calculate{
     margin-top: 26px;
 }
-
+#frm-coverage-calc .not-sqft[style="display: block;"] + .col-lg-4.padding-5 #calculate{
+    margin-top: 0px;
+}
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
