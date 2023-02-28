@@ -754,6 +754,7 @@ div#main-content{
     text-transform: capitalize;
     display:inline-block;
     width: 100%;
+    letter-spacing: 0.095em;
 }
 .product__price-wrap{
     text-align: center;
