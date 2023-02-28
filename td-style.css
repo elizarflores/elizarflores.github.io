@@ -2941,7 +2941,7 @@ div.controls ul li:not(:last-child){
     margin-bottom: 20px;
 }
 #general-modal .modal-header{
-    display: none;
+    padding: 0;
 }
 #general-modal .modal-footer button{
     border-radius: 0;
