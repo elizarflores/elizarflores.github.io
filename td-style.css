@@ -2621,6 +2621,11 @@ div.controls ul li:not(:last-child){
 #general-modal .modal-header button.close{
     opacity: 1!important;
 }
+#general-modal .modal-header button.close{
+    position: absolute;
+    top: 24px;
+    right:24px;
+}
 #info-modal .text-ccc,
 #general-modal .text-ccc{
     color: #000000;
