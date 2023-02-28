@@ -3243,7 +3243,9 @@ button#customize{
     vertical-align: middle;
 }
 #tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .pcs-down,
-#tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .pcs-up{
+#tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .overage-down,
+#tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .pcs-up,
+#tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .overage-up{
     box-shadow: none;
     background: transparent;
     border-radius: 0;
