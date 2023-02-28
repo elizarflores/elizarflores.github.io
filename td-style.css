@@ -2625,6 +2625,7 @@ div.controls ul li:not(:last-child){
     position: absolute;
     top: 24px;
     right:24px;
+    cursor: pointer;
 }
 #general-modal .modal-footer{
     display: none;
