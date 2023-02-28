@@ -3265,10 +3265,12 @@ button#customize{
     margin-top: 0px;
 }
 
-#tr-pc{
+#tr-pc,
+#tr-over{
     border-bottom: 1px solid #cccccc;
 }
-#tr-pc td{
+#tr-pc td,
+#tr-over td{
     padding-left: 0;
     padding-bottom: 0;
 }
