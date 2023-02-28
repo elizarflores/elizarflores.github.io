@@ -3239,6 +3239,9 @@ button#customize{
     line-height: 14px;
     color: #000000;
 }
+#tbl-coverage-calculator tr td{
+    vertical-align: middle;
+}
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
