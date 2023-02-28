@@ -3242,7 +3242,7 @@ button#customize{
 #tbl-coverage-calculator tr td{
     vertical-align: middle;
 }
-#tbl-coverage-calculator tr td .input-group .pcs-down{
+#tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .pcs-down{
     box-shadow: none;
 }
 #frm-coverage-calc .not-sqft[style="display: none;"] + .col-lg-4.padding-5 #calculate,
