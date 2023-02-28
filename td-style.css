@@ -848,9 +848,12 @@ div#main-content{
     background-position-y: 50%;
     appearance: none;
     background-size: 14px;
-  }
+}
 .form-control:focus{
     box-shadow: none!important;
+}
+.thumbnail.bg-gray-i{
+    border: 0;
 }
 #all-filters .ea-filter, .all-filters .ea-filter{
     font-family: 'Inter',sans-serif!important;
