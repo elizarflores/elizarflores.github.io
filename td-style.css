@@ -3289,6 +3289,9 @@ button#customize{
     line-height: 15px;
     color: #000000;
 }
+#general-modal{
+    padding:80px;
+}
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
 
