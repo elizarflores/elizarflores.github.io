@@ -3293,7 +3293,7 @@ button#customize{
     padding:80px;
 }
 #general-modal .modal-body h3{
-    margin-top: 30px;
+    margin-top: 0px;
 }
 /* Medium Laptop Media Query */
 @media (min-width: 320px) and (max-width:575px) {
