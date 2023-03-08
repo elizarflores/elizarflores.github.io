@@ -3353,6 +3353,10 @@ button#customize{
     box-shadow: none;
 }
 
+#main-column .breadcrumb li::before{
+    padding:0 20px;
+}
+
 @media (min-width:1024px){
     #general-modal .modal-dialog{
         width:844px;
