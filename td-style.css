@@ -3296,6 +3296,9 @@ button#customize{
 #general-modal .modal-body h3{
     margin-top: 0px;
 }
+#general-modal .modal-body hr{
+    display:none;
+}
 @media (min-width:1024px){
     #general-modal .modal-dialog{
         width:844px;
