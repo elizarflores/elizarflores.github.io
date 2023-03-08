@@ -3316,6 +3316,14 @@ button#customize{
     margin-top: 0;
     margin-bottom: 10px;
 }
+#general-modal .modal-body p{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
 #general-modal .modal-body hr{
     display:none;
 }
