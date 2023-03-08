@@ -735,14 +735,15 @@ div#main-content{
     border:1px solid #212121!important;
 }
 
-.product-container .product-wrap  h3.name {
+.product-container .product-wrap h3.name {
     margin-top: 12px!important;
     margin-bottom: 6px!important;
     min-height: 90px;
     letter-spacing: 0.095em;
 }
-.product-container .product-wrap  h3.name a{
+.product-container .product-wrap h3.name a{
     color: #000;
+    letter-spacing: 0.095em;
 }
 .product-container .product-wrap  h3.name a span{
     font-family: 'Inter',sans-serif!important;
