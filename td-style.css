@@ -3248,7 +3248,7 @@ button#customize{
 #tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .pcs-up,
 #tbl-coverage-calculator tr td .input-group.bootstrap-touchspin .overage-up{
     box-shadow: none;
-    background: transparent;
+    background: #F5F5F5;
     border-radius: 0;
     height: 40px;
     width: 42px;
@@ -3280,8 +3280,11 @@ button#customize{
 }
 #tr-pc td,
 #tr-over td{
-    padding-left: 0;
     padding-bottom: 0;
+}
+#tr-pc td:first-child,
+#tr-over td:first-child{
+    padding-left: 0;
 }
 #tr-over td{
     line-height: 1.2;
