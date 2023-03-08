@@ -1255,6 +1255,7 @@ div#main-content{
 }
 .product-spec-detail .spec_details > tbody > tr > td{
     padding: 12px 24px;
+    vertical-align: top;
 }
 .product-spec-detail .spec_details > tbody > tr > td:first-child{
     width: 34.15%;
