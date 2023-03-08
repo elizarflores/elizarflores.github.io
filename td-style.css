@@ -3334,6 +3334,12 @@ button#customize{
 #general-modal .modal-body hr{
     display:none;
 }
+
+#btn-submit-shipping-form button{
+    border-radius: 0;
+    box-shadow: none;
+}
+
 @media (min-width:1024px){
     #general-modal .modal-dialog{
         width:844px;
