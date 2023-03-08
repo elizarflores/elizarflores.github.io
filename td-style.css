@@ -3291,7 +3291,7 @@ button#customize{
     color: #000000;
 }
 #general-modal .modal-body{
-    padding:80px;
+    padding:40px;
 }
 #general-modal .modal-body h3{
     margin-top: 0px;
@@ -3302,6 +3302,9 @@ button#customize{
 @media (min-width:1024px){
     #general-modal .modal-dialog{
         width:844px;
+    }
+    #general-modal .modal-body{
+        padding:40px;
     }
 }
 /* Medium Laptop Media Query */
@@ -3958,6 +3961,11 @@ button#customize{
     }
     table.gray-tbl tr td{
         padding: 5px 16px;
+    }
+
+    #customize_style .col-md-12 form > .row{
+        margin-left: 0;
+        margin-right: 0;
     }
 
 }
