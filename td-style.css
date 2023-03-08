@@ -1403,14 +1403,16 @@ div#main-content{
     box-shadow: none;
 }
 #coverage-calculator p.text-center label{
-    font-family: 'Inter',sans-serif!important;
+    font-family: 'Inter';
     font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 20px;
-    color: rgba(0, 0, 0, 0.5);
-    margin-bottom: 0;
-    margin-top: 6px;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 12px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
 }
 /* Extra overwrite CSS */
 #qty-calculator .col-lg-3.col-md-3.col-sm-5.col-xs-4,
