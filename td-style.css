@@ -3302,6 +3302,19 @@ button#customize{
     line-height: 30px;
     text-transform: capitalize;
     color: #000000;
+    margin-bottom: 48px;
+}
+#general-modal .modal-body h5{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 20px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 #general-modal .modal-body hr{
     display:none;
