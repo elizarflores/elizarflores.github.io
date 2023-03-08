@@ -3250,7 +3250,9 @@ button#customize{
     box-shadow: none;
     background: transparent;
     border-radius: 0;
-    height: 34px;
+    height: 40px;
+    width: 42px;
+    border-bottom: 0;
 }
 #tbl-coverage-calculator tr td .form-control{
     box-shadow: none;
