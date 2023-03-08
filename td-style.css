@@ -3256,6 +3256,8 @@ button#customize{
 }
 #tbl-coverage-calculator tr td .form-control{
     box-shadow: none;
+    height: 40px;
+    border-bottom: 0;
 }
 #tbl-coverage-calculator tr td .form-control:focus{
     border-color: #cccccc;
