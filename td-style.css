@@ -1402,6 +1402,9 @@ div#main-content{
     border: 1px solid #D9D9D9;
     box-shadow: none;
 }
+#coverage-calculator p.text-center{
+    text-align: left!important;
+}
 #coverage-calculator p.text-center label{
     font-family: 'Inter';
     font-style: normal;
