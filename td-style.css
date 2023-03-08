@@ -3295,14 +3295,14 @@ button#customize{
 }
 #general-modal .modal-body h3{
     margin-top: 0px;
-    font-family: 'Inter',sans-serif;
+    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 400;
     font-size: 28px;
     line-height: 30px;
     text-transform: capitalize;
     color: #000000;
-    margin-bottom: 48px;
+    margin-bottom: 48px!important;
 }
 #general-modal .modal-body h5{
     font-family: 'Inter',sans-serif!important;
