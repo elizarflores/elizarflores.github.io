@@ -1406,7 +1406,7 @@ div#main-content{
     text-align: left!important;
 }
 #coverage-calculator p.text-center label{
-    font-family: 'Inter';
+    font-family: 'Inter',sans-serif!important;
     font-style: normal;
     font-weight: 700;
     font-size: 9px;
@@ -1416,6 +1416,7 @@ div#main-content{
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #000000;
+    margin-bottom: 5px;
 }
 /* Extra overwrite CSS */
 #qty-calculator .col-lg-3.col-md-3.col-sm-5.col-xs-4,
@@ -3273,7 +3274,7 @@ button#customize{
 }
 #frm-coverage-calc .not-sqft[style="display: none;"] + .col-lg-4.padding-5 #calculate,
 #frm-coverage-calc .not-sqft:not([style="display: none;"]) + .col-lg-4.padding-5 #calculate{
-    margin-top: 26px;
+    margin-top: 16px;
 }
 #frm-coverage-calc .not-sqft[style="display: block;"] + .col-lg-4.padding-5 #calculate{
     margin-top: 0px;
