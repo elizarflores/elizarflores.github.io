@@ -1257,10 +1257,10 @@ div#main-content{
     padding: 12px 24px;
     vertical-align: top;
 }
-.product-spec-detail .spec_details > tbody > tr > td:first-child{
+.product-spec-detail .spec_details > tbody > tr:first-child > td{
     vertical-align:middle;
 }
-.product-spec-detail .spec_details > tbody > tr:first-child > td{
+.product-spec-detail .spec_details > tbody > tr > td{
     width: 34.15%;
 }
 .product-spec-detail .spec_details tbody tr td:nth-child(odd){
