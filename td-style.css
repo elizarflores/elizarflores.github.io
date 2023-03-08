@@ -1260,7 +1260,7 @@ div#main-content{
 .product-spec-detail .spec_details > tbody > tr > td:first-child{
     vertical-align:middle;
 }
-.product-spec-detail .spec_details > tbody > tr > td:first-child{
+.product-spec-detail .spec_details > tbody > tr:first-child > td{
     width: 34.15%;
 }
 .product-spec-detail .spec_details tbody tr td:nth-child(odd){
