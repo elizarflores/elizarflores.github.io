@@ -3354,7 +3354,7 @@ button#customize{
 }
 
 #main-column .breadcrumb li::before{
-    padding:0 20px;
+    padding:0 24px;
 }
 
 @media (min-width:1024px){
