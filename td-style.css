@@ -3295,6 +3295,13 @@ button#customize{
 }
 #general-modal .modal-body h3{
     margin-top: 0px;
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #000000;
 }
 #general-modal .modal-body hr{
     display:none;
